@@ -1,0 +1,877 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="4350" viewBox="0 0 1920 4350">
+  <defs>
+    <filter id="矩形_1821" x="1018" y="334.337" width="791" height="445" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2112" x="991.96" y="899.376" width="818.04" height="445" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2300" x="253.207" y="2267.538" width="1429.88" height="771.553" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_1850" x="1045" y="3258.188" width="498" height="337" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2346" x="1025.811" y="3649.188" width="498" height="337" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2349" x="249.74" y="3649.188" width="498" height="337" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="联合_4" x="1021" y="693.337" width="785" height="80" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="联合_11" x="994.959" y="1258.376" width="811.041" height="80" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="联合_13" x="256.207" y="2901.087" width="1422.115" height="132.004" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="矩形_2047" data-name="矩形 2047" width="17" height="17" transform="translate(-0.133 -0.08)" fill="#707070" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="矩形_2049" data-name="矩形 2049" width="17" height="17" transform="translate(-0.09 0.24)" fill="#707070" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-Model">
+      <rect width="1920" height="4350"/>
+    </clipPath>
+  </defs>
+  <g id="Model" clip-path="url(#clip-Model)">
+    <rect width="1920" height="4350" fill="#fff"/>
+    <rect id="矩形_1834" data-name="矩形 1834" width="141" height="20" transform="translate(121.001 244.159)" fill="#ffefc9"/>
+    <rect id="矩形_2272" data-name="矩形 2272" width="141" height="20" transform="translate(121.001 781.563)" fill="#ffefc9"/>
+    <rect id="矩形_1838" data-name="矩形 1838" width="156" height="20" transform="translate(120.999 280.829)" fill="#e7f7e4"/>
+    <rect id="矩形_1839" data-name="矩形 1839" width="53" height="20" transform="translate(120.999 310.337)" fill="#dee2e6"/>
+    <rect id="矩形_1789" data-name="矩形 1789" width="798" height="476" transform="translate(1014 317.337)" fill="#adacbc" opacity="0.49"/>
+    <rect id="矩形_2111" data-name="矩形 2111" width="825.04" height="476" transform="translate(986.96 887.376)" fill="#adacbc" opacity="0.49"/>
+    <rect id="矩形_2299" data-name="矩形 2299" width="1455.999" height="840.027" transform="translate(237.5 2241.772)" fill="#adacbc" opacity="0.49"/>
+    <rect id="矩形_2110" data-name="矩形 2110" width="1037" height="628" transform="translate(774 1447.644)" fill="#adacbc" opacity="0.49"/>
+    <rect id="矩形_1856" data-name="矩形 1856" width="521.24" height="362" transform="translate(1033.189 3239)" fill="#adacbc" opacity="0.49"/>
+    <rect id="矩形_2347" data-name="矩形 2347" width="521.24" height="362" transform="translate(1014 3630)" fill="#adacbc" opacity="0.49"/>
+    <rect id="矩形_2348" data-name="矩形 2348" width="521.24" height="362" transform="translate(237.5 3630)" fill="#adacbc" opacity="0.49"/>
+    <rect id="矩形_1788" data-name="矩形 1788" width="1920" height="200" fill="#ffefe6" opacity="0.8"/>
+    <text id="Model-2" data-name="Model" transform="translate(106 131)" fill="#45494d" font-size="75" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Model</tspan></text>
+    <g id="矩形_1735" data-name="矩形 1735" transform="translate(110 343.337)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="793" height="424" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="792" height="423" rx="17.5" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_1821)">
+      <rect id="矩形_1821-2" data-name="矩形 1821" width="773" height="427" rx="18" transform="translate(1027 340.34)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_2112)">
+      <rect id="矩形_2112-2" data-name="矩形 2112" width="800.04" height="427" rx="18" transform="translate(1000.96 905.38)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_2300)">
+      <rect id="矩形_2300-2" data-name="矩形 2300" width="1411.88" height="753.553" rx="18" transform="translate(262.21 2273.54)" fill="#fff"/>
+    </g>
+    <g id="矩形_1849" data-name="矩形 1849" transform="translate(265.641 3260.5)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="480" height="319" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="318" rx="17.5" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_1850)">
+      <rect id="矩形_1850-2" data-name="矩形 1850" width="480" height="319" rx="18" transform="translate(1054 3264.19)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_2346)">
+      <rect id="矩形_2346-2" data-name="矩形 2346" width="480" height="319" rx="18" transform="translate(1034.81 3655.19)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_2349)">
+      <rect id="矩形_2349-2" data-name="矩形 2349" width="480" height="319" rx="18" transform="translate(258.74 3655.19)" fill="#fff"/>
+    </g>
+    <g id="联合_1" data-name="联合 1" transform="translate(110 343.337)" fill="none">
+      <path d="M0,53V15A15,15,0,0,1,15,0H778a15,15,0,0,1,15,15V53Z" stroke="none"/>
+      <path d="M 792 52.00015258789062 L 792 15.00025177001953 C 792 11.26055145263672 790.5438842773438 7.744751453399658 787.8998413085938 5.100551605224609 C 785.2557983398438 2.456251382827759 781.7401733398438 1.000051498413086 778.0005493164062 1.000051498413086 L 15.00026988983154 1.000051498413086 C 11.26056957244873 1.000051498413086 7.744869709014893 2.456351518630981 5.100569248199463 5.100551605224609 C 2.456269502639771 7.744851589202881 0.999969482421875 11.26065158843994 0.999969482421875 15.00025177001953 L 0.999969482421875 52.00015258789062 L 792 52.00015258789062 M 793 53.00015258789062 L -3.0517578125e-05 53.00015258789062 L -3.0517578125e-05 15.00025177001953 C -3.0517578125e-05 6.715751647949219 6.715769290924072 5.14984130859375e-05 15.00026988983154 5.14984130859375e-05 L 778.0005493164062 5.14984130859375e-05 C 786.2850952148438 5.14984130859375e-05 793 6.715751647949219 793 15.00025177001953 L 793 53.00015258789062 Z" stroke="none" fill="#707070"/>
+    </g>
+    <path id="联合_3" data-name="联合 3" d="M0,52V15A15,15,0,0,1,15,0H758a15,15,0,0,1,15,15V52Z" transform="translate(1027 340.337)" fill="#eaf5fb"/>
+    <path id="联合_10" data-name="联合 10" d="M0,52V15A15,15,0,0,1,15,0H785.04a15,15,0,0,1,15,15V52Z" transform="translate(1000.96 905.376)" fill="#eaf5fb"/>
+    <path id="联合_12" data-name="联合 12" d="M0,91.768V15A15,15,0,0,1,15,0H1396.881a15,15,0,0,1,15,15V91.768Z" transform="translate(262.207 2273.538)" fill="#eaf5fb"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#联合_4)">
+      <path id="联合_4-2" data-name="联合 4" d="M0,68V15A15,15,0,0,1,15,0H758a15,15,0,0,1,15,15V68Z" transform="translate(1800 767.34) rotate(180)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#联合_11)">
+      <path id="联合_11-2" data-name="联合 11" d="M0,68V15A15,15,0,0,1,15,0H784.04a15,15,0,0,1,15,15V68Z" transform="translate(1800 1332.38) rotate(180)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#联合_13)">
+      <path id="联合_13-2" data-name="联合 13" d="M0,120V15A15,15,0,0,1,15,0H1395.116a15,15,0,0,1,15,15V120Z" transform="translate(1672.32 3027.09) rotate(180)" fill="#fff"/>
+    </g>
+    <text id="Title" transform="translate(131 377.337)" fill="#676a6c" font-size="23" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Title</tspan></text>
+    <text id="TitleTitleTitleTitle" transform="translate(409.641 3437.59)" fill="#676a6c" font-size="23" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">TitleTitleTitleTitle</tspan></text>
+    <text id="驗證信已發送" transform="translate(1227 3439.707)" fill="#676a6c" font-size="23" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">驗證信已發送</tspan></text>
+    <text id="是否刪除此筆資料" transform="translate(1182.811 3846.277)" fill="#676a6c" font-size="23" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">是否刪除此筆資料</tspan></text>
+    <text id="此帳戶不存在" transform="translate(429.74 3832.277)" fill="#676a6c" font-size="23" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">此帳戶不存在</tspan></text>
+    <text id="texttexttexttexttexttexttexttexttext" transform="translate(333.641 3473.589)" fill="#676a6c" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">texttexttexttexttexttexttexttexttext</tspan></text>
+    <text id="信件已發送至an_請至信件_查看驗證碼_完成驗證" data-name="信件已發送至an********，請至信件
+查看驗證碼，完成驗證" transform="translate(1294 3497.946)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-154.106" y="0">信件已發送至</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">an********</tspan><tspan y="0">，請至信件</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-100" y="27">查</tspan><tspan y="27" font-family="YuGothicUI-Regular, Yu Gothic UI">看驗證碼，完成驗證</tspan></tspan></text>
+    <text id="信件已發送至an_請至信件_查看驗證碼_完成驗證-2" data-name="信件已發送至an********，請至信件
+查看驗證碼，完成驗證" transform="translate(498.74 3901.517)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-154.106" y="0">信件已發送至</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">an********</tspan><tspan y="0">，請至信件</tspan><tspan y="0" font-family="SegoeUI, Segoe UI"></tspan><tspan font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-100" y="27">查</tspan><tspan y="27" font-family="YuGothicUI-Regular, Yu Gothic UI">看驗證碼，完成驗證</tspan></tspan></text>
+    <text id="Title_font-size_18px_" data-name="Title  font-size：18px；" transform="translate(126.93 326.337)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Title  </tspan><tspan y="0" font-family="SegoeUI, Segoe UI" font-weight="400">font-size</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI" font-weight="400">：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI" font-weight="400">18px</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI" font-weight="400">；</tspan></text>
+    <text id="Title-2" data-name="Title" transform="translate(1048 376.337)" fill="#006cd0" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Title</tspan></text>
+    <text id="新增仲介公司基本設定" transform="translate(1014 940.348)" fill="#02b2e1" font-size="17" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">新增仲介公司基本設定</tspan></text>
+    <text id="新增仲介公司基本設定-2" data-name="新增仲介公司基本設定" transform="translate(285.219 2333.489)" fill="#006cd0" font-size="28" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">新增仲介公司基本設定</tspan></text>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(863 358.337)">
+      <g id="invisible_box" data-name="invisible box" transform="translate(0.001 0)">
+        <rect id="矩形_548" data-name="矩形 548" width="24" height="24" transform="translate(-0.001 0)" fill="none"/>
+      </g>
+      <g id="icons_Q2" data-name="icons Q2" transform="translate(4.557 4.931)">
+        <path id="路径_213" data-name="路径 213" d="M18.319,16.911l5.248-5.2a1.04,1.04,0,0,0,.1-1.337.941.941,0,0,0-1.485-.1l-5.248,5.248-5.248-5.248a.941.941,0,0,0-1.485.1,1.04,1.04,0,0,0,.1,1.337l5.248,5.2L10.3,22.11a1.04,1.04,0,0,0-.1,1.337.941.941,0,0,0,1.485.1L16.932,18.3l5.248,5.248a.941.941,0,0,0,1.485-.1,1.04,1.04,0,0,0-.1-1.337Z" transform="translate(-10.001 -9.959)" fill="#adacbc"/>
+      </g>
+    </g>
+    <g id="Layer_2-2" data-name="Layer 2" transform="translate(707.641 3271.5)">
+      <g id="invisible_box-2" data-name="invisible box" transform="translate(0.001 0)">
+        <rect id="矩形_548-2" data-name="矩形 548" width="24" height="24" transform="translate(-0.001 0)" fill="none"/>
+      </g>
+      <g id="icons_Q2-2" data-name="icons Q2" transform="translate(4.557 4.931)">
+        <path id="路径_213-2" data-name="路径 213" d="M18.319,16.911l5.248-5.2a1.04,1.04,0,0,0,.1-1.337.941.941,0,0,0-1.485-.1l-5.248,5.248-5.248-5.248a.941.941,0,0,0-1.485.1,1.04,1.04,0,0,0,.1,1.337l5.248,5.2L10.3,22.11a1.04,1.04,0,0,0-.1,1.337.941.941,0,0,0,1.485.1L16.932,18.3l5.248,5.248a.941.941,0,0,0,1.485-.1,1.04,1.04,0,0,0-.1-1.337Z" transform="translate(-10.001 -9.959)" fill="#adacbc"/>
+      </g>
+    </g>
+    <g id="Layer_2-3" data-name="Layer 2" transform="translate(1490.81 3202.747)">
+      <g id="invisible_box-3" data-name="invisible box" transform="translate(0.001 0)">
+        <rect id="矩形_548-3" data-name="矩形 548" width="24" height="24" transform="translate(-0.001 0)" fill="none"/>
+      </g>
+      <g id="icons_Q2-3" data-name="icons Q2" transform="translate(4.557 4.931)">
+        <path id="路径_213-3" data-name="路径 213" d="M18.319,16.911l5.248-5.2a1.04,1.04,0,0,0,.1-1.337.941.941,0,0,0-1.485-.1l-5.248,5.248-5.248-5.248a.941.941,0,0,0-1.485.1,1.04,1.04,0,0,0,.1,1.337l5.248,5.2L10.3,22.11a1.04,1.04,0,0,0-.1,1.337.941.941,0,0,0,1.485.1L16.932,18.3l5.248,5.248a.941.941,0,0,0,1.485-.1,1.04,1.04,0,0,0-.1-1.337Z" transform="translate(-10.001 -9.959)" fill="#adacbc"/>
+      </g>
+    </g>
+    <g id="Layer_2-4" data-name="Layer 2" transform="translate(1483.191 3667.747)">
+      <g id="invisible_box-4" data-name="invisible box" transform="translate(0.001 0)">
+        <rect id="矩形_548-4" data-name="矩形 548" width="24" height="24" transform="translate(-0.001 0)" fill="none"/>
+      </g>
+      <g id="icons_Q2-4" data-name="icons Q2" transform="translate(4.557 4.931)">
+        <path id="路径_213-4" data-name="路径 213" d="M18.319,16.911l5.248-5.2a1.04,1.04,0,0,0,.1-1.337.941.941,0,0,0-1.485-.1l-5.248,5.248-5.248-5.248a.941.941,0,0,0-1.485.1,1.04,1.04,0,0,0,.1,1.337l5.248,5.2L10.3,22.11a1.04,1.04,0,0,0-.1,1.337.941.941,0,0,0,1.485.1L16.932,18.3l5.248,5.248a.941.941,0,0,0,1.485-.1,1.04,1.04,0,0,0-.1-1.337Z" transform="translate(-10.001 -9.959)" fill="#adacbc"/>
+      </g>
+    </g>
+    <g id="Layer_2-5" data-name="Layer 2" transform="translate(1765 356.337)">
+      <g id="invisible_box-5" data-name="invisible box" transform="translate(0.001 0)">
+        <rect id="矩形_548-5" data-name="矩形 548" width="23" height="23" transform="translate(-0.001 0)" fill="none"/>
+      </g>
+      <g id="icons_Q2-5" data-name="icons Q2" transform="translate(4.442 4.806)">
+        <path id="路径_213-5" data-name="路径 213" d="M18.109,16.736l5.116-5.068a1.014,1.014,0,0,0,.1-1.3.917.917,0,0,0-1.448-.1l-5.116,5.116-5.116-5.116a.917.917,0,0,0-1.448.1,1.014,1.014,0,0,0,.1,1.3l5.116,5.068L10.29,21.8a1.014,1.014,0,0,0-.1,1.3.917.917,0,0,0,1.448.1l5.116-5.116L21.874,23.2a.917.917,0,0,0,1.448-.1,1.014,1.014,0,0,0-.1-1.3Z" transform="translate(-10.001 -9.959)" fill="#adacbc"/>
+      </g>
+    </g>
+    <g id="Layer_2-6" data-name="Layer 2" transform="translate(1766 921.376)">
+      <g id="invisible_box-6" data-name="invisible box" transform="translate(0.001 0)">
+        <rect id="矩形_548-6" data-name="矩形 548" width="23" height="23" transform="translate(-0.001 0)" fill="none"/>
+      </g>
+      <g id="icons_Q2-6" data-name="icons Q2" transform="translate(4.442 4.806)">
+        <path id="路径_213-6" data-name="路径 213" d="M18.109,16.736l5.116-5.068a1.014,1.014,0,0,0,.1-1.3.917.917,0,0,0-1.448-.1l-5.116,5.116-5.116-5.116a.917.917,0,0,0-1.448.1,1.014,1.014,0,0,0,.1,1.3l5.116,5.068L10.29,21.8a1.014,1.014,0,0,0-.1,1.3.917.917,0,0,0,1.448.1l5.116-5.116L21.874,23.2a.917.917,0,0,0,1.448-.1,1.014,1.014,0,0,0-.1-1.3Z" transform="translate(-10.001 -9.959)" fill="#adacbc"/>
+      </g>
+    </g>
+    <line id="直线_393" data-name="直线 393" x2="789.837" transform="translate(112.372 395.159)" fill="none" stroke="#dee2e6" stroke-width="1"/>
+    <line id="直线_458" data-name="直线 458" x2="769.917" transform="translate(1029.313 391.309)" fill="none" stroke="#dee2e6" stroke-width="1"/>
+    <line id="直线_596" data-name="直线 596" x2="769.917" transform="translate(1030.313 956.348)" fill="none" stroke="#dee2e6" stroke-width="1"/>
+    <line id="直线_665" data-name="直线 665" x2="1358.72" transform="translate(314.009 2363.491)" fill="none" stroke="#dee2e6" stroke-width="1"/>
+    <g id="按鈕" transform="translate(515.266 713.918)">
+      <g id="矩形_2" data-name="矩形 2" transform="translate(-0.001 0)" fill="none" stroke="#707070" stroke-width="1">
+        <rect width="118.028" height="34.425" rx="7" stroke="none"/>
+        <rect x="0.5" y="0.5" width="117.028" height="33.425" rx="6.5" fill="none"/>
+      </g>
+      <text id="確認" transform="translate(42.943 23.552)" fill="#676a6c" font-size="16" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">確認</tspan></text>
+    </g>
+    <g id="按鈕-2" data-name="按鈕" transform="translate(1428.894 720.528)">
+      <rect id="矩形_2-2" data-name="矩形 2" width="115.051" height="33.557" rx="7" transform="translate(0 0)" fill="#02b2e1"/>
+      <text id="確認-2" data-name="確認" transform="translate(43.957 21.809)" fill="#fff" font-size="14" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">確認</tspan></text>
+    </g>
+    <g id="按鈕-3" data-name="按鈕" transform="translate(1429.894 1285.568)">
+      <rect id="矩形_2-3" data-name="矩形 2" width="115.051" height="33.557" rx="7" transform="translate(0 0)" fill="#02b2e1"/>
+      <text id="確認-3" data-name="確認" transform="translate(43.957 21.809)" fill="#fff" font-size="14" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">確認</tspan></text>
+    </g>
+    <g id="按鈕-4" data-name="按鈕" transform="translate(1019.173 2944.486)">
+      <rect id="矩形_2-4" data-name="矩形 2" width="203.038" height="59.219" rx="7" transform="translate(0 0)" fill="#02b2e1"/>
+      <text id="確認-4" data-name="確認" transform="translate(77.574 37.015)" fill="#fff" font-size="23" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">確認</tspan></text>
+    </g>
+    <g id="组_2857" data-name="组 2857" transform="translate(377.989 715.061)">
+      <g id="按鈕-5" data-name="按鈕" transform="translate(-0.001 0)">
+        <g id="矩形_2-5" data-name="矩形 2" fill="none" stroke="#707070" stroke-width="1">
+          <rect width="119.371" height="34.817" rx="7" stroke="none"/>
+          <rect x="0.5" y="0.5" width="118.371" height="33.817" rx="6.5" fill="none"/>
+        </g>
+      </g>
+      <g id="组_2806" data-name="组 2806" transform="translate(43.685 6.908)">
+        <text id="取消" transform="translate(0 17)" fill="#707070" font-size="16" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">取消</tspan></text>
+      </g>
+    </g>
+    <g id="组_2936" data-name="组 2936" transform="translate(-85.119 -5202.931)">
+      <g id="按鈕-6" data-name="按鈕" transform="translate(603.453 8703.256)">
+        <g id="矩形_2-6" data-name="矩形 2" transform="translate(-0.001 0)" fill="none" stroke="#707070" stroke-width="1">
+          <rect width="118.028" height="34.425" rx="7" stroke="none"/>
+          <rect x="0.5" y="0.5" width="117.028" height="33.425" rx="6.5" fill="none"/>
+        </g>
+        <text id="確認-5" data-name="確認" transform="translate(42.943 23.552)" fill="#676a6c" font-size="16" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">確認</tspan></text>
+      </g>
+      <g id="组_2935" data-name="组 2935" transform="translate(468.176 8703.061)">
+        <g id="按鈕-7" data-name="按鈕" transform="translate(-0.001 0)">
+          <g id="矩形_2-7" data-name="矩形 2" fill="none" stroke="#707070" stroke-width="1">
+            <rect width="119.371" height="34.817" rx="7" stroke="none"/>
+            <rect x="0.5" y="0.5" width="118.371" height="33.817" rx="6.5" fill="none"/>
+          </g>
+        </g>
+        <g id="组_2806-2" data-name="组 2806" transform="translate(43.685 6.908)">
+          <text id="取消-2" data-name="取消" transform="translate(0 17)" fill="#707070" font-size="16" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">取消</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="组_2937" data-name="组 2937" transform="translate(888.016 -5567.149)">
+      <g id="按鈕-8" data-name="按鈕" transform="translate(473.453 8702.188)">
+        <rect id="矩形_2-8" data-name="矩形 2" width="118.028" height="34.425" rx="7" transform="translate(-0.001 0)" fill="#75cc68"/>
+        <text id="確認-6" data-name="確認" transform="translate(42.943 23.552)" fill="#fff" font-size="16" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">確認</tspan></text>
+      </g>
+      <g id="组_2935-2" data-name="组 2935" transform="translate(339.176 8702.188)">
+        <g id="按鈕-9" data-name="按鈕" transform="translate(-0.001 0)">
+          <g id="矩形_2-9" data-name="矩形 2" fill="none" stroke="#75cc68" stroke-width="1">
+            <rect width="119.371" height="34.817" rx="7" stroke="none"/>
+            <rect x="0.5" y="0.5" width="118.371" height="33.817" rx="6.5" fill="none"/>
+          </g>
+        </g>
+        <g id="组_2806-3" data-name="组 2806" transform="translate(43.685 6.908)">
+          <text id="取消-3" data-name="取消" transform="translate(0 17)" fill="#75cc68" font-size="16" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">取消</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="组_3200" data-name="组 3200" transform="translate(812.548 -4791.149)">
+      <g id="按鈕-10" data-name="按鈕" transform="translate(473.453 8702.188)">
+        <rect id="矩形_2-10" data-name="矩形 2" width="118.028" height="34.425" rx="7" transform="translate(-0.001 0)" fill="#fa6767"/>
+        <text id="確認-7" data-name="確認" transform="translate(42.943 23.552)" fill="#fff" font-size="16" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">確認</tspan></text>
+      </g>
+      <g id="组_2935-3" data-name="组 2935" transform="translate(339.176 8702.188)">
+        <g id="按鈕-11" data-name="按鈕" transform="translate(-0.001 0)">
+          <g id="矩形_2-11" data-name="矩形 2" fill="none" stroke="#f14c41" stroke-width="1">
+            <rect width="119.371" height="34.817" rx="7" stroke="none"/>
+            <rect x="0.5" y="0.5" width="118.371" height="33.817" rx="6.5" fill="none"/>
+          </g>
+        </g>
+        <g id="组_2806-4" data-name="组 2806" transform="translate(43.685 6.908)">
+          <text id="取消-4" data-name="取消" transform="translate(0 17)" fill="#fa6767" font-size="16" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">取消</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="组_2926" data-name="组 2926" transform="translate(1294.625 720.528)">
+      <g id="按鈕-12" data-name="按鈕" transform="translate(0.001 0)">
+        <rect id="矩形_2-12" data-name="矩形 2" width="116.361" height="33.939" rx="7" fill="#eaf5fb"/>
+      </g>
+      <g id="组_2806-5" data-name="组 2806" transform="translate(47.825 8.861)">
+        <text id="取消-5" data-name="取消" transform="translate(-2.703 13.948)" fill="#707070" font-size="13" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">取消</tspan></text>
+      </g>
+    </g>
+    <g id="组_3072" data-name="组 3072" transform="translate(1295.625 1285.568)">
+      <g id="按鈕-13" data-name="按鈕" transform="translate(0.001 0)">
+        <rect id="矩形_2-13" data-name="矩形 2" width="116.361" height="33.939" rx="7" fill="#eaf5fb"/>
+      </g>
+      <g id="组_2806-6" data-name="组 2806" transform="translate(47.825 8.861)">
+        <text id="取消-6" data-name="取消" transform="translate(-2.703 13.948)" fill="#707070" font-size="13" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">取消</tspan></text>
+      </g>
+    </g>
+    <g id="组_3186" data-name="组 3186" transform="translate(782.221 2944.486)">
+      <g id="按鈕-14" data-name="按鈕" transform="translate(0 0)">
+        <rect id="矩形_2-14" data-name="矩形 2" width="205.349" height="59.893" rx="7" fill="#eaf5fb"/>
+      </g>
+      <g id="组_2806-7" data-name="组 2806" transform="translate(79.628 15.545)">
+        <text id="取消-7" data-name="取消" transform="translate(0 23)" fill="#707070" font-size="21" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">取消</tspan></text>
+      </g>
+    </g>
+    <g id="组_2927" data-name="组 2927" transform="translate(99.38 246.329)">
+      <text id="padding:_1rem" data-name="padding: 1rem" transform="translate(26.62 16)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding: 1rem</tspan></text>
+    </g>
+    <g id="组_3167" data-name="组 3167" transform="translate(99.38 783.732)">
+      <text id="padding:_10px_" data-name="padding: 10px;" transform="translate(26.62 16)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding: 10px;</tspan></text>
+    </g>
+    <g id="组_2932" data-name="组 2932" transform="translate(99.38 279.329)">
+      <text id="padding:_20px_" data-name="padding: 20px;" transform="translate(26.62 16)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding: 20px;</tspan></text>
+    </g>
+    <text id="大Model" transform="translate(109.93 1436)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">大</tspan><tspan y="0" font-family="SegoeUI-Bold, Segoe UI">Model</tspan></text>
+    <text id="小Model" transform="translate(110 873)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">小</tspan><tspan y="0" font-family="SegoeUI-Bold, Segoe UI">Model</tspan></text>
+    <text id="小Model範例" transform="translate(987 873)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">小</tspan><tspan y="0" font-family="SegoeUI-Bold, Segoe UI">Model</tspan><tspan y="0">範例</tspan></text>
+    <text id="Model_Form_" data-name="Model Form " transform="translate(237.571 2213.577)" fill="#676a6c" font-size="33" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Model Form </tspan></text>
+    <text id="大Model範例" transform="translate(774 1436)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">大</tspan><tspan y="0" font-family="SegoeUI-Bold, Segoe UI">Model</tspan><tspan y="0">範例</tspan></text>
+    <text id="寬度_高度_width_80vw_height_85vh_" data-name="寬度＊高度：width：80vw；height：85vh；" transform="translate(109.93 1491.049)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">寬度＊高度：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">width</tspan><tspan y="0">：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">80vw</tspan><tspan y="0">；</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">height</tspan><tspan y="0">：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">85vh</tspan><tspan y="0">；</tspan></text>
+    <text id="欄位_11個欄位以上_包含11_" data-name="欄位：11個欄位以上(包含11)" transform="translate(110 1529.871)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">欄位：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">11</tspan><tspan y="0">個欄位以上</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">(</tspan><tspan y="0">包含</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">11)</tspan></text>
+    <text id="欄位_10個欄位以下_包含10_" data-name="欄位：10個欄位以下(包含10)" transform="translate(110 951)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">欄位：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">10</tspan><tspan y="0">個欄位以下</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">(</tspan><tspan y="0">包含</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">10)</tspan></text>
+    <text id="排法_1列2欄" data-name="排法：1列2欄" transform="translate(110 993)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">排法：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">1</tspan><tspan y="0">列</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">2</tspan><tspan y="0">欄</tspan></text>
+    <text id="排法_1列4欄" data-name="排法：1列4欄" transform="translate(110 1568.693)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">排法：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">1</tspan><tspan y="0">列</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">4</tspan><tspan y="0">欄</tspan></text>
+    <text id="寬度_高度_max-width_800px_height_85vh_" data-name="寬度＊高度：max-width：800px；height：85vh；" transform="translate(110 912)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">寬度＊高度：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">max-width</tspan><tspan y="0">：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">800px</tspan><tspan y="0">；</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">height</tspan><tspan y="0">：</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">85vh</tspan><tspan y="0">；</tspan></text>
+    <line id="直线_459" data-name="直线 459" x2="791.5" transform="translate(110 699.148)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_461" data-name="直线 461" y2="55" transform="translate(885.281 340.159)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <g id="组_2984" data-name="组 2984" transform="translate(0 -8206.012)">
+      <path id="路径_286" data-name="路径 286" d="M0,0H33V792.211H0Z" transform="translate(110 8904.209) rotate(-90)" fill="#caedc5" opacity="0.46"/>
+      <path id="路径_287" data-name="路径 287" d="M0,0H33V792.211H0Z" transform="translate(110 8634.633) rotate(-90)" fill="#caedc5" opacity="0.46"/>
+      <path id="路径_289" data-name="路径 289" d="M0,0H33V236.576H0Z" transform="translate(871 8634.633)" fill="#caedc5" opacity="0.46"/>
+      <path id="路径_324" data-name="路径 324" d="M0,0H33V236.576H0Z" transform="translate(110 8634.633)" fill="#caedc5" opacity="0.46"/>
+    </g>
+    <g id="组_2985" data-name="组 2985" transform="translate(0 -8206.012)">
+      <path id="路径_284" data-name="路径 284" d="M0,0H13.77V792.211H0Z" transform="translate(110 8919.65) rotate(-90)" fill="#ffdc89" opacity="0.46"/>
+      <path id="路径_283" data-name="路径 283" d="M14.949,0H16.61V790.281H14.949C6.693,790.281,0,786.262,0,781.3V8.978C0,4.02,6.693,0,14.949,0Z" transform="translate(110.93 8971.922) rotate(-90)" fill="#ffdc89" opacity="0.46"/>
+      <rect id="矩形_1835" data-name="矩形 1835" width="15.93" height="52.5" transform="translate(901.211 8961.26) rotate(180)" fill="#ffefc9" opacity="0.46"/>
+      <rect id="矩形_1990" data-name="矩形 1990" width="15.93" height="52.5" transform="translate(125.93 8958.611) rotate(180)" fill="#ffefc9" opacity="0.46"/>
+    </g>
+    <text id="tab1" transform="translate(1125.811 453.337)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab1</tspan></text>
+    <text id="tab3" transform="translate(1465.811 453.337)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab3</tspan></text>
+    <text id="tab4" transform="translate(1633.811 453.337)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab4</tspan></text>
+    <text id="tab2" transform="translate(1293.811 453.337)" fill="#02b2e1" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">tab2</tspan></text>
+    <line id="直线_468" data-name="直线 468" x2="703.189" transform="translate(1062.311 472.837)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_469" data-name="直线 469" x2="169.5" transform="translate(1232.311 472.837)" fill="none" stroke="#02b2e1" stroke-width="3"/>
+    <rect id="矩形_1840" data-name="矩形 1840" width="115.215" height="33.81" rx="7" transform="translate(1062.311 500.482)" fill="#f0f6fb"/>
+    <text id="新增" transform="translate(1115.278 522.452)" fill="#006cd0" font-size="15" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">新增</tspan></text>
+    <g id="Layer_2-7" data-name="Layer 2" transform="translate(1084.419 506.521)">
+      <g id="invisible_box-7" data-name="invisible box" transform="translate(0 0)">
+        <rect id="矩形_1841" data-name="矩形 1841" width="23.2" height="23.2" fill="none"/>
+      </g>
+      <g id="icons_Q2-7" data-name="icons Q2" transform="translate(3.28 3.28)">
+        <path id="路径_290" data-name="路径 290" d="M22.662,14.342H16.3V7.979a.979.979,0,1,0-1.958,0v6.363H7.979a.979.979,0,1,0,0,1.958h6.363v6.363a.979.979,0,0,0,1.958,0V16.3h6.363a.979.979,0,0,0,0-1.958Z" transform="translate(-7 -7)" fill="#006cd0"/>
+      </g>
+    </g>
+    <path id="路径_291" data-name="路径 291" d="M.9,14.763S-4.1,3.177,9.436,0" transform="translate(905.999 336.937) rotate(101)" fill="none" stroke="#676a6c" stroke-width="3"/>
+    <text id="border-radius_0.5rem" data-name="border-radius：0.5rem" transform="translate(704 322.829)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">border-radius</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">0.5rem</tspan></text>
+    <rect id="矩形_1842" data-name="矩形 1842" width="703" height="32" transform="translate(1062 553.337)" fill="#dee2e6"/>
+    <g id="矩形_1843" data-name="矩形 1843" transform="translate(1062 585.337)" fill="none" stroke="#adacbc" stroke-width="1">
+      <rect width="703" height="37" stroke="none"/>
+      <rect x="0.5" y="0.5" width="702" height="36" fill="none"/>
+    </g>
+    <text id="title1" transform="translate(1081.001 576.337)" fill="#676a6c" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">title1</tspan></text>
+    <text id="title2" transform="translate(1394.594 576.337)" fill="#676a6c" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">title2</tspan></text>
+    <line id="直线_470" data-name="直线 470" y2="67" transform="translate(1664.5 555.837)" fill="none" stroke="#adacbc" stroke-width="1"/>
+    <g id="Layer_2-8" data-name="Layer 2" transform="translate(1722.37 593.837)">
+      <g id="invisible_box-8" data-name="invisible box" transform="translate(-0.37 0)">
+        <rect id="矩形_1844" data-name="矩形 1844" width="20" height="20" fill="none"/>
+      </g>
+      <g id="icons_Q2-8" data-name="icons Q2" transform="translate(1.98 1.732)">
+        <path id="路径_292" data-name="路径 292" d="M20.375,10.771a8.743,8.743,0,0,1-6.634,8.519,8.515,8.515,0,0,1-9.624-4.646.811.811,0,0,1,.195-1.038.765.765,0,0,1,.649-.142.783.783,0,0,1,.521.421A6.929,6.929,0,0,0,11.8,17.959a7.052,7.052,0,0,0,6.817-5.452,7.251,7.251,0,0,0-3.527-8.088A6.9,6.9,0,0,0,6.573,5.979H8.639a.824.824,0,0,1,.819.679.812.812,0,0,1-.183.644.772.772,0,0,1-.6.275H4.78a.789.789,0,0,1-.78-.8V2.825a.834.834,0,0,1,.663-.839.767.767,0,0,1,.629.187.807.807,0,0,1,.268.612V4.742a8.436,8.436,0,0,1,9.406-2.134,8.785,8.785,0,0,1,5.41,8.164Z" transform="translate(-4 -1.977)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="Layer_2-9" data-name="Layer 2" transform="translate(1682.63 593.837)">
+      <g id="invisible_box-9" data-name="invisible box" transform="translate(0.37 0)">
+        <rect id="矩形_1845" data-name="矩形 1845" width="20" height="20" fill="none"/>
+        <rect id="矩形_1846" data-name="矩形 1846" width="20" height="20" fill="none"/>
+        <rect id="矩形_1847" data-name="矩形 1847" width="20" height="20" fill="none"/>
+      </g>
+      <g id="icons_Q2-9" data-name="icons Q2" transform="translate(2.853 2.954)">
+        <g id="组_2933" data-name="组 2933">
+          <path id="路径_293" data-name="路径 293" d="M15.375,4H4.758A.758.758,0,0,0,4,4.758v13.65a.758.758,0,0,0,.758.758h13.65a.758.758,0,0,0,.758-.758V7.792ZM13.858,17.65H9.308V13.1h4.55Zm3.792,0H15.375V12.342a.758.758,0,0,0-.758-.758H8.55a.758.758,0,0,0-.758.758V17.65H5.517V5.517H14.73l2.92,2.92Z" transform="translate(-4 -4)" fill="#676a6c"/>
+          <path id="路径_294" data-name="路径 294" d="M22.458,12h-7.25a1.208,1.208,0,0,0,0,2.417h7.25a1.208,1.208,0,1,0,0-2.417Z" transform="translate(-11.708 -9.167)" fill="#676a6c"/>
+        </g>
+      </g>
+    </g>
+    <g id="矩形_1848" data-name="矩形 1848" transform="translate(1062 585.337)" fill="#fff" stroke="#006cd0" stroke-width="1">
+      <rect width="323" height="37" stroke="none"/>
+      <rect x="0.5" y="0.5" width="322" height="36" fill="none"/>
+    </g>
+    <line id="直线_471" data-name="直线 471" y2="23" transform="translate(1076.5 592.337)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="组_2934" data-name="组 2934" transform="translate(-27.359 -5021.837)">
+      <g id="椭圆_38" data-name="椭圆 38" transform="translate(495 8339)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="38.5" cy="38.5" r="38.5" stroke="none"/>
+        <circle cx="38.5" cy="38.5" r="38" fill="none"/>
+      </g>
+      <line id="直线_472" data-name="直线 472" x2="53.5" y2="52" transform="translate(507 8351.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="直线_473" data-name="直线 473" y1="53" x2="55" transform="translate(506 8351)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Layer_2-10" data-name="Layer 2" transform="translate(1251.957 3313.424)">
+      <g id="invisible_box-10" data-name="invisible box">
+        <rect id="矩形_1853" data-name="矩形 1853" width="88" height="88" transform="translate(0.043 0.043)" fill="none"/>
+      </g>
+      <g id="icons_Q2-10" data-name="icons Q2" transform="translate(4.17 4.17)">
+        <path id="路径_299" data-name="路径 299" d="M42.373,9.341A33.032,33.032,0,1,1,9.34,42.373,33.032,33.032,0,0,1,42.373,9.341m0-7.34a40.189,40.189,0,1,0,28.6,11.771A40.373,40.373,0,0,0,42.373,2Z" transform="translate(-2 -2)" fill="#75cc68"/>
+        <path id="路径_300" data-name="路径 300" d="M24.111,46.764,13.1,35.937a3.854,3.854,0,0,1-.367-4.955,3.487,3.487,0,0,1,5.505-.367l8.442,8.442L49.8,15.934a3.67,3.67,0,0,1,5.138,5.138L29.249,46.764a3.487,3.487,0,0,1-5.138,0Z" transform="translate(6.352 9.024)" fill="#75cc68"/>
+      </g>
+    </g>
+    <g id="Layer_2-11" data-name="Layer 2" transform="translate(1754.957 3439.233)">
+      <g id="invisible_box-11" data-name="invisible box">
+        <rect id="矩形_1853-2" data-name="矩形 1853" width="88" height="88" transform="translate(0.043 0.043)" fill="none"/>
+      </g>
+      <g id="icons_Q2-11" data-name="icons Q2" transform="translate(4.17 4.17)">
+        <path id="路径_299-2" data-name="路径 299" d="M42.373,9.341A33.032,33.032,0,1,1,9.34,42.373,33.032,33.032,0,0,1,42.373,9.341m0-7.34a40.189,40.189,0,1,0,28.6,11.771A40.373,40.373,0,0,0,42.373,2Z" transform="translate(-2 -2)" fill="#75cc68"/>
+        <path id="路径_300-2" data-name="路径 300" d="M24.111,46.764,13.1,35.937a3.854,3.854,0,0,1-.367-4.955,3.487,3.487,0,0,1,5.505-.367l8.442,8.442L49.8,15.934a3.67,3.67,0,0,1,5.138,5.138L29.249,46.764a3.487,3.487,0,0,1-5.138,0Z" transform="translate(6.352 9.024)" fill="#75cc68"/>
+      </g>
+    </g>
+    <g id="Layer_2-12" data-name="Layer 2" transform="translate(1230.55 3705.777)">
+      <g id="invisible_box-12" data-name="invisible box" transform="translate(0.261 0.261)">
+        <rect id="矩形_1855" data-name="矩形 1855" width="88" height="88" fill="none"/>
+      </g>
+      <g id="icons_Q2-12" data-name="icons Q2" transform="translate(3.658 3.657)">
+        <path id="路径_301" data-name="路径 301" d="M42.6,9.383A33.221,33.221,0,1,1,9.382,42.6,33.221,33.221,0,0,1,42.6,9.383M42.6,2A40.418,40.418,0,1,0,71.368,13.838,40.6,40.6,0,0,0,42.6,2Z" transform="translate(-2 -2)" fill="#fa6767"/>
+        <path id="路径_302" data-name="路径 302" d="M36.777,31.645,47.112,21.494a3.876,3.876,0,0,0,.369-4.983,3.507,3.507,0,0,0-5.537-.369L31.609,26.477,21.274,16.142a3.507,3.507,0,0,0-5.537.369,3.876,3.876,0,0,0,.369,4.983L26.442,31.645,16.106,41.8a3.876,3.876,0,0,0-.369,4.983,3.507,3.507,0,0,0,5.537.369L31.609,36.812,41.945,47.148a3.507,3.507,0,0,0,5.537-.369,3.876,3.876,0,0,0-.369-4.983Z" transform="translate(8.994 8.959)" fill="#fa6767"/>
+      </g>
+    </g>
+    <g id="Layer_2-13" data-name="Layer 2" transform="translate(454.48 3705.777)">
+      <g id="invisible_box-13" data-name="invisible box" transform="translate(0.261 0.261)">
+        <rect id="矩形_1855-2" data-name="矩形 1855" width="88" height="88" fill="none"/>
+      </g>
+      <g id="icons_Q2-13" data-name="icons Q2" transform="translate(3.658 3.657)">
+        <path id="路径_301-2" data-name="路径 301" d="M42.6,9.383A33.221,33.221,0,1,1,9.382,42.6,33.221,33.221,0,0,1,42.6,9.383M42.6,2A40.418,40.418,0,1,0,71.368,13.838,40.6,40.6,0,0,0,42.6,2Z" transform="translate(-2 -2)" fill="#fa6767"/>
+        <path id="路径_302-2" data-name="路径 302" d="M36.777,31.645,47.112,21.494a3.876,3.876,0,0,0,.369-4.983,3.507,3.507,0,0,0-5.537-.369L31.609,26.477,21.274,16.142a3.507,3.507,0,0,0-5.537.369,3.876,3.876,0,0,0,.369,4.983L26.442,31.645,16.106,41.8a3.876,3.876,0,0,0-.369,4.983,3.507,3.507,0,0,0,5.537.369L31.609,36.812,41.945,47.148a3.507,3.507,0,0,0,5.537-.369,3.876,3.876,0,0,0-.369-4.983Z" transform="translate(8.994 8.959)" fill="#fa6767"/>
+      </g>
+    </g>
+    <g id="Layer_2-14" data-name="Layer 2" transform="translate(1664.813 3447.163)">
+      <g id="invisible_box-14" data-name="invisible box">
+        <rect id="矩形_1851" data-name="矩形 1851" width="76" height="76" transform="translate(0.188 0.188)" fill="none"/>
+      </g>
+      <g id="icons_Q2-14" data-name="icons Q2" transform="translate(3.233 4.859)">
+        <g id="组_2939" data-name="组 2939">
+          <path id="路径_295" data-name="路径 295" d="M36.986,12.515,63.4,60.25H10.732L36.986,12.515M2.458,61.841a3.182,3.182,0,0,0,2.7,4.773H68.809a3.182,3.182,0,0,0,2.7-4.773L39.691,4.559a3.182,3.182,0,0,0-5.41,0Z" transform="translate(-2.032 -3.054)" fill="#fe9f40"/>
+          <path id="路径_296" data-name="路径 296" d="M22,20.182V34.5a3.182,3.182,0,0,0,6.365,0V20.182a3.182,3.182,0,1,0-6.365,0Z" transform="translate(9.772 5.191)" fill="#fe9f40"/>
+          <circle id="椭圆_39" data-name="椭圆 39" cx="3" cy="3" r="3" transform="translate(31.955 46.329)" fill="#fe9f40"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_2986" data-name="组 2986" transform="translate(0 -8206.012)">
+      <g id="组_2930" data-name="组 2930" transform="translate(0 798.42)">
+        <line id="直线_462" data-name="直线 462" x2="790.781" transform="translate(110.5 7765.979)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+        <path id="路径_282" data-name="路径 282" d="M12.39,0h1.377V790.281H12.39C5.547,790.281,0,786.262,0,781.3V8.978C0,4.02,5.547,0,12.39,0Z" transform="translate(900.281 7751.034) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+      </g>
+      <rect id="矩形_1833" data-name="矩形 1833" width="20" height="37" transform="translate(882 8557.349)" fill="#ffefc9" opacity="0.46"/>
+      <rect id="矩形_1989" data-name="矩形 1989" width="20" height="37" transform="translate(111.373 8557.349)" fill="#ffefc9" opacity="0.46"/>
+      <g id="组_2929" data-name="组 2929" transform="translate(0 791.349)">
+        <rect id="矩形_1826" data-name="矩形 1826" width="16.232" height="792.211" transform="translate(902.211 7793.59) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+        <line id="直线_463" data-name="直线 463" x2="790.781" transform="translate(110.5 7793.59)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+      </g>
+      <line id="直线_465" data-name="直线 465" y2="55" transform="translate(885.281 8546.171)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+      <line id="直线_520" data-name="直线 520" y2="55" transform="translate(131 8548.349)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    </g>
+    <g id="组_2977" data-name="组 2977" transform="translate(590.689 61.766)">
+      <g id="矩形_2051" data-name="矩形 2051" transform="translate(196 1413.541)" fill="#fff" stroke="#aaa" stroke-width="1">
+        <rect width="1014" height="591" rx="13" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1013" height="590" rx="12.5" fill="none"/>
+      </g>
+      <rect id="矩形_2052" data-name="矩形 2052" width="1008" height="431" transform="translate(197 1455.541)" fill="#fff"/>
+      <g id="text" transform="translate(226 1779.541)">
+        <g id="矩形_2-15" data-name="矩形 2" transform="translate(0 18)" fill="#fff" stroke="#ececec" stroke-width="1">
+          <rect width="459" height="100" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="458" height="99" rx="7.5" fill="none"/>
+        </g>
+        <text id="備註" transform="translate(0 13)" fill="#636161" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">備註</tspan></text>
+      </g>
+      <g id="text-2" data-name="text" transform="translate(469 1469.541)">
+        <g id="矩形_2-16" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+          <rect width="217" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="216" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="加班日期_" data-name="加班日期＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">加班日期</tspan><tspan y="0" fill="#f20a0a">＊</tspan></text>
+      </g>
+      <g id="text-3" data-name="text" transform="translate(957 1625.541)">
+        <g id="矩形_2-17" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+          <rect width="217" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="216" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="補休失效日期" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">補休失效日期</tspan></text>
+      </g>
+      <g id="text-4" data-name="text" transform="translate(226 1469.541)">
+        <g id="矩形_2-18" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+          <rect width="216" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="215" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工編號_" data-name="員工編號＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工編號</tspan><tspan y="0" fill="#f90101">＊</tspan></text>
+      </g>
+      <g id="text-5" data-name="text" transform="translate(225 1625.541)">
+        <g id="矩形_2-19" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+          <rect width="216" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="215" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="加班班別_" data-name="加班班別＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">加班班別</tspan><tspan y="0" fill="#f90101">＊</tspan></text>
+        <g id="多边形_65" data-name="多边形 65" transform="translate(205 40) rotate(180)" fill="#707070">
+          <path d="M 5 3.5 L 1 3.5 L 3 0.8333333134651184 L 5 3.5 Z" stroke="none"/>
+          <path d="M 3 1.666666746139526 L 2 3 L 4 3 L 3 1.666666746139526 M 3 0 L 6 4 L 0 4 L 3 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="text-6" data-name="text" transform="translate(469 1625.541)">
+        <g id="矩形_2-20" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+          <rect width="216" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="215" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="加班原因_" data-name="加班原因＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">加班原因</tspan><tspan y="0" fill="#f90101">＊</tspan></text>
+        <g id="多边形_65-2" data-name="多边形 65" transform="translate(205 40) rotate(180)" fill="#707070">
+          <path d="M 5 3.5 L 1 3.5 L 3 0.8333333134651184 L 5 3.5 Z" stroke="none"/>
+          <path d="M 3 1.666666746139526 L 2 3 L 4 3 L 3 1.666666746139526 M 3 0 L 6 4 L 0 4 L 3 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="text-7" data-name="text" transform="translate(714 1625.541)">
+        <g id="矩形_2-21" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+          <rect width="216" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="215" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="加班歸屬成本部門" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">加班歸屬成本部門</tspan></text>
+        <g id="多边形_65-3" data-name="多边形 65" transform="translate(205 40) rotate(180)" fill="#707070">
+          <path d="M 5 3.5 L 1 3.5 L 3 0.8333333134651184 L 5 3.5 Z" stroke="none"/>
+          <path d="M 3 1.666666746139526 L 2 3 L 4 3 L 3 1.666666746139526 M 3 0 L 6 4 L 0 4 L 3 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="多边形_57" data-name="多边形 57" transform="translate(430 1512.541) rotate(180)" fill="#707070">
+        <path d="M 5.898116111755371 3.5 L 1.101883769035339 3.5 L 3.5 0.7592957019805908 L 5.898116111755371 3.5 Z" stroke="none"/>
+        <path d="M 3.5 1.518591403961182 L 2.2037672996521 3 L 4.796232223510742 3 L 3.5 1.518591403961182 M 3.5 0 L 7 4 L 0 4 L 3.5 0 Z" stroke="none" fill="#707070"/>
+      </g>
+      <path id="矩形_2053" data-name="矩形 2053" d="M13,0h987a13,13,0,0,1,13,13V45a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V13A13,13,0,0,1,13,0Z" transform="translate(196 1403.541)" fill="#eef7fc"/>
+      <text id="新增加班資料" transform="translate(214 1433.541)" fill="#006cd0" font-size="17" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">新增加班資料</tspan></text>
+      <g id="Layer_2-15" data-name="Layer 2" transform="translate(1170.472 1419.068)">
+        <g id="invisible_box-15" data-name="invisible box">
+          <rect id="矩形_548-7" data-name="矩形 548" width="13.593" height="13.593" fill="none"/>
+        </g>
+        <g id="icons_Q2-15" data-name="icons Q2" transform="translate(0 0.207)">
+          <path id="路径_213-7" data-name="路径 213" d="M17.885,16.549l4.975-4.928a.986.986,0,0,0,.094-1.267.892.892,0,0,0-1.408-.094l-4.975,4.975L11.6,10.26a.892.892,0,0,0-1.408.094.986.986,0,0,0,.094,1.267l4.975,4.928-4.975,4.928a.986.986,0,0,0-.094,1.267.892.892,0,0,0,1.408.094l4.975-4.975,4.975,4.975a.892.892,0,0,0,1.408-.094.986.986,0,0,0-.094-1.267Z" transform="translate(-10.001 -9.959)"/>
+        </g>
+      </g>
+      <text id="是否跨夜" transform="translate(640 1560.541)" fill="#707070" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">是否跨夜</tspan></text>
+      <g id="组_2968" data-name="组 2968" transform="translate(713.563 1549.234)">
+        <g id="矩形_2050" data-name="矩形 2050" transform="translate(0.438 18.307)" fill="#f4f4f4" stroke="#ececec" stroke-width="1">
+          <rect width="99" height="37" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="98" height="36" rx="7.5" fill="none"/>
+        </g>
+        <text id="加班費時數" transform="translate(0.438 12.307)" fill="#707070" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">加班費時數</tspan></text>
+      </g>
+      <g id="组_2969" data-name="组 2969" transform="translate(830.41 1549.895)">
+        <g id="矩形_2051-2" data-name="矩形 2051" transform="translate(-0.41 17.647)" fill="#fff" stroke="#ececec" stroke-width="1">
+          <rect width="99" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="98" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="補休時數" transform="translate(-0.41 12.646)" fill="#707070" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">補休時數</tspan></text>
+      </g>
+      <g id="组_2970" data-name="组 2970" transform="translate(225.707 1703.051)">
+        <g id="矩形_2051-3" data-name="矩形 2051" transform="translate(0.293 17.49)" fill="#f4f4f4" stroke="#ececec" stroke-width="1">
+          <rect width="99" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="98" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="計薪年月" transform="translate(0.293 13.49)" fill="#707070" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">計薪年月</tspan></text>
+      </g>
+      <g id="组_2971" data-name="组 2971" transform="translate(342.555 1703.051)">
+        <g id="矩形_2051-4" data-name="矩形 2051" transform="translate(0.445 17.49)" fill="#f4f4f4" stroke="#ececec" stroke-width="1">
+          <rect width="99" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="98" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="加班單單號" transform="translate(0.445 12.49)" fill="#707070" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">加班單單號</tspan></text>
+      </g>
+      <g id="组_2972" data-name="组 2972" transform="translate(471.285 1703.051)">
+        <g id="矩形_2051-5" data-name="矩形 2051" transform="translate(-0.285 17.49)" fill="#f4f4f4" stroke="#ececec" stroke-width="1">
+          <rect width="216" height="38" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="215" height="37" rx="7.5" fill="none"/>
+        </g>
+        <text id="產生來源" transform="translate(-0.285 13.49)" fill="#707070" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">產生來源</tspan></text>
+      </g>
+      <text id="系統產生" transform="translate(853 1737.541)" fill="#707070" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">系統產生</tspan></text>
+      <text id="匯入資料" transform="translate(737 1737.541)" fill="#636161" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">匯入資料</tspan></text>
+      <g id="矩形_2054" data-name="矩形 2054" transform="translate(622 1547.541)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="15" height="16" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="14" height="15" rx="4.5" fill="none"/>
+      </g>
+      <g id="组_2973" data-name="组 2973" transform="translate(596.715 1927.504)">
+        <rect id="矩形_2017" data-name="矩形 2017" width="101" height="28" rx="7" transform="translate(108.285 0.037)" fill="#3ac3e7"/>
+        <rect id="矩形_2018" data-name="矩形 2018" width="101" height="28" rx="7" transform="translate(0.285 0.037)" fill="#eef7fb"/>
+        <text id="確認-8" data-name="確認" transform="translate(146.285 19.037)" fill="#fff" font-size="13" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">確認</tspan></text>
+        <text id="取消-8" data-name="取消" transform="translate(37.285 19.037)" fill="#3ac3e7" font-size="13" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">取消</tspan></text>
+      </g>
+      <rect id="矩形_2055" data-name="矩形 2055" width="4" height="157" rx="2" transform="translate(1197 1518.541)" fill="#dcdcdc"/>
+      <g id="calendar-week" transform="translate(661.41 1500.383)">
+        <path id="路径_215" data-name="路径 215" d="M1.073,5.468V16.2a1.073,1.073,0,0,0,1.073,1.073H15.019A1.073,1.073,0,0,0,16.091,16.2V5.468ZM2.146,2.25A2.146,2.146,0,0,0,0,4.4V16.2a2.146,2.146,0,0,0,2.146,2.146H15.019A2.146,2.146,0,0,0,17.164,16.2V4.4A2.146,2.146,0,0,0,15.019,2.25Z" transform="translate(0 -1.177)" fill="#707070" fill-rule="evenodd"/>
+        <path id="路径_216" data-name="路径 216" d="M7.286,0a.536.536,0,0,1,.536.536v.536a.536.536,0,0,1-1.073,0V.536A.536.536,0,0,1,7.286,0Zm9.655,0a.536.536,0,0,1,.536.536v.536a.536.536,0,0,1-1.073,0V.536A.536.536,0,0,1,16.941,0Z" transform="translate(-3.532)" fill="#707070" fill-rule="evenodd"/>
+        <path id="路径_217" data-name="路径 217" d="M15.332,14.036a.536.536,0,0,1,.536-.536h1.073a.536.536,0,0,1,.536.536v1.073a.536.536,0,0,1-.536.536H15.868a.536.536,0,0,1-.536-.536Zm-3.218,0a.536.536,0,0,1,.536-.536h1.073a.536.536,0,0,1,.536.536v1.073a.536.536,0,0,1-.536.536H12.65a.536.536,0,0,1-.536-.536ZM6.75,17.255a.536.536,0,0,1,.536-.536H8.359a.536.536,0,0,1,.536.536v1.073a.536.536,0,0,1-.536.536H7.286a.536.536,0,0,1-.536-.536Zm3.218,0a.536.536,0,0,1,.536-.536h1.073a.536.536,0,0,1,.536.536v1.073a.536.536,0,0,1-.536.536H10.5a.536.536,0,0,1-.536-.536Z" transform="translate(-3.532 -7.063)" fill="#707070"/>
+      </g>
+      <g id="calendar-week-2" data-name="calendar-week" transform="translate(1147.285 1655.52)">
+        <path id="路径_215-2" data-name="路径 215" d="M1.073,5.468V16.2a1.073,1.073,0,0,0,1.073,1.073H15.019A1.073,1.073,0,0,0,16.091,16.2V5.468ZM2.146,2.25A2.146,2.146,0,0,0,0,4.4V16.2a2.146,2.146,0,0,0,2.146,2.146H15.019A2.146,2.146,0,0,0,17.164,16.2V4.4A2.146,2.146,0,0,0,15.019,2.25Z" transform="translate(0 -1.177)" fill="#707070" fill-rule="evenodd"/>
+        <path id="路径_216-2" data-name="路径 216" d="M7.286,0a.536.536,0,0,1,.536.536v.536a.536.536,0,0,1-1.073,0V.536A.536.536,0,0,1,7.286,0Zm9.655,0a.536.536,0,0,1,.536.536v.536a.536.536,0,0,1-1.073,0V.536A.536.536,0,0,1,16.941,0Z" transform="translate(-3.532)" fill="#707070" fill-rule="evenodd"/>
+        <path id="路径_217-2" data-name="路径 217" d="M15.332,14.036a.536.536,0,0,1,.536-.536h1.073a.536.536,0,0,1,.536.536v1.073a.536.536,0,0,1-.536.536H15.868a.536.536,0,0,1-.536-.536Zm-3.218,0a.536.536,0,0,1,.536-.536h1.073a.536.536,0,0,1,.536.536v1.073a.536.536,0,0,1-.536.536H12.65a.536.536,0,0,1-.536-.536ZM6.75,17.255a.536.536,0,0,1,.536-.536H8.359a.536.536,0,0,1,.536.536v1.073a.536.536,0,0,1-.536.536H7.286a.536.536,0,0,1-.536-.536Zm3.218,0a.536.536,0,0,1,.536-.536h1.073a.536.536,0,0,1,.536.536v1.073a.536.536,0,0,1-.536.536H10.5a.536.536,0,0,1-.536-.536Z" transform="translate(-3.532 -7.063)" fill="#707070"/>
+      </g>
+      <text id="YYYY_MM_DD" data-name="YYYY/MM/DD" transform="translate(475 1513.541)" fill="#c7c7c7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">YYYY/MM/DD</tspan></text>
+      <text id="YYYY_MM_DD-2" data-name="YYYY/MM/DD" transform="translate(961 1668.541)" fill="#c7c7c7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">YYYY/MM/DD</tspan></text>
+      <rect id="矩形_2056" data-name="矩形 2056" width="458" height="59" transform="translate(714 1469.541)" fill="#f4f4f4"/>
+      <g id="dropdown" transform="translate(728.765 1491.141)">
+        <g id="组_267" data-name="组 267">
+          <text id="刷卡上班時間" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">刷卡上班時間</tspan></text>
+          <text id="_08:30" data-name="08:30" transform="translate(85.16 12)" fill="#636161" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">08:30</tspan></text>
+        </g>
+      </g>
+      <g id="dropdown-2" data-name="dropdown" transform="translate(883 1491.541)">
+        <g id="组_267-2" data-name="组 267">
+          <text id="刷卡下班時間" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">刷卡下班時間</tspan></text>
+          <text id="_20:00" data-name="20:00" transform="translate(85 13)" fill="#636161" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">20:00</tspan></text>
+        </g>
+      </g>
+      <g id="按鈕-15" data-name="按鈕" transform="translate(1056.877 1485.859)">
+        <g id="矩形_2-22" data-name="矩形 2" fill="#fff" stroke="#3ac3e7" stroke-width="1">
+          <rect width="96.35" height="26.406" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="95.35" height="25.406" rx="4.5" fill="none"/>
+        </g>
+        <text id="代入起訖時間" transform="translate(11.883 17.281)" fill="#3ac3e7" font-size="11" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">代入起訖時間</tspan></text>
+      </g>
+      <line id="直线_595" data-name="直线 595" y2="17.164" transform="translate(862.392 1490.811)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="组_2974" data-name="组 2974" transform="translate(225.707 1547.914)">
+        <g id="text-8" data-name="text" transform="translate(0.293 -0.373)">
+          <g id="矩形_2-23" data-name="矩形 2" transform="translate(0 18)" fill="#fff" stroke="#ececec" stroke-width="1">
+            <rect width="217" height="38" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="216" height="37" rx="7.5" fill="none"/>
+          </g>
+          <text id="起始時間_" data-name="起始時間＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">起始時間</tspan><tspan y="0" fill="#f70909">＊</tspan></text>
+        </g>
+        <text id="是否跨夜-2" data-name="是否跨夜" transform="translate(169.293 12.627)" fill="#707070" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">是否跨夜</tspan></text>
+        <g id="矩形_2030" data-name="矩形 2030" transform="translate(152.293 -0.373)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="15" height="16" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="14" height="15" rx="4.5" fill="none"/>
+        </g>
+        <g id="蒙版组_2" data-name="蒙版组 2" transform="translate(193.426 29.707)" clip-path="url(#clip-path)">
+          <g id="__TEMP__SVG__" transform="translate(0.457 0.261)">
+            <g id="组_2965" data-name="组 2965">
+              <path id="路径_284-2" data-name="路径 284" d="M11.721,20.043a8.321,8.321,0,1,1,8.321-8.321A8.321,8.321,0,0,1,11.721,20.043Zm6.657-8.321a6.657,6.657,0,1,0-6.657,6.657A6.657,6.657,0,0,0,18.378,11.721Zm-3.329-.832a.832.832,0,1,1,0,1.664h-2.5a1.669,1.669,0,0,1-1.664-1.664V7.561a.832.832,0,1,1,1.664,0v3.329Z" transform="translate(-3.4 -3.4)" fill="#707070" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_2975" data-name="组 2975" transform="translate(468.645 1547.914)">
+        <g id="text-9" data-name="text" transform="translate(0.356 -0.373)">
+          <g id="矩形_2-24" data-name="矩形 2" transform="translate(0 18)" fill="#fff" stroke="#ececec" stroke-width="1">
+            <rect width="217" height="38" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="216" height="37" rx="7.5" fill="none"/>
+          </g>
+          <text id="截止時間_" data-name="截止時間＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">截止時間</tspan><tspan y="0" fill="#f70909">＊</tspan></text>
+        </g>
+        <text id="HHmm" transform="translate(11.355 41.627)" fill="#c7c7c7" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">HHmm</tspan></text>
+        <g id="蒙版组_3" data-name="蒙版组 3" transform="translate(191.445 28.387)" clip-path="url(#clip-path-2)">
+          <g id="__TEMP__SVG__2" data-name="__TEMP__SVG__" transform="translate(0.562 0.261)">
+            <g id="组_2966" data-name="组 2966">
+              <path id="路径_285" data-name="路径 285" d="M11.721,20.043a8.321,8.321,0,1,1,8.321-8.321A8.321,8.321,0,0,1,11.721,20.043Zm6.657-8.321a6.657,6.657,0,1,0-6.657,6.657A6.657,6.657,0,0,0,18.378,11.721Zm-3.329-.832a.832.832,0,1,1,0,1.664h-2.5a1.669,1.669,0,0,1-1.664-1.664V7.561a.832.832,0,1,1,1.664,0v3.329Z" transform="translate(-3.4 -3.4)" fill="#707070" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="组_2976" data-name="组 2976" transform="translate(956.5 1549.234)">
+        <g id="组_2968-2" data-name="组 2968">
+          <g id="矩形_2052-2" data-name="矩形 2052" transform="translate(-0.5 18.307)" fill="#f4f4f4" stroke="#ececec" stroke-width="1">
+            <rect width="100" height="37" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="99" height="36" rx="7.5" fill="none"/>
+          </g>
+          <text id="加班總時數" transform="translate(0.5 12.307)" fill="#707070" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">加班總時數</tspan></text>
+        </g>
+        <g id="矩形_1993" data-name="矩形 1993" transform="translate(63.5 18.307)" fill="#ececec" stroke="#ececec" stroke-width="1">
+          <path d="M0,0H27a8,8,0,0,1,8,8V29a8,8,0,0,1-8,8H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M.5.5H27A7.5,7.5,0,0,1,34.5,8V29A7.5,7.5,0,0,1,27,36.5H.5a0,0,0,0,1,0,0V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+        </g>
+        <text id="小時" transform="translate(69.5 42.307)" fill="#636161" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">小時</tspan></text>
+      </g>
+      <rect id="矩形_2057" data-name="矩形 2057" width="16" height="15" rx="5" transform="translate(830 1724.541)" fill="#e5e5e5"/>
+      <rect id="矩形_2058" data-name="矩形 2058" width="15" height="15" rx="5" transform="translate(715 1724.541)" fill="#e5e5e5"/>
+      <text id="HHmm-2" data-name="HHmm" transform="translate(238 1590.541)" fill="#c7c7c7" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">HHmm</tspan></text>
+    </g>
+    <g id="text-10" data-name="text" transform="translate(1027 978.039)">
+      <g id="矩形_2-25" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+        <rect width="366" height="38" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="365" height="37" rx="7.5" fill="none"/>
+      </g>
+      <text id="仲介公司代碼_" data-name="仲介公司代碼＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司代碼</tspan><tspan y="0" fill="#f90101">＊</tspan></text>
+    </g>
+    <g id="text-11" data-name="text" transform="translate(1027 1116.039)">
+      <g id="矩形_2-26" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+        <rect width="366" height="38" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="365" height="37" rx="7.5" fill="none"/>
+      </g>
+      <text id="電話號碼_" data-name="電話號碼＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">電話號碼</tspan><tspan y="0" fill="#f90101">＊</tspan></text>
+    </g>
+    <g id="text-12" data-name="text" transform="translate(1027 1185.039)">
+      <g id="矩形_2-27" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+        <rect width="366" height="38" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="365" height="37" rx="7.5" fill="none"/>
+      </g>
+      <text id="排序_" data-name="排序＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">排序</tspan><tspan y="0" fill="#f90101">＊</tspan></text>
+    </g>
+    <g id="text-13" data-name="text" transform="translate(1027 1047.039)">
+      <g id="矩形_2-28" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+        <rect width="754" height="38" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="753" height="37" rx="7.5" fill="none"/>
+      </g>
+      <text id="公司地址_" data-name="公司地址＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">公司地址</tspan><tspan y="0" fill="#f90101">＊</tspan></text>
+    </g>
+    <g id="text-14" data-name="text" transform="translate(1415 978.039)">
+      <g id="矩形_2-29" data-name="矩形 2" transform="translate(0 19)" fill="#fff" stroke="#ececec" stroke-width="1">
+        <rect width="366" height="38" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="365" height="37" rx="7.5" fill="none"/>
+      </g>
+      <text id="仲介公司名稱_" data-name="仲介公司名稱＊" transform="translate(0 12)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" fill="#f90101">＊</tspan></text>
+    </g>
+    <g id="矩形_1892" data-name="矩形 1892" transform="translate(1421.173 1213.539)" fill="#f0f4f7" stroke="#e8eef3" stroke-width="1">
+      <rect width="17.442" height="17.941" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16.442" height="16.941" rx="4.5" fill="none"/>
+    </g>
+    <text id="是否顯示" transform="translate(1449 1226.039)" fill="#636161" font-size="11" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">是否顯示</tspan></text>
+    <line id="直线_597" data-name="直线 597" x2="1702" transform="translate(109 1393.396)" fill="none" stroke="#0b2e13" stroke-width="1" stroke-dasharray="3 10"/>
+    <line id="直线_664" data-name="直线 664" x2="1702" transform="translate(109 2110.396)" fill="none" stroke="#0b2e13" stroke-width="1" stroke-dasharray="3 10"/>
+    <g id="文字框" transform="translate(295.448 2393.25)">
+      <g id="组_267-3" data-name="组 267">
+        <g id="矩形_2-30" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-2" data-name="文字框" transform="translate(295.448 2501.25)">
+      <g id="组_267-4" data-name="组 267">
+        <g id="矩形_2-31" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-2" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-2" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-3" data-name="文字框" transform="translate(295.448 2608.556)">
+      <g id="组_267-5" data-name="组 267">
+        <g id="矩形_2-32" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-3" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-3" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-4" data-name="文字框" transform="translate(639.024 2393.25)">
+      <g id="组_267-6" data-name="组 267">
+        <g id="矩形_2-33" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-4" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-4" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-5" data-name="文字框" transform="translate(639.024 2501.25)">
+      <g id="组_267-7" data-name="组 267">
+        <g id="矩形_2-34" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-5" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-5" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-6" data-name="文字框" transform="translate(639.024 2608.556)">
+      <g id="组_267-8" data-name="组 267">
+        <g id="矩形_2-35" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-6" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-6" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-7" data-name="文字框" transform="translate(984.854 2393.25)">
+      <g id="组_267-9" data-name="组 267">
+        <g id="矩形_2-36" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-7" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-7" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-8" data-name="文字框" transform="translate(984.854 2501.25)">
+      <g id="组_267-10" data-name="组 267">
+        <g id="矩形_2-37" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-8" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-8" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-9" data-name="文字框" transform="translate(984.854 2608.556)">
+      <g id="组_267-11" data-name="组 267">
+        <g id="矩形_2-38" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="302.68" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="301.68" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-9" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-9" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-10" data-name="文字框" transform="translate(1328.431 2393.25)">
+      <g id="组_267-12" data-name="组 267">
+        <g id="矩形_2-39" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="314.121" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="313.121" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-10" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-10" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-11" data-name="文字框" transform="translate(1328.431 2501.25)">
+      <g id="组_267-13" data-name="组 267">
+        <g id="矩形_2-40" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="314.121" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="313.121" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-11" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-11" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <g id="文字框-12" data-name="文字框" transform="translate(1328.431 2608.556)">
+      <g id="组_267-14" data-name="组 267">
+        <g id="矩形_2-41" data-name="矩形 2" transform="translate(0 27.343)" fill="#f4f4f4" stroke="#dee2e6" stroke-width="1">
+          <rect width="314.121" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="313.121" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="員工姓名-12" data-name="員工姓名" transform="translate(0 19)" fill="#636161" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+        <text id="王大明-12" data-name="王大明" transform="translate(15.5 64.074)" fill="#636161" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+    </g>
+    <rect id="矩形_2268" data-name="矩形 2268" width="1347.104" height="24.5" transform="translate(295.448 2476.75)" fill="#c9e7ff"/>
+    <rect id="矩形_2312" data-name="矩形 2312" width="1347.104" height="24.5" transform="translate(295.448 2584.056)" fill="#c9e7ff"/>
+    <rect id="矩形_2313" data-name="矩形 2313" width="1347.104" height="24.5" transform="translate(295.448 2691.363)" fill="#c9e7ff"/>
+    <rect id="矩形_2309" data-name="矩形 2309" width="54.673" height="20.396" transform="translate(639.024 2422.077) rotate(90)" fill="#e7f7e4"/>
+    <rect id="矩形_2307" data-name="矩形 2307" width="54.673" height="20.396" transform="translate(1328.431 2422.077) rotate(90)" fill="#e7f7e4"/>
+    <rect id="矩形_2311" data-name="矩形 2311" width="54.673" height="20.396" transform="translate(983.728 2422.077) rotate(90)" fill="#e7f7e4"/>
+    <rect id="矩形_2266" data-name="矩形 2266" width="189.974" height="20.396" transform="translate(1153.305 2389.646) rotate(180)" fill="#e7f7e4"/>
+    <rect id="矩形_2308" data-name="矩形 2308" width="53.979" height="20.5" transform="translate(618.628 2422.076) rotate(90)" fill="#ffefc9"/>
+    <rect id="矩形_2306" data-name="矩形 2306" width="53.979" height="20.5" transform="translate(1308.034 2422.076) rotate(90)" fill="#ffefc9"/>
+    <rect id="矩形_2310" data-name="矩形 2310" width="53.979" height="20.5" transform="translate(963.331 2422.076) rotate(90)" fill="#ffefc9"/>
+    <text id="margin-right_10px_" data-name="margin-right：10px;" transform="translate(968.147 2387.306)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">margin-right</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">10px;</tspan></text>
+    <rect id="矩形_2270" data-name="矩形 2270" width="192.782" height="20.5" transform="translate(959.222 2389.75) rotate(180)" fill="#ffefc9"/>
+    <text id="margin-bottom_0.8rem_" data-name="margin-bottom：0.8rem;" transform="translate(1274.5 2496.25)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">margin-bottom</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">0.8rem;</tspan></text>
+    <text id="padding-left_10px_" data-name="padding-left：10px;" transform="translate(774.331 2385.555)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding-left</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">10px;</tspan></text>
+    <rect id="矩形_2257" data-name="矩形 2257" width="204.12" height="42.91" transform="translate(843.145 2758.773) rotate(180)" fill="#ffefc9"/>
+    <g id="日歷" transform="translate(295.448 2715.863)">
+      <text id="排序" transform="translate(1.906 19)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">排序</tspan></text>
+      <g id="矩形_1725" data-name="矩形 1725" transform="translate(0 29.357)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="302.68" height="56.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="301.68" height="55.464" rx="7.5" fill="none"/>
+      </g>
+    </g>
+    <g id="矩形_2256" data-name="矩形 2256" transform="translate(639.025 2758.773)" fill="#f0f4f7" stroke="#e8eef3" stroke-width="1">
+      <rect width="28.009" height="28.81" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27.009" height="27.81" rx="4.5" fill="none"/>
+    </g>
+    <text id="顯是否" transform="translate(676.787 2782.773)" fill="#707070" font-size="22" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">顯是否</tspan></text>
+    <text id="margin-top_30px" data-name="margin-top：30px" transform="translate(659.584 2748.36)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">margin-top</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">30px</tspan></text>
+    <text id="btn-color_FA6767_" data-name="btn-color：#FA6767;" transform="translate(1539 3871)" fill="#fa6767" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">btn-color</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">#FA6767;</tspan></text>
+    <text id="font-size_22px_" data-name="font-size：22px;" transform="translate(1539 3832)" fill="#676a6c" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">font-size</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">22px;</tspan></text>
+    <text id="font-weight_bolder_" data-name="font-weight：bolder;" transform="translate(1539 3793)" fill="#676a6c" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">font-weight</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">bolder;</tspan></text>
+    <text id="font-color_var_--bs-body-color_" data-name="font-color：var(--bs-body-color);" transform="translate(1539 3754)" fill="#676a6c" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">font-color</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">var(--bs-body-color);</tspan></text>
+  </g>
+</svg>

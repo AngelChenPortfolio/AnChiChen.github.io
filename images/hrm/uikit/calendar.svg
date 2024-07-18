@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1088" viewBox="0 0 1920 1088">
+  <defs>
+    <clipPath id="clip-calendar">
+      <rect width="1920" height="1088"/>
+    </clipPath>
+  </defs>
+  <g id="calendar" clip-path="url(#clip-calendar)">
+    <rect width="1920" height="1088" fill="#fff"/>
+    <path id="路径_318" data-name="路径 318" d="M0,0H1920V200H0Z" fill="#e1f7ff"/>
+    <text id="Calendar-2" data-name="Calendar" transform="translate(106 131)" fill="#45494d" font-size="75" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Calendar</tspan></text>
+    <g id="矩形_2314" data-name="矩形 2314" transform="translate(110 287)" fill="#fff" stroke="#d5d6d6" stroke-width="1">
+      <rect width="1702" height="468" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1701" height="467" fill="none"/>
+    </g>
+    <g id="矩形_2315" data-name="矩形 2315" transform="translate(109 287)" fill="#fff" stroke="#dbdcdd" stroke-width="1">
+      <rect width="1703" height="76" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1702" height="75" fill="none"/>
+    </g>
+    <g id="矩形_2317" data-name="矩形 2317" transform="translate(109 363)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1703" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1702" height="61" fill="none"/>
+    </g>
+    <text id="_2023年9月" data-name="2023年9月" transform="translate(880 339)" fill="#676a6c" font-size="33" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">2023</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">年</tspan><tspan y="0">9</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">月</tspan></text>
+    <g id="组_2842" data-name="组 2842" transform="translate(217 165.073)">
+      <g id="组_2839" data-name="组 2839" transform="translate(940.695 126)">
+        <g id="组_2838" data-name="组 2838">
+          <line id="直线_384" data-name="直线 384" x2="17.609" fill="none" stroke="#006cd0" stroke-width="3"/>
+          <line id="直线_385" data-name="直线 385" x2="17.609" transform="translate(0 68.319)" fill="none" stroke="#006cd0" stroke-width="3"/>
+          <line id="直线_386" data-name="直线 386" y2="68.319" transform="translate(8.805)" fill="none" stroke="#006cd0" stroke-width="3"/>
+        </g>
+        <text id="height:44px_" data-name="height:44px;" transform="translate(30.305 46.319)" fill="#006cd0" font-size="29" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">height:44px;</tspan></text>
+      </g>
+    </g>
+    <rect id="矩形_2318" data-name="矩形 2318" width="177" height="20" transform="translate(849 239.036)" fill="#dee2e6"/>
+    <rect id="矩形_2319" data-name="矩形 2319" width="113" height="20" transform="translate(110 237.036)" fill="#dee2e6"/>
+    <text id="_Year_Month_Title_font-size_18px_font-weight_bolder_color:_676A6C_" data-name=" Year/Month Title   font-size：18px；font-weight：bolder；color:#676A6C;" transform="translate(855 256.036)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> Year/Month Title   font-size</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">18px</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">；</tspan><tspan y="0">font-weight</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">bolder</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">；</tspan><tspan y="0">color:#676A6C;</tspan></text>
+    <text id="font-size_13px_" data-name="font-size：13px;" transform="translate(116 556.536)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">font-size</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">13px;</tspan></text>
+    <text id="Week_Title_font-size_14px_font-weight_bolder_" data-name="Week Title   font-size：14px；font-weight：bolder；" transform="translate(116 254.036)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Week Title   font-size</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">14px</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">；</tspan><tspan y="0">font-weight</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">：</tspan><tspan y="0">bolder</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">；</tspan></text>
+    <g id="矩形_2320" data-name="矩形 2320" transform="translate(1569 363)" fill="#fff" stroke="#f0f4f7" stroke-width="1">
+      <rect width="243" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="242" height="61" fill="none"/>
+    </g>
+    <text id="週六" transform="translate(1665.5 405)" fill="#676a6c" font-size="25" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">週六</tspan></text>
+    <g id="矩形_2320-2" data-name="矩形 2320" transform="translate(110 363)" fill="#fff" stroke="#f0f4f7" stroke-width="1">
+      <rect width="243" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="242" height="61" fill="none"/>
+    </g>
+    <text id="週日" transform="translate(198.5 405)" fill="#676a6c" font-size="25" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">週日</tspan></text>
+    <g id="矩形_2320-3" data-name="矩形 2320" transform="translate(353 363)" fill="#fff" stroke="#d5d6d6" stroke-width="1">
+      <rect width="243" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="242" height="61" fill="none"/>
+    </g>
+    <text id="週一" transform="translate(441.5 405)" fill="#676a6c" font-size="25" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">週一</tspan></text>
+    <g id="矩形_2320-4" data-name="矩形 2320" transform="translate(596 363)" fill="#fff" stroke="#f0f4f7" stroke-width="1">
+      <rect width="243" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="242" height="61" fill="none"/>
+    </g>
+    <text id="週二" transform="translate(684.5 405)" fill="#676a6c" font-size="25" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">週二</tspan></text>
+    <g id="矩形_2320-5" data-name="矩形 2320" transform="translate(840 363)" fill="#fff" stroke="#f0f4f7" stroke-width="1">
+      <rect width="243" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="242" height="61" fill="none"/>
+    </g>
+    <text id="週三" transform="translate(928.5 405)" fill="#676a6c" font-size="25" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">週三</tspan></text>
+    <g id="矩形_2320-6" data-name="矩形 2320" transform="translate(1083 363)" fill="#fff" stroke="#f0f4f7" stroke-width="1">
+      <rect width="243" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="242" height="61" fill="none"/>
+    </g>
+    <text id="週四" transform="translate(1171.5 405)" fill="#676a6c" font-size="25" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">週四</tspan></text>
+    <g id="矩形_2320-7" data-name="矩形 2320" transform="translate(1326 363)" fill="#fff" stroke="#f0f4f7" stroke-width="1">
+      <rect width="243" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="242" height="61" fill="none"/>
+    </g>
+    <text id="週五" transform="translate(1414.5 405)" fill="#676a6c" font-size="25" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">週五</tspan></text>
+    <g id="组_3187" data-name="组 3187" transform="translate(529.152 237)">
+      <g id="组_2839-2" data-name="组 2839" transform="translate(940.695 126)">
+        <g id="组_2838-2" data-name="组 2838">
+          <line id="直线_384-2" data-name="直线 384" x2="17.609" fill="none" stroke="#006cd0" stroke-width="3"/>
+          <line id="直线_385-2" data-name="直线 385" x2="17.609" transform="translate(0 58.66)" fill="none" stroke="#006cd0" stroke-width="3"/>
+          <line id="直线_386-2" data-name="直线 386" y2="58.66" transform="translate(8.805)" fill="none" stroke="#006cd0" stroke-width="3"/>
+        </g>
+        <text id="height:32px_" data-name="height:32px;" transform="translate(17.609 41.33)" fill="#006cd0" font-size="29" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">height:32px;</tspan></text>
+      </g>
+    </g>
+    <line id="直线_666" data-name="直线 666" y2="391.5" transform="translate(353.5 363.5)" fill="none" stroke="#e2e2e2" stroke-width="1"/>
+    <line id="直线_667" data-name="直线 667" y2="391.5" transform="translate(596 363.5)" fill="none" stroke="#e2e2e2" stroke-width="1"/>
+    <line id="直线_668" data-name="直线 668" y2="391.5" transform="translate(840 363.5)" fill="none" stroke="#e2e2e2" stroke-width="1"/>
+    <line id="直线_669" data-name="直线 669" y2="391.5" transform="translate(1083 363.5)" fill="none" stroke="#e2e2e2" stroke-width="1"/>
+    <line id="直线_670" data-name="直线 670" y2="391.5" transform="translate(1327 363.5)" fill="none" stroke="#e2e2e2" stroke-width="1"/>
+    <line id="直线_671" data-name="直线 671" y2="391.5" transform="translate(1569 363.5)" fill="none" stroke="#e2e2e2" stroke-width="1"/>
+    <text id="_01" data-name="01" transform="translate(306.5 468)" fill="#b7b7b7" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">01</tspan></text>
+    <text id="_02" data-name="02" transform="translate(555.5 468)" fill="#b7b7b7" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">02</tspan></text>
+    <text id="_04" data-name="04" transform="translate(1042 468)" fill="#b7b7b7" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">04</tspan></text>
+    <text id="_06" data-name="06" transform="translate(1529 468)" fill="#b7b7b7" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">06</tspan></text>
+    <text id="_07" data-name="07" transform="translate(1771 468)" fill="#b7b7b7" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">07</tspan></text>
+    <rect id="矩形_2321" data-name="矩形 2321" width="244" height="131" transform="translate(1083 426)" fill="#dbe9f5"/>
+    <rect id="矩形_2323" data-name="矩形 2323" width="243" height="131" transform="translate(596 426)" fill="#fffadf"/>
+    <rect id="矩形_2322" data-name="矩形 2322" width="60" height="38" transform="translate(1089 572)" fill="#dbe9f5"/>
+    <rect id="矩形_2325" data-name="矩形 2325" width="51" height="38" transform="translate(596 590)" fill="#fffadf"/>
+    <text id="_05" data-name="05" transform="translate(1285 468)" fill="#b7b7b7" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">05</tspan></text>
+    <text id="click_background-color:_FFFADF_" data-name="click    background-color:#FFFADF;" transform="translate(1093 598)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve">click    background-color:#FFFADF;</tspan></text>
+    <text id="當天_background-color:_e8eef3_" data-name="當天    background-color:#e8eef3;" transform="translate(600 616)" fill="#676a6c" font-size="20" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">當天</tspan><tspan y="0" xml:space="preserve" font-family="SegoeUI-Bold, Segoe UI">    background-color:#e8eef3;</tspan></text>
+    <text id="_03" data-name="03" transform="translate(798 468)" fill="#b7b7b7" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">03</tspan></text>
+    <rect id="矩形_2326" data-name="矩形 2326" width="244" height="40" transform="translate(110 474)" fill="#f0f6fb"/>
+    <rect id="矩形_2331" data-name="矩形 2331" width="261" height="40" transform="translate(110 653)" fill="#f0f6fb"/>
+    <text id="休息日" transform="translate(148 503)" fill="#2f3031" font-size="21" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">休息日</tspan></text>
+    <circle id="椭圆_45" data-name="椭圆 45" cx="6.5" cy="6.5" r="6.5" transform="translate(122 488)" fill="#46bbdc"/>
+    <circle id="椭圆_46" data-name="椭圆 46" cx="6.5" cy="6.5" r="6.5" transform="translate(110 700)" fill="#46bbdc"/>
+    <rect id="矩形_2316" data-name="矩形 2316" width="40" height="12" transform="translate(147 474) rotate(90)" fill="#e5b2c6"/>
+    <rect id="矩形_2327" data-name="矩形 2327" width="40" height="12" transform="translate(122 475) rotate(90)" fill="#b8e5b2"/>
+    <rect id="矩形_2329" data-name="矩形 2329" width="30" height="216" transform="translate(326 572.5) rotate(90)" fill="#b8e5b2"/>
+    <rect id="矩形_2330" data-name="矩形 2330" width="30" height="218" transform="translate(328 613.5) rotate(90)" fill="#e5b2c6"/>
+    <rect id="矩形_2328" data-name="矩形 2328" width="40" height="12" transform="translate(354 475) rotate(90)" fill="#b8e5b2"/>
+    <text id="padding:0_7px_" data-name="padding:0 7px;" transform="translate(116 593.5)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">padding:0 7px;</tspan></text>
+    <text id="padding-left:15px_" data-name="padding-left:15px;" transform="translate(116 634.5)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">padding-left:15px;</tspan></text>
+    <text id="_width:10px_height:10px_" data-name=" width:10px;height:10px;" transform="translate(127.5 715)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> width:10px;height:10px;</tspan></text>
+    <text id="background-color:_f0f6fb_" data-name="background-color:#f0f6fb;" transform="translate(116 678.5)" fill="#676a6c" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">background-color:#f0f6fb;</tspan></text>
+  </g>
+</svg>

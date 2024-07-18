@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1197" viewBox="0 0 1920 1197">
+  <defs>
+    <clipPath id="clip-Tabs">
+      <rect width="1920" height="1197"/>
+    </clipPath>
+  </defs>
+  <g id="Tabs" clip-path="url(#clip-Tabs)">
+    <rect width="1920" height="1197" fill="#fff"/>
+    <rect id="矩形_1794" data-name="矩形 1794" width="139" height="20" transform="translate(727.001 273.649)" fill="#ffefc9"/>
+    <rect id="矩形_1817" data-name="矩形 1817" width="145.002" height="20" transform="translate(348.001 568.781)" fill="#ffefc9"/>
+    <rect id="矩形_1779" data-name="矩形 1779" width="1920" height="200" fill="#c4efff" opacity="0.5"/>
+    <text id="Tabs-2" data-name="Tabs" transform="translate(106 131)" fill="#45494d" font-size="75" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Tabs</tspan></text>
+    <text id="tab3" transform="translate(584 635.781)" fill="#45494d" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab3</tspan></text>
+    <text id="tab1" transform="translate(1536 672.781)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab1</tspan></text>
+    <text id="tab4" transform="translate(783 635.781)" fill="#676a6c" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab4</tspan></text>
+    <text id="tab2" transform="translate(1704 672.781)" fill="#04bff1" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">tab2</tspan></text>
+    <text id="tab1-2" data-name="tab1" transform="translate(186 635.781)" fill="#45494d" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab1</tspan></text>
+    <text id="tab2-2" data-name="tab2" transform="translate(385 635.781)" fill="#676a6c" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">tab2</tspan></text>
+    <g id="组_2898" data-name="组 2898" transform="translate(0 -6639.351)">
+      <g id="矩形_1783" data-name="矩形 1783" transform="translate(705 6953)" fill="none" stroke="#676a6c" stroke-width="1">
+        <path d="M7,0H193a7,7,0,0,1,7,7V55a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" stroke="none"/>
+        <path d="M7,.5H193A6.5,6.5,0,0,1,199.5,7V54.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V7A6.5,6.5,0,0,1,7,.5Z" fill="none"/>
+      </g>
+      <text id="tab3-2" data-name="tab3" transform="translate(584 6989)" fill="#45494d" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab3</tspan></text>
+      <text id="tab4-2" data-name="tab4" transform="translate(784 6989)" fill="#676a6c" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">tab4</tspan></text>
+      <text id="tab1-3" data-name="tab1" transform="translate(186 6989)" fill="#45494d" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab1</tspan></text>
+      <text id="tab2-3" data-name="tab2" transform="translate(385 6989)" fill="#45494d" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab2</tspan></text>
+      <line id="直线_428" data-name="直线 428" x2="796" transform="translate(110.5 7008.5)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    </g>
+    <g id="矩形_1783-2" data-name="矩形 1783" transform="translate(1642 313.649)" fill="#eaf5fb" stroke="#04bff1" stroke-width="1">
+      <path d="M7,0H163a7,7,0,0,1,7,7V55a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" stroke="none"/>
+      <path d="M7,.5H163A6.5,6.5,0,0,1,169.5,7V54.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V7A6.5,6.5,0,0,1,7,.5Z" fill="none"/>
+    </g>
+    <g id="矩形_1820" data-name="矩形 1820" transform="translate(1182 313.649)" fill="#eaf5fb" stroke="#04bff1" stroke-width="1">
+      <path d="M7,0H163a7,7,0,0,1,7,7V55a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" stroke="none"/>
+      <path d="M7,.5H163A6.5,6.5,0,0,1,169.5,7V54.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V7A6.5,6.5,0,0,1,7,.5Z" fill="none"/>
+    </g>
+    <path id="矩形_1818" data-name="矩形 1818" d="M7,0H163a7,7,0,0,1,7,7V55a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" transform="translate(1183.5 313.649)" fill="none"/>
+    <path id="矩形_1819" data-name="矩形 1819" d="M7,0H163a7,7,0,0,1,7,7V55a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" transform="translate(1183.5 636.781)" fill="none"/>
+    <text id="tab1-4" data-name="tab1" transform="translate(1536 349.649)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab1</tspan></text>
+    <text id="tab1-5" data-name="tab1" transform="translate(1077.5 349.649)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab1</tspan></text>
+    <text id="tab1-6" data-name="tab1" transform="translate(1077.5 672.781)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab1</tspan></text>
+    <text id="tab2-4" data-name="tab2" transform="translate(1704 349.649)" fill="#04bff1" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">tab2</tspan></text>
+    <text id="tab2-5" data-name="tab2" transform="translate(1245.5 349.649)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab2</tspan></text>
+    <text id="tab2-6" data-name="tab2" transform="translate(1245.5 672.781)" fill="#adacbc" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tab2</tspan></text>
+    <line id="直线_453" data-name="直线 453" x2="339.5" transform="translate(1472.5 369.149)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_454" data-name="直线 454" x2="339.5" transform="translate(1014 369.149)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_455" data-name="直线 455" x2="339.5" transform="translate(1014 692.281)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_456" data-name="直线 456" x2="339.5" transform="translate(1472.5 692.281)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_430" data-name="直线 430" x2="796" transform="translate(110.5 655.281)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_431" data-name="直线 431" x2="201" transform="translate(306 655.281)" fill="none" stroke="#676a6c" stroke-width="3"/>
+    <line id="直线_452" data-name="直线 452" x2="169.5" transform="translate(1642.5 692.281)" fill="none" stroke="#04bff1" stroke-width="3"/>
+    <line id="直线_457" data-name="直线 457" x2="169.5" transform="translate(1182.25 692.281)" fill="none" stroke="#04bff1" stroke-width="3"/>
+    <g id="组_2920" data-name="组 2920" transform="translate(706.615 385.966)">
+      <g id="组_2839" data-name="组 2839" transform="translate(0.001 0)">
+        <g id="组_2838" data-name="组 2838" transform="translate(199.384 0) rotate(90)">
+          <line id="直线_384" data-name="直线 384" x2="16.484" transform="translate(0 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_385" data-name="直线 385" x2="16.484" transform="translate(0 199.384)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_386" data-name="直线 386" y2="199.384" transform="translate(8.242 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+        </g>
+        <text id="min-width_140px" data-name="min-width：140px" transform="translate(17.693 33.483)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">min-width</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">140px</tspan></text>
+      </g>
+    </g>
+    <g id="组_2971" data-name="组 2971" transform="translate(706.615 678.98)">
+      <g id="组_2839-2" data-name="组 2839" transform="translate(0.001 0)">
+        <g id="组_2838-2" data-name="组 2838" transform="translate(199.384 0) rotate(90)">
+          <line id="直线_384-2" data-name="直线 384" x2="16.484" transform="translate(0 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_385-2" data-name="直线 385" x2="16.484" transform="translate(0 199.384)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_386-2" data-name="直线 386" y2="199.384" transform="translate(8.242 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+        </g>
+        <text id="min-width_140px-2" data-name="min-width：140px" transform="translate(17.693 33.483)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">min-width</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">140px</tspan></text>
+      </g>
+    </g>
+    <g id="组_2921" data-name="组 2921" transform="translate(506.999 385.966)">
+      <g id="组_2839-3" data-name="组 2839" transform="translate(0.001 0)">
+        <g id="组_2838-3" data-name="组 2838" transform="translate(199.384 0) rotate(90)">
+          <line id="直线_384-3" data-name="直线 384" x2="16.484" transform="translate(0 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_385-3" data-name="直线 385" x2="16.484" transform="translate(0 199.384)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_386-3" data-name="直线 386" y2="199.384" transform="translate(8.242 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+        </g>
+        <text id="min-width_140px-3" data-name="min-width：140px" transform="translate(17.693 33.483)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">min-width</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">140px</tspan></text>
+      </g>
+    </g>
+    <g id="组_2970" data-name="组 2970" transform="translate(506.999 678.98)">
+      <g id="组_2839-4" data-name="组 2839" transform="translate(0.001 0)">
+        <g id="组_2838-4" data-name="组 2838" transform="translate(199.384 0) rotate(90)">
+          <line id="直线_384-4" data-name="直线 384" x2="16.484" transform="translate(0 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_385-4" data-name="直线 385" x2="16.484" transform="translate(0 199.384)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_386-4" data-name="直线 386" y2="199.384" transform="translate(8.242 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+        </g>
+        <text id="min-width_140px-4" data-name="min-width：140px" transform="translate(17.693 33.483)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">min-width</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">140px</tspan></text>
+      </g>
+    </g>
+    <g id="组_2922" data-name="组 2922" transform="translate(307.384 385.966)">
+      <g id="组_2839-5" data-name="组 2839" transform="translate(0.001 0)">
+        <g id="组_2838-5" data-name="组 2838" transform="translate(199.384 0) rotate(90)">
+          <line id="直线_384-5" data-name="直线 384" x2="16.484" transform="translate(0 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_385-5" data-name="直线 385" x2="16.484" transform="translate(0 199.384)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_386-5" data-name="直线 386" y2="199.384" transform="translate(8.242 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+        </g>
+        <text id="min-width_140px-5" data-name="min-width：140px" transform="translate(17.693 33.483)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">min-width</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">140px</tspan></text>
+      </g>
+    </g>
+    <g id="组_2969" data-name="组 2969" transform="translate(307.384 678.98)">
+      <g id="组_2839-6" data-name="组 2839" transform="translate(0.001 0)">
+        <g id="组_2838-6" data-name="组 2838" transform="translate(199.384 0) rotate(90)">
+          <line id="直线_384-6" data-name="直线 384" x2="16.484" transform="translate(0 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_385-6" data-name="直线 385" x2="16.484" transform="translate(0 199.384)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_386-6" data-name="直线 386" y2="199.384" transform="translate(8.242 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+        </g>
+        <text id="min-width_140px-6" data-name="min-width：140px" transform="translate(17.693 33.483)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">min-width</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">140px</tspan></text>
+      </g>
+    </g>
+    <g id="组_2923" data-name="组 2923" transform="translate(107.999 385.966)">
+      <g id="组_2839-7" data-name="组 2839" transform="translate(0.001 0)">
+        <g id="组_2838-7" data-name="组 2838" transform="translate(199.384 0) rotate(90)">
+          <line id="直线_384-7" data-name="直线 384" x2="16.484" transform="translate(0 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_385-7" data-name="直线 385" x2="16.484" transform="translate(0 199.384)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_386-7" data-name="直线 386" y2="199.384" transform="translate(8.242 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+        </g>
+        <text id="min-width_140px-7" data-name="min-width：140px" transform="translate(17.693 33.483)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">min-width</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">140px</tspan></text>
+      </g>
+    </g>
+    <g id="组_2968" data-name="组 2968" transform="translate(107.999 678.98)">
+      <g id="组_2839-8" data-name="组 2839" transform="translate(0.001 0)">
+        <g id="组_2838-8" data-name="组 2838" transform="translate(199.384 0) rotate(90)">
+          <line id="直线_384-8" data-name="直线 384" x2="16.484" transform="translate(0 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_385-8" data-name="直线 385" x2="16.484" transform="translate(0 199.384)" fill="none" stroke="#676a6c" stroke-width="3"/>
+          <line id="直线_386-8" data-name="直线 386" y2="199.384" transform="translate(8.242 0)" fill="none" stroke="#676a6c" stroke-width="3"/>
+        </g>
+        <text id="min-width_140px-8" data-name="min-width：140px" transform="translate(17.693 33.483)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">min-width</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">140px</tspan></text>
+      </g>
+    </g>
+    <line id="直线_436" data-name="直线 436" y2="73" transform="translate(716.5 300.149)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_437" data-name="直线 437" y2="73" transform="translate(893.5 300.149)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_438" data-name="直线 438" x2="220" transform="translate(695.5 325.149)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_439" data-name="直线 439" x2="220" transform="translate(695.5 357.929)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <g id="组_2909" data-name="组 2909" transform="translate(708.38 276.149)">
+      <text id="padding_6px" data-name="padding：6px" transform="translate(26.62 16)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">6px</tspan></text>
+    </g>
+    <g id="组_2919" data-name="组 2919" transform="translate(333.38 567.281)">
+      <text id="padding_6px-2" data-name="padding：6px" transform="translate(26.62 16)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">6px</tspan></text>
+    </g>
+    <g id="组_2924" data-name="组 2924" transform="translate(271.382 658.061)">
+      <text id="border-bottom_2px_solid" data-name="border-bottom：2px solid" transform="translate(26.62 16)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">border-bottom</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">2px solid</tspan></text>
+    </g>
+    <rect id="矩形_1790" data-name="矩形 1790" width="10" height="33" transform="translate(706 324.649)" fill="#ffdc89" opacity="0.46"/>
+    <rect id="矩形_1813" data-name="矩形 1813" width="10" height="55" transform="translate(309 598.781)" fill="#ffdc89" opacity="0.46"/>
+    <rect id="矩形_1791" data-name="矩形 1791" width="10" height="32" transform="translate(894 325.649)" fill="#ffdc89" opacity="0.46"/>
+    <rect id="矩形_1814" data-name="矩形 1814" width="10" height="54" transform="translate(497 599.781)" fill="#ffdc89" opacity="0.46"/>
+    <rect id="矩形_1793" data-name="矩形 1793" width="10" height="198" transform="translate(904 357.649) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+    <path id="矩形_1797" data-name="矩形 1797" d="M7,0h3a0,0,0,0,1,0,0V198a0,0,0,0,1,0,0H7a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" transform="translate(904 314.649) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+    <line id="直线_440" data-name="直线 440" y2="73" transform="translate(716.5 300.149)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_441" data-name="直线 441" y2="73" transform="translate(893.5 300.149)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_442" data-name="直线 442" x2="220" transform="translate(695.5 325.149)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_443" data-name="直线 443" x2="220" transform="translate(695.5 357.929)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_448" data-name="直线 448" y2="55" transform="translate(319 598.781)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_449" data-name="直线 449" y2="55" transform="translate(496 598.781)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_450" data-name="直线 450" x2="200" transform="translate(307 610.781)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <line id="直线_451" data-name="直线 451" x2="200" transform="translate(307 643.561)" fill="none" stroke="#cfd1d3" stroke-width="1"/>
+    <rect id="矩形_1815" data-name="矩形 1815" width="10" height="198" transform="translate(507 599.781) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+    <rect id="矩形_1816" data-name="矩形 1816" width="10" height="198" transform="translate(507 643.781) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+    <path id="路径_281" data-name="路径 281" d="M.9,14.763S-4.1,3.177,9.436,0" transform="translate(698.359 306.031) rotate(5)" fill="none" stroke="#676a6c" stroke-width="3"/>
+    <text id="border-radius_7px" data-name="border-radius：7px" transform="translate(508.5 308.649)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">border-radius</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">7px</tspan></text>
+    <text id="hover" transform="translate(1142 274.149)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">hover</tspan></text>
+    <text id="active" transform="translate(1599 274.149)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">active</tspan></text>
+    <text id="hover-2" data-name="hover" transform="translate(1142 569.281)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">hover</tspan></text>
+    <text id="active-2" data-name="active" transform="translate(1599 569.281)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">active</tspan></text>
+    <path id="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1322.445 349.572)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <path id="mouse-pointer-2" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1322.445 664.281)" fill="#fff" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>

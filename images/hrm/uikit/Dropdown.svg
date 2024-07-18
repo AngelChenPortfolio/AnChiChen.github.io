@@ -1,0 +1,1095 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="4916" viewBox="0 0 1920 4916">
+  <defs>
+    <filter id="矩形_1729" x="744.121" y="4555.369" width="355" height="336" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="矩形_1730" data-name="矩形 1730" width="324" height="312" transform="translate(0.259 0.421)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 413 393">
+      <image width="413" height="393" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <filter id="矩形_1732" x="693.811" y="419.903" width="475" height="199" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_1982" x="694.811" y="1479.061" width="475" height="381.91" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2122" x="694.811" y="2057.415" width="475" height="381.91" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2178" x="694.811" y="3373.252" width="475" height="345.082" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_1985" x="1276.5" y="1479.061" width="475" height="156.91" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2171" x="1276.5" y="2052.521" width="475" height="156.91" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_1939" x="1277.811" y="1114.009" width="475" height="62.91" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_1923" x="1277.811" y="843.195" width="475" height="139.91" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_1923-2" x="694.811" y="843.195" width="475" height="139.91" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2155" x="241.156" y="2615.344" width="475" height="381.91" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_2202" x="241.277" y="3918.746" width="475" height="337.082" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Dropdown">
+      <rect width="1920" height="4916"/>
+    </clipPath>
+  </defs>
+  <g id="Dropdown" clip-path="url(#clip-Dropdown)">
+    <rect width="1920" height="4916" fill="#fff"/>
+    <g id="矩形_2177" data-name="矩形 2177" transform="translate(110 2476)" fill="#dee2e6" stroke="#707070" stroke-width="1" opacity="0.12">
+      <rect width="1702" height="566" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1701" height="565" fill="none"/>
+    </g>
+    <g id="矩形_2191" data-name="矩形 2191" transform="translate(110 3795)" fill="#dee2e6" stroke="#707070" stroke-width="1" opacity="0.12">
+      <rect width="1702" height="492" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1701" height="491" fill="none"/>
+    </g>
+    <path id="路径_280" data-name="路径 280" d="M0,0H1920V200H0Z" fill="#398260" opacity="0.16"/>
+    <text id="Dropdown-2" data-name="Dropdown" transform="translate(106 131)" fill="#45494d" font-size="75" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Dropdown</tspan></text>
+    <text id="Select" transform="translate(109.999 304)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Select</tspan></text>
+    <text id="Date" transform="translate(109 4433.346)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Date</tspan></text>
+    <text id="Search" transform="translate(109.999 716.789)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Search</tspan></text>
+    <text id="Embedded_DataGrid" data-name="Embedded DataGrid" transform="translate(109.999 1318.415)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Embedded DataGrid</tspan></text>
+    <text id="Tag_Count_Limitation" data-name="Tag Count Limitation" transform="translate(110 3212.322)" fill="#45494d" font-size="31" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Tag Count Limitation</tspan></text>
+    <g id="组_2850" data-name="组 2850" transform="translate(751.961 4560.823)">
+      <g id="组_2849" data-name="组 2849" transform="translate(0)">
+        <g transform="matrix(1, 0, 0, 1, -751.96, -4560.82)" filter="url(#矩形_1729)">
+          <g id="矩形_1729-2" data-name="矩形 1729" transform="translate(751.62 4560.87)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+            <rect width="340" height="321" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="339" height="320" rx="4.5" fill="none"/>
+          </g>
+        </g>
+        <g id="蒙版组_1" data-name="蒙版组 1" transform="translate(7.401 4.626)" clip-path="url(#clip-path)">
+          <rect id="图像_10" data-name="图像 10" width="356" height="338" rx="19" transform="translate(-13.741 -13.579)" fill="url(#pattern)"/>
+        </g>
+        <g id="矩形_1731" data-name="矩形 1731" transform="translate(237.66 168.047)" fill="#fff" stroke="#006cd0" stroke-width="2">
+          <rect width="44" height="35" rx="5" stroke="none"/>
+          <rect x="1" y="1" width="42" height="33" rx="4" fill="none"/>
+        </g>
+      </g>
+      <text id="_17" data-name="17" transform="translate(248.66 192.046)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">17</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_1732)">
+      <g id="矩形_1732-2" data-name="矩形 1732" transform="translate(701.31 425.4)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="184" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="183" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <text id="請選擇..." transform="translate(719.621 457.195)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+    <text id="仲介公司名稱2" transform="translate(719.621 542.965)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">2</tspan></text>
+    <text id="仲介公司名稱3" transform="translate(719.621 585.851)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">3</tspan></text>
+    <g id="日歷" transform="translate(109 4592.638)">
+      <text id="Hover" transform="translate(1.906 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hover</tspan></text>
+      <g id="矩形_1725" data-name="矩形 1725" transform="translate(0 29.357)" fill="#fff" stroke="#006cd0" stroke-width="1">
+        <rect width="455.645" height="56.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="454.645" height="55.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="YYYY_MM_DD" data-name="YYYY/MM/DD" transform="translate(15.611 64.588)" fill="#dee2e6" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">YYYY/MM/DD</tspan></text>
+      <rect id="矩形_1742" data-name="矩形 1742" width="50" height="54" rx="7" transform="translate(405 30.589)" fill="#eaf5fb"/>
+      <path id="calendar" d="M1.3,16.911H4.228V13.984H1.3Zm3.577,0H8.13V13.984H4.878v2.927ZM1.3,13.334H4.228V10.081H1.3Zm3.577,0H8.13V10.081H4.878v3.252ZM1.3,9.431H4.228V6.5H1.3Zm7.48,7.48h3.252V13.984H8.78Zm-3.9-7.48H8.13V6.5H4.878Zm7.805,7.48H15.61V13.984H12.683Zm-3.9-3.577h3.252V10.081H8.78v3.252ZM5.2,4.553V1.626A.33.33,0,0,0,4.878,1.3H4.228a.33.33,0,0,0-.325.325V4.553a.33.33,0,0,0,.325.325h.651A.33.33,0,0,0,5.2,4.553Zm7.48,8.78H15.61V10.081H12.683v3.252Zm-3.9-3.9h3.252V6.5H8.78Zm3.9,0H15.61V6.5H12.683Zm.325-4.878V1.626a.33.33,0,0,0-.325-.325h-.651a.329.329,0,0,0-.325.325V4.553a.33.33,0,0,0,.325.325h.651a.33.33,0,0,0,.325-.325Zm3.9-.651V16.91a1.318,1.318,0,0,1-1.3,1.3H1.3a1.25,1.25,0,0,1-.915-.386A1.25,1.25,0,0,1,0,16.91V3.9a1.25,1.25,0,0,1,.386-.915A1.25,1.25,0,0,1,1.3,2.6H2.6V1.626A1.566,1.566,0,0,1,3.079.478,1.566,1.566,0,0,1,4.228,0h.651A1.566,1.566,0,0,1,6.026.478,1.566,1.566,0,0,1,6.5,1.626V2.6h3.9V1.626A1.566,1.566,0,0,1,10.884.478,1.566,1.566,0,0,1,12.032,0h.651a1.566,1.566,0,0,1,1.148.478,1.566,1.566,0,0,1,.478,1.148V2.6h1.3a1.25,1.25,0,0,1,.915.386,1.25,1.25,0,0,1,.386.915Z" transform="translate(421 48.482)" fill="#676a6c"/>
+    </g>
+    <g id="日歷-2" data-name="日歷" transform="translate(700.311 4475)">
+      <text id="Click" transform="translate(1.906 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click</tspan></text>
+      <g id="矩形_1725-2" data-name="矩形 1725" transform="translate(0 29.357)" fill="#fff" stroke="#006cd0" stroke-width="1">
+        <rect width="455.645" height="56.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="454.645" height="55.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="YYYY_MM_DD-2" data-name="YYYY/MM/DD" transform="translate(15.611 64.588)" fill="#dee2e6" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">YYYY/MM/DD</tspan></text>
+      <rect id="矩形_1742-2" data-name="矩形 1742" width="50" height="54" rx="7" transform="translate(405 30.589)" fill="#ddebf8"/>
+      <path id="calendar-2" data-name="calendar" d="M1.3,16.911H4.228V13.984H1.3Zm3.577,0H8.13V13.984H4.878v2.927ZM1.3,13.334H4.228V10.081H1.3Zm3.577,0H8.13V10.081H4.878v3.252ZM1.3,9.431H4.228V6.5H1.3Zm7.48,7.48h3.252V13.984H8.78Zm-3.9-7.48H8.13V6.5H4.878Zm7.805,7.48H15.61V13.984H12.683Zm-3.9-3.577h3.252V10.081H8.78v3.252ZM5.2,4.553V1.626A.33.33,0,0,0,4.878,1.3H4.228a.33.33,0,0,0-.325.325V4.553a.33.33,0,0,0,.325.325h.651A.33.33,0,0,0,5.2,4.553Zm7.48,8.78H15.61V10.081H12.683v3.252Zm-3.9-3.9h3.252V6.5H8.78Zm3.9,0H15.61V6.5H12.683Zm.325-4.878V1.626a.33.33,0,0,0-.325-.325h-.651a.329.329,0,0,0-.325.325V4.553a.33.33,0,0,0,.325.325h.651a.33.33,0,0,0,.325-.325Zm3.9-.651V16.91a1.318,1.318,0,0,1-1.3,1.3H1.3a1.25,1.25,0,0,1-.915-.386A1.25,1.25,0,0,1,0,16.91V3.9a1.25,1.25,0,0,1,.386-.915A1.25,1.25,0,0,1,1.3,2.6H2.6V1.626A1.566,1.566,0,0,1,3.079.478,1.566,1.566,0,0,1,4.228,0h.651A1.566,1.566,0,0,1,6.026.478,1.566,1.566,0,0,1,6.5,1.626V2.6h3.9V1.626A1.566,1.566,0,0,1,10.884.478,1.566,1.566,0,0,1,12.032,0h.651a1.566,1.566,0,0,1,1.148.478,1.566,1.566,0,0,1,.478,1.148V2.6h1.3a1.25,1.25,0,0,1,.915.386,1.25,1.25,0,0,1,.386.915Z" transform="translate(421 48.482)" fill="#006cd0"/>
+    </g>
+    <g id="日歷-3" data-name="日歷" transform="translate(1356.356 4475)">
+      <text id="Select-2" data-name="Select" transform="translate(1.906 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Select</tspan></text>
+      <g id="矩形_1725-3" data-name="矩形 1725" transform="translate(0 29.357)" fill="#fff" stroke="#006cd0" stroke-width="1">
+        <rect width="455.645" height="56.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="454.645" height="55.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="_2023_09_05" data-name="2023/09/05" transform="translate(15.611 64.588)" fill="#828282" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2023/09/05</tspan></text>
+      <rect id="矩形_1742-3" data-name="矩形 1742" width="50" height="54" rx="7" transform="translate(405 30.589)" fill="#ddebf8"/>
+      <path id="calendar-3" data-name="calendar" d="M1.3,16.911H4.228V13.984H1.3Zm3.577,0H8.13V13.984H4.878v2.927ZM1.3,13.334H4.228V10.081H1.3Zm3.577,0H8.13V10.081H4.878v3.252ZM1.3,9.431H4.228V6.5H1.3Zm7.48,7.48h3.252V13.984H8.78Zm-3.9-7.48H8.13V6.5H4.878Zm7.805,7.48H15.61V13.984H12.683Zm-3.9-3.577h3.252V10.081H8.78v3.252ZM5.2,4.553V1.626A.33.33,0,0,0,4.878,1.3H4.228a.33.33,0,0,0-.325.325V4.553a.33.33,0,0,0,.325.325h.651A.33.33,0,0,0,5.2,4.553Zm7.48,8.78H15.61V10.081H12.683v3.252Zm-3.9-3.9h3.252V6.5H8.78Zm3.9,0H15.61V6.5H12.683Zm.325-4.878V1.626a.33.33,0,0,0-.325-.325h-.651a.329.329,0,0,0-.325.325V4.553a.33.33,0,0,0,.325.325h.651a.33.33,0,0,0,.325-.325Zm3.9-.651V16.91a1.318,1.318,0,0,1-1.3,1.3H1.3a1.25,1.25,0,0,1-.915-.386A1.25,1.25,0,0,1,0,16.91V3.9a1.25,1.25,0,0,1,.386-.915A1.25,1.25,0,0,1,1.3,2.6H2.6V1.626A1.566,1.566,0,0,1,3.079.478,1.566,1.566,0,0,1,4.228,0h.651A1.566,1.566,0,0,1,6.026.478,1.566,1.566,0,0,1,6.5,1.626V2.6h3.9V1.626A1.566,1.566,0,0,1,10.884.478,1.566,1.566,0,0,1,12.032,0h.651a1.566,1.566,0,0,1,1.148.478,1.566,1.566,0,0,1,.478,1.148V2.6h1.3a1.25,1.25,0,0,1,.915.386,1.25,1.25,0,0,1,.386.915Z" transform="translate(421 48.482)" fill="#006cd0"/>
+    </g>
+    <g id="下拉選單" transform="translate(110 344.336)">
+      <text id="Default" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Default</tspan></text>
+      <g id="矩形_1725-4" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-2" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      <g id="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="下拉選單-2" data-name="下拉選單" transform="translate(110 463.305)">
+      <text id="Hover-2" data-name="Hover" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hover</tspan></text>
+      <g id="矩形_1725-5" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#006cd0" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-3" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      <g id="chevron-down-2" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-2" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="下拉選單-3" data-name="下拉選單" transform="translate(110 876.492)">
+      <text id="Hover-3" data-name="Hover" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hover</tspan></text>
+      <g id="矩形_1725-6" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#006cd0" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-4" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      <rect id="矩形_1937" data-name="矩形 1937" width="50" height="51" rx="7" transform="translate(408.199 33.001)" fill="#ddebf8"/>
+      <g id="chevron-down-3" data-name="chevron-down" transform="translate(426.582 56.779)">
+        <path id="caret-down-3" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="下拉選單-4" data-name="下拉選單" transform="translate(110 1512.834)">
+      <text id="Hover-4" data-name="Hover" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hover</tspan></text>
+      <g id="矩形_1725-7" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#006cd0" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-5" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      <rect id="矩形_1937-2" data-name="矩形 1937" width="50" height="51" rx="7" transform="translate(408.199 33.001)" fill="#ddebf8"/>
+      <g id="chevron-down-4" data-name="chevron-down" transform="translate(426.582 56.779)">
+        <path id="caret-down-4" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="下拉選單-5" data-name="下拉選單" transform="translate(110 3406.742)">
+      <text id="Hover_已選擇0_" data-name="Hover (已選擇0)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hover (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">0)</tspan></text>
+      <g id="矩形_1725-8" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#006cd0" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-6" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+    </g>
+    <g id="下拉選單-6" data-name="下拉選單" transform="translate(701.311 339)">
+      <text id="Click-2" data-name="Click" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click</tspan></text>
+      <g id="矩形_1725-9" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-7" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      <g id="chevron-down-5" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-5" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+    </g>
+    <rect id="矩形_1743" data-name="矩形 1743" width="458" height="44" transform="translate(702.311 472.17)" fill="#eaf5fb"/>
+    <text id="仲介公司名稱1" transform="translate(719.621 500.08)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">1</tspan></text>
+    <path id="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1067.756 500.427)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <g id="日歷-4" data-name="日歷" transform="translate(109 4474.082)">
+      <text id="Default-2" data-name="Default" transform="translate(1.906 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Default</tspan></text>
+      <g id="矩形_1725-10" data-name="矩形 1725" transform="translate(0 29.357)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460.426" height="56.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459.426" height="55.464" rx="7.5" fill="none"/>
+      </g>
+      <path id="calendar-4" data-name="calendar" d="M1.3,16.911H4.228V13.984H1.3Zm3.577,0H8.13V13.984H4.878v2.927ZM1.3,13.334H4.228V10.081H1.3Zm3.577,0H8.13V10.081H4.878v3.252ZM1.3,9.431H4.228V6.5H1.3Zm7.48,7.48h3.252V13.984H8.78Zm-3.9-7.48H8.13V6.5H4.878Zm7.805,7.48H15.61V13.984H12.683Zm-3.9-3.577h3.252V10.081H8.78v3.252ZM5.2,4.553V1.626A.33.33,0,0,0,4.878,1.3H4.228a.33.33,0,0,0-.325.325V4.553a.33.33,0,0,0,.325.325h.651A.33.33,0,0,0,5.2,4.553Zm7.48,8.78H15.61V10.081H12.683v3.252Zm-3.9-3.9h3.252V6.5H8.78Zm3.9,0H15.61V6.5H12.683Zm.325-4.878V1.626a.33.33,0,0,0-.325-.325h-.651a.329.329,0,0,0-.325.325V4.553a.33.33,0,0,0,.325.325h.651a.33.33,0,0,0,.325-.325Zm3.9-.651V16.91a1.318,1.318,0,0,1-1.3,1.3H1.3a1.25,1.25,0,0,1-.915-.386A1.25,1.25,0,0,1,0,16.91V3.9a1.25,1.25,0,0,1,.386-.915A1.25,1.25,0,0,1,1.3,2.6H2.6V1.626A1.566,1.566,0,0,1,3.079.478,1.566,1.566,0,0,1,4.228,0h.651A1.566,1.566,0,0,1,6.026.478,1.566,1.566,0,0,1,6.5,1.626V2.6h3.9V1.626A1.566,1.566,0,0,1,10.884.478,1.566,1.566,0,0,1,12.032,0h.651a1.566,1.566,0,0,1,1.148.478,1.566,1.566,0,0,1,.478,1.148V2.6h1.3a1.25,1.25,0,0,1,.915.386,1.25,1.25,0,0,1,.386.915Z" transform="translate(428.418 48.482)" fill="#676a6c"/>
+      <text id="YYYY_MM_DD-3" data-name="YYYY/MM/DD" transform="translate(20.393 64.588)" fill="#dee2e6" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">YYYY/MM/DD</tspan></text>
+    </g>
+    <g id="椭圆_40" data-name="椭圆 40" transform="translate(1131.311 387.453)" fill="none" stroke="#707070" stroke-width="1">
+      <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+      <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+    </g>
+    <g id="椭圆_41" data-name="椭圆 41" transform="translate(1134.311 390.453)" fill="none" stroke="#707070" stroke-width="1">
+      <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+      <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+    </g>
+    <path id="mouse-pointer-2" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(547.5 519.461)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <line id="直线_496" data-name="直线 496" x2="1702" transform="translate(109 651.053)" fill="none" stroke="#0b2e13" stroke-width="1" stroke-dasharray="3 10"/>
+    <line id="直线_497" data-name="直线 497" x2="1702" transform="translate(109 1223.667)" fill="none" stroke="#0b2e13" stroke-width="1" stroke-dasharray="3 10"/>
+    <line id="直线_518" data-name="直线 518" x2="1702" transform="translate(109 3117.574)" fill="none" stroke="#0b2e13" stroke-width="1" stroke-dasharray="3 10"/>
+    <line id="直线_625" data-name="直线 625" x2="1702" transform="translate(109 4338.681)" fill="none" stroke="#0b2e13" stroke-width="1" stroke-dasharray="3 10"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_1982)">
+      <g id="矩形_1982-2" data-name="矩形 1982" transform="translate(702.31 1484.56)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="366.91" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="365.91" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_2122)">
+      <g id="矩形_2122-2" data-name="矩形 2122" transform="translate(702.31 2062.92)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="366.91" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="365.91" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_2178)">
+      <g id="矩形_2178-2" data-name="矩形 2178" transform="translate(702.31 3378.75)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="330.082" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="329.082" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_1985)">
+      <g id="矩形_1985-2" data-name="矩形 1985" transform="translate(1284 1484.56)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="141.91" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="140.91" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_2171)">
+      <g id="矩形_2171-2" data-name="矩形 2171" transform="translate(1284 2058.02)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="141.91" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="140.91" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_1939)">
+      <g id="矩形_1939-2" data-name="矩形 1939" transform="translate(1285.31 1119.51)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="47.91" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="46.91" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="下拉選單-7" data-name="下拉選單" transform="translate(702.311 1394)">
+      <text id="Click-3" data-name="Click" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click</tspan></text>
+      <g id="路径_321" data-name="路径 321" transform="translate(0 30.769)" fill="#fff">
+        <path d="M 452 54.96353149414062 L 8 54.96353149414062 C 3.864470481872559 54.96353149414062 0.5 51.59906005859375 0.5 47.46353149414062 L 0.5 8.000000953674316 C 0.5 3.864471673965454 3.864470481872559 0.5000010132789612 8 0.5000010132789612 L 452 0.5000010132789612 C 456.1355285644531 0.5000010132789612 459.5 3.864471673965454 459.5 8.000000953674316 L 459.5 47.46353149414062 C 459.5 51.59906005859375 456.1355285644531 54.96353149414062 452 54.96353149414062 Z" stroke="none"/>
+        <path d="M 8 1 C 4.140167236328125 1 1 4.140178680419922 1 8 L 1 47.46353149414062 C 1 51.3233528137207 4.140167236328125 54.46353149414062 8 54.46353149414062 L 452 54.46353149414062 C 455.8598327636719 54.46353149414062 459 51.3233528137207 459 47.46353149414062 L 459 8 C 459 4.140178680419922 455.8598327636719 1 452 1 L 8 1 M 8 0 L 452 0 C 456.4183044433594 0 460 3.581707000732422 460 8 L 460 47.46353149414062 C 460 51.8818244934082 456.4183044433594 55.46353149414062 452 55.46353149414062 L 8 55.46353149414062 C 3.581695556640625 55.46353149414062 0 51.8818244934082 0 47.46353149414062 L 0 8 C 0 3.581707000732422 3.581695556640625 0 8 0 Z" stroke="none" fill="#006cd0"/>
+      </g>
+      <rect id="矩形_1938" data-name="矩形 1938" width="50" height="51" rx="7" transform="translate(408.817 33.27)" fill="#ddebf8"/>
+      <g id="chevron-down-6" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-6" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#006cd0"/>
+      </g>
+      <text id="請選擇...-8" data-name="請選擇..." transform="translate(15.5 65.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+    </g>
+    <g id="下拉選單-8" data-name="下拉選單" transform="translate(702.311 1972.07)">
+      <text id="Click_已選擇99_" data-name="Click (已選擇99)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">99)</tspan></text>
+      <g id="路径_321-2" data-name="路径 321" transform="translate(0 30.769)" fill="#fff">
+        <path d="M 452 54.96353149414062 L 8 54.96353149414062 C 3.864470481872559 54.96353149414062 0.5 51.59906005859375 0.5 47.46353149414062 L 0.5 8.000000953674316 C 0.5 3.864471673965454 3.864470481872559 0.5000010132789612 8 0.5000010132789612 L 452 0.5000010132789612 C 456.1355285644531 0.5000010132789612 459.5 3.864471673965454 459.5 8.000000953674316 L 459.5 47.46353149414062 C 459.5 51.59906005859375 456.1355285644531 54.96353149414062 452 54.96353149414062 Z" stroke="none"/>
+        <path d="M 8 1 C 4.140167236328125 1 1 4.140178680419922 1 8 L 1 47.46353149414062 C 1 51.3233528137207 4.140167236328125 54.46353149414062 8 54.46353149414062 L 452 54.46353149414062 C 455.8598327636719 54.46353149414062 459 51.3233528137207 459 47.46353149414062 L 459 8 C 459 4.140178680419922 455.8598327636719 1 452 1 L 8 1 M 8 0 L 452 0 C 456.4183044433594 0 460 3.581707000732422 460 8 L 460 47.46353149414062 C 460 51.8818244934082 456.4183044433594 55.46353149414062 452 55.46353149414062 L 8 55.46353149414062 C 3.581695556640625 55.46353149414062 0 51.8818244934082 0 47.46353149414062 L 0 8 C 0 3.581707000732422 3.581695556640625 0 8 0 Z" stroke="none" fill="#006cd0"/>
+      </g>
+      <rect id="矩形_1938-2" data-name="矩形 1938" width="50" height="51" rx="7" transform="translate(408.817 33.27)" fill="#ddebf8"/>
+      <g id="chevron-down-7" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-7" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#006cd0"/>
+      </g>
+      <text id="請選擇...-9" data-name="請選擇..." transform="translate(15.5 65.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+    </g>
+    <g id="下拉選單-9" data-name="下拉選單" transform="translate(702.311 3288)">
+      <text id="Click_已選擇1_" data-name="Click (已選擇1)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">1)</tspan></text>
+      <g id="路径_321-3" data-name="路径 321" transform="translate(0 30.769)" fill="#fff">
+        <path d="M 452 54.96353149414062 L 8 54.96353149414062 C 3.864470481872559 54.96353149414062 0.5 51.59906005859375 0.5 47.46353149414062 L 0.5 8.000000953674316 C 0.5 3.864471673965454 3.864470481872559 0.5000010132789612 8 0.5000010132789612 L 452 0.5000010132789612 C 456.1355285644531 0.5000010132789612 459.5 3.864471673965454 459.5 8.000000953674316 L 459.5 47.46353149414062 C 459.5 51.59906005859375 456.1355285644531 54.96353149414062 452 54.96353149414062 Z" stroke="none"/>
+        <path d="M 8 1 C 4.140167236328125 1 1 4.140178680419922 1 8 L 1 47.46353149414062 C 1 51.3233528137207 4.140167236328125 54.46353149414062 8 54.46353149414062 L 452 54.46353149414062 C 455.8598327636719 54.46353149414062 459 51.3233528137207 459 47.46353149414062 L 459 8 C 459 4.140178680419922 455.8598327636719 1 452 1 L 8 1 M 8 0 L 452 0 C 456.4183044433594 0 460 3.581707000732422 460 8 L 460 47.46353149414062 C 460 51.8818244934082 456.4183044433594 55.46353149414062 452 55.46353149414062 L 8 55.46353149414062 C 3.581695556640625 55.46353149414062 0 51.8818244934082 0 47.46353149414062 L 0 8 C 0 3.581707000732422 3.581695556640625 0 8 0 Z" stroke="none" fill="#006cd0"/>
+      </g>
+      <text id="請選擇...-10" data-name="請選擇..." transform="translate(15.5 65.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+    </g>
+    <g id="下拉選單-10" data-name="下拉選單" transform="translate(1284 1393.716)">
+      <text id="Search-No_Data" data-name="Search-No Data" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Search-No Data</tspan></text>
+      <g id="路径_321-4" data-name="路径 321" transform="translate(0 30.769)" fill="#fff">
+        <path d="M 452 54.96353149414062 L 8 54.96353149414062 C 3.864470481872559 54.96353149414062 0.5 51.59906005859375 0.5 47.46353149414062 L 0.5 8.000000953674316 C 0.5 3.864471673965454 3.864470481872559 0.5000010132789612 8 0.5000010132789612 L 452 0.5000010132789612 C 456.1355285644531 0.5000010132789612 459.5 3.864471673965454 459.5 8.000000953674316 L 459.5 47.46353149414062 C 459.5 51.59906005859375 456.1355285644531 54.96353149414062 452 54.96353149414062 Z" stroke="none"/>
+        <path d="M 8 1 C 4.140167236328125 1 1 4.140178680419922 1 8 L 1 47.46353149414062 C 1 51.3233528137207 4.140167236328125 54.46353149414062 8 54.46353149414062 L 452 54.46353149414062 C 455.8598327636719 54.46353149414062 459 51.3233528137207 459 47.46353149414062 L 459 8 C 459 4.140178680419922 455.8598327636719 1 452 1 L 8 1 M 8 0 L 452 0 C 456.4183044433594 0 460 3.581707000732422 460 8 L 460 47.46353149414062 C 460 51.8818244934082 456.4183044433594 55.46353149414062 452 55.46353149414062 L 8 55.46353149414062 C 3.581695556640625 55.46353149414062 0 51.8818244934082 0 47.46353149414062 L 0 8 C 0 3.581707000732422 3.581695556640625 0 8 0 Z" stroke="none" fill="#006cd0"/>
+      </g>
+      <rect id="矩形_1938-3" data-name="矩形 1938" width="50" height="51" rx="7" transform="translate(408.817 33.27)" fill="#ddebf8"/>
+      <g id="chevron-down-8" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-8" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#006cd0"/>
+      </g>
+      <text id="請選擇...-11" data-name="請選擇..." transform="translate(15.5 65.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+    </g>
+    <g id="下拉選單-11" data-name="下拉選單" transform="translate(1284 1967.176)">
+      <text id="Search-No_Data_已選擇0_" data-name="Search-No Data (已選擇0)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Search-No Data (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">0)</tspan></text>
+      <g id="路径_321-5" data-name="路径 321" transform="translate(0 30.769)" fill="#fff">
+        <path d="M 452 54.96353149414062 L 8 54.96353149414062 C 3.864470481872559 54.96353149414062 0.5 51.59906005859375 0.5 47.46353149414062 L 0.5 8.000000953674316 C 0.5 3.864471673965454 3.864470481872559 0.5000010132789612 8 0.5000010132789612 L 452 0.5000010132789612 C 456.1355285644531 0.5000010132789612 459.5 3.864471673965454 459.5 8.000000953674316 L 459.5 47.46353149414062 C 459.5 51.59906005859375 456.1355285644531 54.96353149414062 452 54.96353149414062 Z" stroke="none"/>
+        <path d="M 8 1 C 4.140167236328125 1 1 4.140178680419922 1 8 L 1 47.46353149414062 C 1 51.3233528137207 4.140167236328125 54.46353149414062 8 54.46353149414062 L 452 54.46353149414062 C 455.8598327636719 54.46353149414062 459 51.3233528137207 459 47.46353149414062 L 459 8 C 459 4.140178680419922 455.8598327636719 1 452 1 L 8 1 M 8 0 L 452 0 C 456.4183044433594 0 460 3.581707000732422 460 8 L 460 47.46353149414062 C 460 51.8818244934082 456.4183044433594 55.46353149414062 452 55.46353149414062 L 8 55.46353149414062 C 3.581695556640625 55.46353149414062 0 51.8818244934082 0 47.46353149414062 L 0 8 C 0 3.581707000732422 3.581695556640625 0 8 0 Z" stroke="none" fill="#006cd0"/>
+      </g>
+      <rect id="矩形_1938-4" data-name="矩形 1938" width="50" height="51" rx="7" transform="translate(408.817 33.27)" fill="#ddebf8"/>
+      <g id="chevron-down-9" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-9" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#006cd0"/>
+      </g>
+      <text id="請選擇...-12" data-name="請選擇..." transform="translate(15.5 65.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+    </g>
+    <g id="下拉選單-12" data-name="下拉選單" transform="translate(1285.311 1028.815)">
+      <text id="Search-No_Data-2" data-name="Search-No Data" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Search-No Data</tspan></text>
+      <g id="矩形_1725-11" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#006cd0" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="_100" data-name="100" transform="translate(12.762 64.77)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100</tspan></text>
+      <rect id="矩形_1938-5" data-name="矩形 1938" width="50" height="51" rx="7" transform="translate(408.817 33.27)" fill="#ddebf8"/>
+      <g id="chevron-down-10" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-10" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#006cd0"/>
+      </g>
+    </g>
+    <text id="沒有資料" transform="translate(1303.621 1150.464)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">沒有資料</tspan></text>
+    <g id="组_2963" data-name="组 2963" transform="translate(-54.146 -891.148)">
+      <rect id="矩形_1934" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+      <path id="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+    </g>
+    <g id="组_2978" data-name="组 2978" transform="translate(696.45 -5163.791)">
+      <rect id="矩形_1934-2" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+      <path id="hand-pointer-o-2" data-name="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+    </g>
+    <g id="组_2976" data-name="组 2976" transform="translate(600.28 -4114.525)">
+      <rect id="矩形_1934-3" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+      <path id="hand-pointer-o-3" data-name="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+    </g>
+    <g id="组_3076" data-name="组 3076" transform="translate(600.28 -3536.171)">
+      <rect id="矩形_1934-4" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+      <path id="hand-pointer-o-4" data-name="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+    </g>
+    <g id="组_3134" data-name="组 3134" transform="translate(600.28 -2220.334)">
+      <rect id="矩形_1934-5" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+      <path id="hand-pointer-o-5" data-name="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+    </g>
+    <g id="下拉選單-13" data-name="下拉選單" transform="translate(110 758)">
+      <text id="Default-3" data-name="Default" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Default</tspan></text>
+      <g id="矩形_1725-12" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-13" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      <g id="chevron-down-11" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-11" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="下拉選單-14" data-name="下拉選單" transform="translate(110 1394)">
+      <text id="Default-4" data-name="Default" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Default</tspan></text>
+      <g id="矩形_1725-13" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-14" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      <g id="chevron-down-12" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-12" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="下拉選單-15" data-name="下拉選單" transform="translate(110 3287.907)">
+      <text id="Default_已選擇0_" data-name="Default (已選擇0)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Default (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">0)</tspan></text>
+      <g id="矩形_1725-14" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="請選擇...-15" data-name="請選擇..." transform="translate(12.762 64.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+    </g>
+    <g id="下拉選單-16" data-name="下拉選單" transform="translate(1285.311 1650.107)">
+      <text id="Select-3" data-name="Select" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Select</tspan></text>
+      <g id="矩形_1725-15" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <g id="chevron-down-13" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-13" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+      <text id="A0550_王大明" data-name="A0550　王大明" transform="translate(17 65.501)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">　王大明</tspan></text>
+      <path id="times-circle" d="M14.71,12.725a.789.789,0,0,0-.243-.576L12.149,9.832l2.317-2.317a.787.787,0,0,0,.243-.576.8.8,0,0,0-.243-.589L13.314,5.2a.8.8,0,0,0-.589-.243.789.789,0,0,0-.576.243L9.832,7.515,7.515,5.2a.787.787,0,0,0-.576-.243A.8.8,0,0,0,6.35,5.2L5.2,6.35a.8.8,0,0,0-.243.589.789.789,0,0,0,.243.576L7.515,9.832,5.2,12.149a.787.787,0,0,0-.243.576.8.8,0,0,0,.243.589L6.35,14.466a.8.8,0,0,0,.589.243.789.789,0,0,0,.576-.243l2.317-2.317,2.317,2.317a.787.787,0,0,0,.576.243.8.8,0,0,0,.589-.243l1.152-1.152a.8.8,0,0,0,.243-.589Zm4.954-2.893a9.619,9.619,0,0,1-1.319,4.935,9.787,9.787,0,0,1-3.578,3.578,9.619,9.619,0,0,1-4.935,1.319A9.619,9.619,0,0,1,4.9,18.345a9.787,9.787,0,0,1-3.578-3.578A9.619,9.619,0,0,1,0,9.832,9.619,9.619,0,0,1,1.319,4.9,9.787,9.787,0,0,1,4.9,1.319,9.619,9.619,0,0,1,9.832,0a9.619,9.619,0,0,1,4.935,1.319A9.787,9.787,0,0,1,18.345,4.9,9.619,9.619,0,0,1,19.664,9.832Z" transform="translate(378.857 48.168)"/>
+    </g>
+    <g id="下拉選單-17" data-name="下拉選單" transform="translate(1285.311 2244.402)">
+      <text id="Select_已選擇99_" data-name="Select (已選擇99)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Select (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">99)</tspan></text>
+      <g id="矩形_1725-16" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <g id="chevron-down-14" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-14" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+      <text id="A0550-王大明_A0550-王大明_A0550-王大.._" data-name="A0550-王大明,  A0550-王大明,  A0550-王大.. " transform="translate(17 65.501)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">王大明</tspan><tspan y="0" xml:space="preserve">,  A0550-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">王大明</tspan><tspan y="0" xml:space="preserve">,  A0550-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">王大</tspan><tspan y="0">.. </tspan></text>
+      <path id="times-circle-2" data-name="times-circle" d="M14.71,12.725a.789.789,0,0,0-.243-.576L12.149,9.832l2.317-2.317a.787.787,0,0,0,.243-.576.8.8,0,0,0-.243-.589L13.314,5.2a.8.8,0,0,0-.589-.243.789.789,0,0,0-.576.243L9.832,7.515,7.515,5.2a.787.787,0,0,0-.576-.243A.8.8,0,0,0,6.35,5.2L5.2,6.35a.8.8,0,0,0-.243.589.789.789,0,0,0,.243.576L7.515,9.832,5.2,12.149a.787.787,0,0,0-.243.576.8.8,0,0,0,.243.589L6.35,14.466a.8.8,0,0,0,.589.243.789.789,0,0,0,.576-.243l2.317-2.317,2.317,2.317a.787.787,0,0,0,.576.243.8.8,0,0,0,.589-.243l1.152-1.152a.8.8,0,0,0,.243-.589Zm4.954-2.893a9.619,9.619,0,0,1-1.319,4.935,9.787,9.787,0,0,1-3.578,3.578,9.619,9.619,0,0,1-4.935,1.319A9.619,9.619,0,0,1,4.9,18.345a9.787,9.787,0,0,1-3.578-3.578A9.619,9.619,0,0,1,0,9.832,9.619,9.619,0,0,1,1.319,4.9,9.787,9.787,0,0,1,4.9,1.319,9.619,9.619,0,0,1,9.832,0a9.619,9.619,0,0,1,4.935,1.319A9.787,9.787,0,0,1,18.345,4.9,9.619,9.619,0,0,1,19.664,9.832Z" transform="translate(378.857 48.168)"/>
+    </g>
+    <g id="下拉選單-18" data-name="下拉選單" transform="translate(1285.311 3288)">
+      <text id="Select_已選擇1_" data-name="Select (已選擇1)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Select (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">1)</tspan></text>
+      <g id="矩形_1725-17" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <g id="chevron-down-15" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-15" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+      <path id="times-circle-3" data-name="times-circle" d="M14.71,12.725a.789.789,0,0,0-.243-.576L12.149,9.832l2.317-2.317a.787.787,0,0,0,.243-.576.8.8,0,0,0-.243-.589L13.314,5.2a.8.8,0,0,0-.589-.243.789.789,0,0,0-.576.243L9.832,7.515,7.515,5.2a.787.787,0,0,0-.576-.243A.8.8,0,0,0,6.35,5.2L5.2,6.35a.8.8,0,0,0-.243.589.789.789,0,0,0,.243.576L7.515,9.832,5.2,12.149a.787.787,0,0,0-.243.576.8.8,0,0,0,.243.589L6.35,14.466a.8.8,0,0,0,.589.243.789.789,0,0,0,.576-.243l2.317-2.317,2.317,2.317a.787.787,0,0,0,.576.243.8.8,0,0,0,.589-.243l1.152-1.152a.8.8,0,0,0,.243-.589Zm4.954-2.893a9.619,9.619,0,0,1-1.319,4.935,9.787,9.787,0,0,1-3.578,3.578,9.619,9.619,0,0,1-4.935,1.319A9.619,9.619,0,0,1,4.9,18.345a9.787,9.787,0,0,1-3.578-3.578A9.619,9.619,0,0,1,0,9.832,9.619,9.619,0,0,1,1.319,4.9,9.787,9.787,0,0,1,4.9,1.319,9.619,9.619,0,0,1,9.832,0a9.619,9.619,0,0,1,4.935,1.319A9.787,9.787,0,0,1,18.345,4.9,9.619,9.619,0,0,1,19.664,9.832Z" transform="translate(378.857 48.168)"/>
+      <rect id="矩形_2221" data-name="矩形 2221" width="164" height="32" transform="translate(16.214 42.501)" fill="#dee0e1"/>
+      <text id="A10003-集團財務" transform="translate(21.689 65.501)" fill="#676a6c" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10003-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan></text>
+      <g id="close" transform="translate(158.232 52.473)">
+        <path id="路径_310" data-name="路径 310" d="M12.983,14.06a.972.972,0,0,1-.294.714L11.262,16.2a1.014,1.014,0,0,1-1.428,0L6.748,13.116,3.661,16.2a.972.972,0,0,1-.714.294.972.972,0,0,1-.714-.294L.806,14.774a1.014,1.014,0,0,1,0-1.428L3.892,10.26.806,7.174a1.014,1.014,0,0,1,0-1.428L2.234,4.319a.972.972,0,0,1,.714-.294.972.972,0,0,1,.714.294L6.748,7.405,9.834,4.319a1.014,1.014,0,0,1,1.428,0l1.428,1.428a1.014,1.014,0,0,1,0,1.428L9.6,10.26l3.086,3.086A.972.972,0,0,1,12.983,14.06Z" transform="translate(-0.512 -4.025)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="下拉選單-19" data-name="下拉選單" transform="translate(1113.346 2610.24)">
+      <text id="員工編號_已選擇99_" data-name="員工編號 (已選擇99)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工編號</tspan><tspan y="0" xml:space="preserve" font-family="SegoeUI, Segoe UI"> (</tspan><tspan y="0">已選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">99)</tspan></text>
+      <g id="矩形_1725-18" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <g id="chevron-down-16" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-16" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+      <text id="A0550-王大明_A0550-王大明_A0550-王大.._2" data-name="A0550-王大明,  A0550-王大明,  A0550-王大.. " transform="translate(17 65.501)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">王大明</tspan><tspan y="0" xml:space="preserve">,  A0550-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">王大明</tspan><tspan y="0" xml:space="preserve">,  A0550-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">王大</tspan><tspan y="0">.. </tspan></text>
+      <path id="times-circle-4" data-name="times-circle" d="M14.71,12.725a.789.789,0,0,0-.243-.576L12.149,9.832l2.317-2.317a.787.787,0,0,0,.243-.576.8.8,0,0,0-.243-.589L13.314,5.2a.8.8,0,0,0-.589-.243.789.789,0,0,0-.576.243L9.832,7.515,7.515,5.2a.787.787,0,0,0-.576-.243A.8.8,0,0,0,6.35,5.2L5.2,6.35a.8.8,0,0,0-.243.589.789.789,0,0,0,.243.576L7.515,9.832,5.2,12.149a.787.787,0,0,0-.243.576.8.8,0,0,0,.243.589L6.35,14.466a.8.8,0,0,0,.589.243.789.789,0,0,0,.576-.243l2.317-2.317,2.317,2.317a.787.787,0,0,0,.576.243.8.8,0,0,0,.589-.243l1.152-1.152a.8.8,0,0,0,.243-.589Zm4.954-2.893a9.619,9.619,0,0,1-1.319,4.935,9.787,9.787,0,0,1-3.578,3.578,9.619,9.619,0,0,1-4.935,1.319A9.619,9.619,0,0,1,4.9,18.345a9.787,9.787,0,0,1-3.578-3.578A9.619,9.619,0,0,1,0,9.832,9.619,9.619,0,0,1,1.319,4.9,9.787,9.787,0,0,1,4.9,1.319,9.619,9.619,0,0,1,9.832,0a9.619,9.619,0,0,1,4.935,1.319A9.787,9.787,0,0,1,18.345,4.9,9.619,9.619,0,0,1,19.664,9.832Z" transform="translate(378.857 48.168)"/>
+    </g>
+    <g id="下拉選單-20" data-name="下拉選單" transform="translate(1114.346 3905.421)">
+      <text id="部門_已選擇1_" data-name="部門 (已選擇1)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">部門</tspan><tspan y="0" xml:space="preserve" font-family="SegoeUI, Segoe UI"> (</tspan><tspan y="0">已選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">1)</tspan></text>
+      <g id="矩形_1725-19" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="460" height="55.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+      </g>
+      <g id="chevron-down-17" data-name="chevron-down" transform="translate(428.2 54.779)">
+        <path id="caret-down-17" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+      <rect id="矩形_1915" data-name="矩形 1915" width="164" height="32" transform="translate(13.179 42)" fill="#eaf5fb"/>
+      <text id="A10003-集團財務-2" data-name="A10003-集團財務" transform="translate(18.654 65)" fill="#676a6c" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10003-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan></text>
+      <g id="close-2" data-name="close" transform="translate(155.198 51.972)">
+        <path id="路径_310-2" data-name="路径 310" d="M12.983,14.06a.972.972,0,0,1-.294.714L11.262,16.2a1.014,1.014,0,0,1-1.428,0L6.748,13.116,3.661,16.2a.972.972,0,0,1-.714.294.972.972,0,0,1-.714-.294L.806,14.774a1.014,1.014,0,0,1,0-1.428L3.892,10.26.806,7.174a1.014,1.014,0,0,1,0-1.428L2.234,4.319a.972.972,0,0,1,.714-.294.972.972,0,0,1,.714.294L6.748,7.405,9.834,4.319a1.014,1.014,0,0,1,1.428,0l1.428,1.428a1.014,1.014,0,0,1,0,1.428L9.6,10.26l3.086,3.086A.972.972,0,0,1,12.983,14.06Z" transform="translate(-0.512 -4.025)" fill="#676a6c"/>
+      </g>
+    </g>
+    <line id="直线_501" data-name="直线 501" y2="30" transform="translate(1333.621 1071.931)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="路径_322" data-name="路径 322" d="M0,0H443.8V36H0Z" transform="translate(709.311 1492.149)" fill="#e9eaeb"/>
+    <path id="路径_326" data-name="路径 326" d="M0,0H443.8V36H0Z" transform="translate(709 2070.503)" fill="#e9eaeb"/>
+    <path id="路径_323" data-name="路径 323" d="M0,0H443.8V36H0Z" transform="translate(1291 1492.149)" fill="#e9eaeb"/>
+    <g id="组_2977" data-name="组 2977" transform="translate(709.311 1527.821)">
+      <path id="路径_257" data-name="路径 257" d="M0,0H444.6V36H0Z" transform="translate(0)" fill="#f8f8f8"/>
+      <g id="search-2" data-name="search" transform="translate(154.594 10)">
+        <path id="路径_205" data-name="路径 205" d="M23.118,23.117a.96.96,0,0,1,1.358,0l3.7,3.7a.96.96,0,1,1-1.357,1.358l-3.7-3.7a.96.96,0,0,1,0-1.358Z" transform="translate(-13.094 -13.093)" fill="#676a6c" fill-rule="evenodd"/>
+        <path id="路径_206" data-name="路径 206" d="M6.24,11.519A5.28,5.28,0,1,0,.96,6.24,5.28,5.28,0,0,0,6.24,11.519Zm6.24-5.28A6.24,6.24,0,1,1,6.24,0,6.24,6.24,0,0,1,12.479,6.24Z" transform="translate(0 0)" fill="#676a6c" fill-rule="evenodd"/>
+      </g>
+      <g id="search-3" data-name="search" transform="translate(4.498 10)">
+        <path id="路径_205-2" data-name="路径 205" d="M23.118,23.117a.96.96,0,0,1,1.358,0l3.7,3.7a.96.96,0,1,1-1.357,1.358l-3.7-3.7a.96.96,0,0,1,0-1.358Z" transform="translate(-13.094 -13.093)" fill="#676a6c" fill-rule="evenodd"/>
+        <path id="路径_206-2" data-name="路径 206" d="M6.24,11.519A5.28,5.28,0,1,0,.96,6.24,5.28,5.28,0,0,0,6.24,11.519Zm6.24-5.28A6.24,6.24,0,1,1,6.24,0,6.24,6.24,0,0,1,12.479,6.24Z" transform="translate(0 0)" fill="#676a6c" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="组_3075" data-name="组 3075" transform="translate(709 2106.175)">
+      <path id="路径_257-2" data-name="路径 257" d="M0,0H443.491V36H0Z" transform="translate(0)" fill="#f8f8f8"/>
+      <g id="search-4" data-name="search" transform="translate(87.196 10)">
+        <path id="路径_205-3" data-name="路径 205" d="M23.118,23.117a.96.96,0,0,1,1.358,0l3.7,3.7a.96.96,0,1,1-1.357,1.358l-3.7-3.7a.96.96,0,0,1,0-1.358Z" transform="translate(-13.094 -13.093)" fill="#676a6c" fill-rule="evenodd"/>
+        <path id="路径_206-3" data-name="路径 206" d="M6.24,11.519A5.28,5.28,0,1,0,.96,6.24,5.28,5.28,0,0,0,6.24,11.519Zm6.24-5.28A6.24,6.24,0,1,1,6.24,0,6.24,6.24,0,0,1,12.479,6.24Z" transform="translate(0 0)" fill="#676a6c" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="组_3124" data-name="组 3124" transform="translate(1292.789 2106.175)">
+      <path id="路径_257-3" data-name="路径 257" d="M0,0H443.491V36H0Z" transform="translate(0)" fill="#f8f8f8"/>
+      <g id="search-5" data-name="search" transform="translate(87.196 10)">
+        <path id="路径_205-4" data-name="路径 205" d="M23.118,23.117a.96.96,0,0,1,1.358,0l3.7,3.7a.96.96,0,1,1-1.357,1.358l-3.7-3.7a.96.96,0,0,1,0-1.358Z" transform="translate(-13.094 -13.093)" fill="#676a6c" fill-rule="evenodd"/>
+        <path id="路径_206-4" data-name="路径 206" d="M6.24,11.519A5.28,5.28,0,1,0,.96,6.24,5.28,5.28,0,0,0,6.24,11.519Zm6.24-5.28A6.24,6.24,0,1,1,6.24,0,6.24,6.24,0,0,1,12.479,6.24Z" transform="translate(0 0)" fill="#676a6c" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="组_2980" data-name="组 2980" transform="translate(1291 1527.821)">
+      <path id="路径_257-4" data-name="路径 257" d="M0,0H444.6V36H0Z" transform="translate(0)" fill="#f8f8f8"/>
+      <g id="search-6" data-name="search" transform="translate(154.594 10)">
+        <path id="路径_205-5" data-name="路径 205" d="M23.118,23.117a.96.96,0,0,1,1.358,0l3.7,3.7a.96.96,0,1,1-1.357,1.358l-3.7-3.7a.96.96,0,0,1,0-1.358Z" transform="translate(-13.094 -13.093)" fill="#676a6c" fill-rule="evenodd"/>
+        <path id="路径_206-5" data-name="路径 206" d="M6.24,11.519A5.28,5.28,0,1,0,.96,6.24,5.28,5.28,0,0,0,6.24,11.519Zm6.24-5.28A6.24,6.24,0,1,1,6.24,0,6.24,6.24,0,0,1,12.479,6.24Z" transform="translate(0 0)" fill="#676a6c" fill-rule="evenodd"/>
+      </g>
+      <g id="search-7" data-name="search" transform="translate(4.498 10)">
+        <path id="路径_205-6" data-name="路径 205" d="M23.118,23.117a.96.96,0,0,1,1.358,0l3.7,3.7a.96.96,0,1,1-1.357,1.358l-3.7-3.7a.96.96,0,0,1,0-1.358Z" transform="translate(-13.094 -13.093)" fill="#676a6c" fill-rule="evenodd"/>
+        <path id="路径_206-6" data-name="路径 206" d="M6.24,11.519A5.28,5.28,0,1,0,.96,6.24,5.28,5.28,0,0,0,6.24,11.519Zm6.24-5.28A6.24,6.24,0,1,1,6.24,0,6.24,6.24,0,0,1,12.479,6.24Z" transform="translate(0 0)" fill="#676a6c" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <text id="員工姓名" transform="translate(885.621 1517.985)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+    <text id="沒有資料-2" data-name="沒有資料" transform="translate(1476.69 1601.985)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">沒有資料</tspan></text>
+    <text id="沒有資料-3" data-name="沒有資料" transform="translate(1489.69 2172)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">沒有資料</tspan></text>
+    <text id="_9999999" data-name="9999999" transform="translate(1411.69 2130.906)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">9999999</tspan></text>
+    <text id="人" transform="translate(1321.69 1553.783)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">人</tspan></text>
+    <text id="部門" transform="translate(764.001 1517.149)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">部門</tspan></text>
+    <text id="部門-2" data-name="部門" transform="translate(1345.69 1517.149)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">部門</tspan></text>
+    <text id="員工姓名-2" data-name="員工姓名" transform="translate(1476.69 1517.149)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+    <text id="員工姓名-3" data-name="員工姓名" transform="translate(813.621 2096.339)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+    <rect id="矩形_2144" data-name="矩形 2144" width="441" height="32.358" transform="translate(709 2238.309)" fill="#eaf5fb"/>
+    <rect id="矩形_2185" data-name="矩形 2185" width="460" height="37.929" transform="translate(702.311 3544.048)" fill="#eaf5fb"/>
+    <rect id="矩形_2148" data-name="矩形 2148" width="441" height="32.358" transform="translate(709 2174.354)" fill="#eaf5fb"/>
+    <rect id="矩形_2179" data-name="矩形 2179" width="460.311" height="38.134" transform="translate(702 3467.86)" fill="#eaf5fb"/>
+    <g id="组_3121" data-name="组 3121" transform="translate(583 10.88)">
+      <g transform="matrix(1, 0, 0, 1, -583, -10.88)" filter="url(#矩形_1923)">
+        <g id="矩形_1923-3" data-name="矩形 1923" transform="translate(1285.31 848.69)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+          <rect width="460" height="124.91" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="459" height="123.91" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <text id="仲介公司名稱3-2" data-name="仲介公司名稱3" transform="translate(720.621 951.496)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">3</tspan></text>
+      <g id="下拉選單-21" data-name="下拉選單" transform="translate(702.311 747.12)">
+        <text id="Click-key-In" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click-key-In</tspan></text>
+        <g id="矩形_1725-20" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#006cd0" stroke-width="1">
+          <rect width="460" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="仲介" transform="translate(12.762 64.77)" fill="#676a6c" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介</tspan></text>
+        <rect id="矩形_1938-6" data-name="矩形 1938" width="50" height="51" rx="7" transform="translate(408.817 33.27)" fill="#ddebf8"/>
+        <g id="chevron-down-18" data-name="chevron-down" transform="translate(428.2 54.779)">
+          <path id="caret-down-18" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#006cd0"/>
+        </g>
+      </g>
+      <rect id="矩形_1940" data-name="矩形 1940" width="458" height="44" transform="translate(702.311 881.815)" fill="#eaf5fb"/>
+      <rect id="矩形_1924" data-name="矩形 1924" width="458" height="44" transform="translate(703.311 837.815)" fill="#02b2e1"/>
+      <text id="仲介公司名稱1-2" data-name="仲介公司名稱1" transform="translate(720.621 865.725)" fill="#fff" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">1</tspan></text>
+      <g id="组_2965" data-name="组 2965" transform="translate(600.279 -4766.728)">
+        <rect id="矩形_1934-6" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+        <path id="hand-pointer-o-6" data-name="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+      </g>
+      <line id="直线_500" data-name="直线 500" y2="30" transform="translate(756.621 790.309)" fill="none" stroke="#707070" stroke-width="2"/>
+      <text id="仲介公司名稱2-2" data-name="仲介公司名稱2" transform="translate(720.621 908.61)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">2</tspan></text>
+      <path id="mouse-pointer-3" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1141.633 913.419)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="组_3122" data-name="组 3122" transform="translate(0 10.88)">
+      <g transform="matrix(1, 0, 0, 1, 0, -10.88)" filter="url(#矩形_1923-2)">
+        <g id="矩形_1923-4" data-name="矩形 1923" transform="translate(702.31 848.69)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+          <rect width="460" height="124.91" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="459" height="123.91" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <text id="仲介公司名稱3-3" data-name="仲介公司名稱3" transform="translate(720.621 951.496)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">3</tspan></text>
+      <g id="下拉選單-22" data-name="下拉選單" transform="translate(702.311 747.12)">
+        <text id="Click-Search" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click-Search</tspan></text>
+        <g id="矩形_1725-21" data-name="矩形 1725" transform="translate(0 30.769)" fill="#fff" stroke="#006cd0" stroke-width="1">
+          <rect width="460" height="55.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="459" height="54.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="請輸入搜尋條件..." transform="translate(14.762 64.77)" fill="#adacbc" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請輸入搜尋條件</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+        <rect id="矩形_1938-7" data-name="矩形 1938" width="50" height="51" rx="7" transform="translate(408.817 33.27)" fill="#ddebf8"/>
+        <g id="chevron-down-19" data-name="chevron-down" transform="translate(428.2 54.779)">
+          <path id="caret-down-19" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#006cd0"/>
+        </g>
+      </g>
+      <rect id="矩形_1940-2" data-name="矩形 1940" width="458" height="44" transform="translate(702.311 881.815)" fill="#eaf5fb"/>
+      <text id="仲介公司名稱1-3" data-name="仲介公司名稱1" transform="translate(720.621 865.725)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">1</tspan></text>
+      <g id="组_2965-2" data-name="组 2965" transform="translate(600.279 -4766.728)">
+        <rect id="矩形_1934-7" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+        <path id="hand-pointer-o-7" data-name="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+      </g>
+      <text id="仲介公司名稱2-3" data-name="仲介公司名稱2" transform="translate(720.621 908.61)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">仲介公司名稱</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">2</tspan></text>
+      <path id="mouse-pointer-4" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1141.633 913.419)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      <line id="直线_610" data-name="直线 610" y2="30" transform="translate(715.621 790.309)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <rect id="矩形_1983" data-name="矩形 1983" width="3" height="262" rx="1.5" transform="translate(1150 1570.716)" fill="#cfd1d3"/>
+    <rect id="矩形_2124" data-name="矩形 2124" width="3" height="213" rx="1.5" transform="translate(1149 2147.988)" fill="#cfd1d3"/>
+    <rect id="矩形_2190" data-name="矩形 2190" width="3" height="35.821" rx="1.5" transform="translate(1155.311 3428.664)" fill="#cfd1d3"/>
+    <path id="mouse-pointer-5" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1069.727 2187.636)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <path id="mouse-pointer-6" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1048.727 3481.142)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <line id="直线_519" data-name="直线 519" x1="0.191" y2="20.868" transform="translate(1342.5 1536.349)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="矩形_1986" data-name="矩形 1986" transform="translate(1291 1527.716)" fill="none" stroke="#006cd0" stroke-width="1">
+      <rect width="147" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="146" height="35" fill="none"/>
+    </g>
+    <text id="單選" transform="translate(703 1374)" fill="#45494d" font-size="31" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">單選</tspan></text>
+    <text id="多選" transform="translate(703 1957.175)" fill="#45494d" font-size="31" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">多選</tspan></text>
+    <g id="下拉選單-23" data-name="下拉選單" transform="translate(709 2376.175)">
+      <g id="矩形_1725-22" data-name="矩形 1725" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="75" height="43.464" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="74" height="42.464" rx="7.5" fill="none"/>
+      </g>
+      <text id="_20" data-name="20" transform="translate(12.762 29)" fill="#4b4b4b" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">20</tspan></text>
+      <g id="chevron-down-20" data-name="chevron-down" transform="translate(43.2 18)">
+        <path id="caret-down-20" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+      </g>
+    </g>
+    <g id="组_3087" data-name="组 3087" transform="translate(480.382 278.384)">
+      <g id="下拉選單-24" data-name="下拉選單" transform="translate(522.854 2097.791)">
+        <g id="矩形_1725-23" data-name="矩形 1725" fill="#fff" stroke="#dee2e6" stroke-width="1">
+          <rect width="64.646" height="43.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="63.646" height="42.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="_20-2" data-name="20" transform="translate(12.762 29)" fill="#4b4b4b" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">20</tspan></text>
+        <text id="of_50" data-name="of 50" transform="translate(74.762 29)" fill="#4b4b4b" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">of 50</tspan></text>
+      </g>
+      <path id="路径_328" data-name="路径 328" d="M-12674.155,1369.116l-9.49,8.538,9.49,8.538" transform="translate(13181.264 741.869)" fill="none" stroke="#707070" stroke-width="2"/>
+      <path id="路径_329" data-name="路径 329" d="M-12674.155,1369.116l-9.49,8.538,9.49,8.538" transform="translate(-12018.541 3497.177) rotate(180)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <line id="直线_606" data-name="直线 606" x2="443" transform="translate(709.556 2368.675)" fill="none" stroke="#e9eaeb" stroke-width="1"/>
+    <path id="路径_332" data-name="路径 332" d="M0,0H460" transform="translate(702.311 3429.726)" fill="none" stroke="#e9eaeb" stroke-width="1"/>
+    <g id="组_3083" data-name="组 3083" transform="translate(-92.379 -3740.425)">
+      <text id="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3126" data-name="组 3126" transform="translate(-162 -2449.294)">
+      <text id="A10000-董事長_室_" data-name="A10000-董事長(室)" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10000-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">董事長</tspan><tspan y="0">(</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">室</tspan><tspan y="0">)</tspan></text>
+    </g>
+    <g id="组_3135" data-name="组 3135" transform="translate(-132.379 -2492.276)">
+      <text id="全選" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">全選</tspan></text>
+    </g>
+    <g id="矩形_2141" data-name="矩形 2141" transform="translate(738 2149.729)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2180" data-name="矩形 2180" transform="translate(717 3440.86)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="组_3088" data-name="组 3088" transform="translate(-92.379 -3708.942)">
+      <text id="A0550--2" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-2" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3127" data-name="组 3127" transform="translate(-162 -2410.154)">
+      <text id="A10001-稽核" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10001-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">稽核</tspan></text>
+    </g>
+    <g id="矩形_2142" data-name="矩形 2142" transform="translate(738 2181.212)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2181" data-name="矩形 2181" transform="translate(717 3480)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="组_3088-2" data-name="组 3088" transform="translate(-92.379 -3675.979)">
+      <text id="A0550--3" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-3" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3128" data-name="组 3128" transform="translate(-162 -2375.154)">
+      <text id="A10002-執行長_室_" data-name="A10002-執行長(室)" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10002-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">執行長</tspan><tspan y="0">(</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">室</tspan><tspan y="0">)</tspan></text>
+    </g>
+    <g id="矩形_2142-2" data-name="矩形 2142" transform="translate(738 2214.175)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2182" data-name="矩形 2182" transform="translate(717 3514)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="组_3088-3" data-name="组 3088" transform="translate(-92.379 -3644.845)">
+      <text id="A0550--4" data-name="A0550-" transform="translate(906 5905.154)" fill="#0069cb" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-4" data-name="王大明" transform="translate(964 5905.99)" fill="#0069cb" font-size="18" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3129" data-name="组 3129" transform="translate(-162 -2335.154)">
+      <text id="A10003-集團財務-3" data-name="A10003-集團財務" transform="translate(906 5905.154)" fill="#0069cb" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">A10003-</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">集團財務</tspan></text>
+    </g>
+    <g id="矩形_2142-3" data-name="矩形 2142" transform="translate(738 2245.309)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2186" data-name="矩形 2186" transform="translate(717 3555)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="组_3088-4" data-name="组 3088" transform="translate(-92.379 -3612.979)">
+      <text id="A0550--5" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-5" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3130" data-name="组 3130" transform="translate(-162 -2297.154)">
+      <text id="A10004-集團財務-集團財務" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10004-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan><tspan y="0">-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan></text>
+    </g>
+    <g id="组_3089" data-name="组 3089" transform="translate(-92.379 -3580.355)">
+      <text id="A0550--6" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-6" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3131" data-name="组 3131" transform="translate(-162 -2260.154)">
+      <text id="A10005-集團財務-轉投資會計" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10005-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan><tspan y="0">-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">轉投資會計</tspan></text>
+    </g>
+    <g id="组_3090" data-name="组 3090" transform="translate(-92.379 -3548.73)">
+      <text id="A0550--7" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-7" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3132" data-name="组 3132" transform="translate(-162 -2221.154)">
+      <text id="A10006-集團財務-轉投資會計2" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10006-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan><tspan y="0">-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">轉投資會計</tspan><tspan y="0">2</tspan></text>
+    </g>
+    <g id="矩形_2142-4" data-name="矩形 2142" transform="translate(738 2277.175)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2187" data-name="矩形 2187" transform="translate(717 3593)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2150" data-name="矩形 2150" transform="translate(738 2309.799)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2188" data-name="矩形 2188" transform="translate(717 3630)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2152" data-name="矩形 2152" transform="translate(738 2341.424)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2189" data-name="矩形 2189" transform="translate(717 3669)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="17" height="17" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+    </g>
+    <line id="直线_607" data-name="直线 607" y2="298" transform="translate(784.311 2070.675)" fill="none" stroke="#e9eaeb" stroke-width="1"/>
+    <path id="check" d="M10.242,3.2a.578.578,0,0,1-.175.425L5.546,8.15,4.7,9a.6.6,0,0,1-.849,0L3,8.15.737,5.89a.6.6,0,0,1,0-.849l.849-.849a.578.578,0,0,1,.425-.175.578.578,0,0,1,.425.175L4.271,6.034l4.1-4.1a.6.6,0,0,1,.849,0l.849.849a.578.578,0,0,1,.175.425Z" transform="translate(741.098 2248.553)" fill="#006cd0"/>
+    <path id="check-2" data-name="check" d="M10.242,3.2a.578.578,0,0,1-.175.425L5.546,8.15,4.7,9a.6.6,0,0,1-.849,0L3,8.15.737,5.89a.6.6,0,0,1,0-.849l.849-.849a.578.578,0,0,1,.425-.175.578.578,0,0,1,.425.175L4.271,6.034l4.1-4.1a.6.6,0,0,1,.849,0l.849.849a.578.578,0,0,1,.175.425Z" transform="translate(720.098 3557.244)" fill="#006cd0"/>
+    <g id="矩形_2146" data-name="矩形 2146" transform="translate(738 2079.175)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="20" height="20" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" rx="3.5" fill="none"/>
+    </g>
+    <g id="矩形_2183" data-name="矩形 2183" transform="translate(717 3395.012)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="20" height="20" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" rx="3.5" fill="none"/>
+    </g>
+    <rect id="矩形_2147" data-name="矩形 2147" width="12" height="12" rx="2" transform="translate(742 2083.175)" fill="#0069cb"/>
+    <rect id="矩形_2184" data-name="矩形 2184" width="12" height="12" rx="2" transform="translate(721 3399.012)" fill="#0069cb"/>
+    <g id="组_3123" data-name="组 3123" transform="translate(-1036.654 594)">
+      <g transform="matrix(1, 0, 0, 1, 1036.65, -594)" filter="url(#矩形_2155)">
+        <g id="矩形_2155-2" data-name="矩形 2155" transform="translate(248.66 2620.84)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+          <rect width="460" height="366.91" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="459" height="365.91" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g id="下拉選單-25" data-name="下拉選單" transform="translate(1285.621 1936)">
+        <text id="Click_已選擇99_2" data-name="Click (已選擇99)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">99)</tspan></text>
+        <g id="路径_321-6" data-name="路径 321" transform="translate(0 30.769)" fill="#fff">
+          <path d="M 452 54.96353149414062 L 8 54.96353149414062 C 3.864470481872559 54.96353149414062 0.5 51.59906005859375 0.5 47.46353149414062 L 0.5 8.000000953674316 C 0.5 3.864471673965454 3.864470481872559 0.5000010132789612 8 0.5000010132789612 L 452 0.5000010132789612 C 456.1355285644531 0.5000010132789612 459.5 3.864471673965454 459.5 8.000000953674316 L 459.5 47.46353149414062 C 459.5 51.59906005859375 456.1355285644531 54.96353149414062 452 54.96353149414062 Z" stroke="none"/>
+          <path d="M 8 1 C 4.140167236328125 1 1 4.140178680419922 1 8 L 1 47.46353149414062 C 1 51.3233528137207 4.140167236328125 54.46353149414062 8 54.46353149414062 L 452 54.46353149414062 C 455.8598327636719 54.46353149414062 459 51.3233528137207 459 47.46353149414062 L 459 8 C 459 4.140178680419922 455.8598327636719 1 452 1 L 8 1 M 8 0 L 452 0 C 456.4183044433594 0 460 3.581707000732422 460 8 L 460 47.46353149414062 C 460 51.8818244934082 456.4183044433594 55.46353149414062 452 55.46353149414062 L 8 55.46353149414062 C 3.581695556640625 55.46353149414062 0 51.8818244934082 0 47.46353149414062 L 0 8 C 0 3.581707000732422 3.581695556640625 0 8 0 Z" stroke="none" fill="#006cd0"/>
+        </g>
+        <rect id="矩形_1938-8" data-name="矩形 1938" width="50" height="51" rx="7" transform="translate(408.817 33.27)" fill="#ddebf8"/>
+        <g id="chevron-down-21" data-name="chevron-down" transform="translate(428.2 54.779)">
+          <path id="caret-down-21" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#006cd0"/>
+        </g>
+        <text id="請選擇...-16" data-name="請選擇..." transform="translate(15.5 65.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      </g>
+      <g id="组_3084" data-name="组 3084" transform="translate(1183.59 -3572.242)">
+        <rect id="矩形_1934-8" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+        <path id="hand-pointer-o-8" data-name="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+      </g>
+      <path id="路径_330" data-name="路径 330" d="M0,0H443.8V36H0Z" transform="translate(1292 2034.432)" fill="#e9eaeb"/>
+      <g id="组_3111" data-name="组 3111" transform="translate(1292 2070.104)">
+        <path id="路径_257-5" data-name="路径 257" d="M0,0H443.491V36H0Z" transform="translate(0)" fill="#f8f8f8"/>
+        <g id="search-8" data-name="search" transform="translate(87.196 10)">
+          <path id="路径_205-7" data-name="路径 205" d="M23.118,23.117a.96.96,0,0,1,1.358,0l3.7,3.7a.96.96,0,1,1-1.357,1.358l-3.7-3.7a.96.96,0,0,1,0-1.358Z" transform="translate(-13.094 -13.093)" fill="#676a6c" fill-rule="evenodd"/>
+          <path id="路径_206-7" data-name="路径 206" d="M6.24,11.519A5.28,5.28,0,1,0,.96,6.24,5.28,5.28,0,0,0,6.24,11.519Zm6.24-5.28A6.24,6.24,0,1,1,6.24,0,6.24,6.24,0,0,1,12.479,6.24Z" transform="translate(0 0)" fill="#676a6c" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <text id="員工姓名-4" data-name="員工姓名" transform="translate(1396.621 2060.268)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+      <rect id="矩形_2163" data-name="矩形 2163" width="441" height="32.358" transform="translate(1292 2202.238)" fill="#eaf5fb"/>
+      <rect id="矩形_2160" data-name="矩形 2160" width="441" height="32.358" transform="translate(1292 2138.283)" fill="#eaf5fb"/>
+      <rect id="矩形_2158" data-name="矩形 2158" width="3" height="213" rx="1.5" transform="translate(1732 2111.917)" fill="#cfd1d3"/>
+      <path id="mouse-pointer-7" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1652.727 2151.565)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      <rect id="矩形_2127" data-name="矩形 2127" width="143.896" height="21.5" transform="translate(1601.726 2405.836)" fill="#ffefc9"/>
+      <rect id="矩形_2170" data-name="矩形 2170" width="179.896" height="21.5" transform="translate(1288.726 2410.045)" fill="#b8e5b2"/>
+      <rect id="矩形_2174" data-name="矩形 2174" width="190.896" height="21.5" transform="translate(1561.311 1907.396)" fill="#b8e5b2"/>
+      <rect id="矩形_2168" data-name="矩形 2168" width="143.896" height="12.5" transform="translate(1292.557 2329.346)" fill="#75cc68" opacity="0.51"/>
+      <rect id="矩形_2173" data-name="矩形 2173" width="18.896" height="7.5" transform="translate(1329.5 1939.772) rotate(90)" fill="#75cc68" opacity="0.51"/>
+      <text id="padding_6px" data-name="padding：6px" transform="translate(1610.726 2423.627)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">6px</tspan></text>
+      <text id="padding-top_9px" data-name="padding-top：9px" transform="translate(1297.726 2427.836)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding-top</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">9px</tspan></text>
+      <text id="padding-right_3px" data-name="padding-right：3px" transform="translate(1570.311 1925.187)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding-right</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">3px</tspan></text>
+      <g id="组_3091" data-name="组 3091" transform="translate(1175.311 692.581)">
+        <path id="矩形_2134" data-name="矩形 2134" d="M5.767,0h0A1.922,1.922,0,0,1,7.689,1.922V364.988a1.922,1.922,0,0,1-1.922,1.922H1.922A1.922,1.922,0,0,1,0,364.988V5.767A5.767,5.767,0,0,1,5.767,0Z" transform="translate(110 1332.936)" fill="#ffdc89" opacity="0.46"/>
+        <path id="矩形_2135" data-name="矩形 2135" d="M0,0H6a4,4,0,0,1,4,4V359.822a8,8,0,0,1-8,8H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(560 1332.023)" fill="#ffdc89" opacity="0.46"/>
+        <path id="矩形_2136" data-name="矩形 2136" d="M5,0h5a0,0,0,0,1,0,0V459a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(569.298 1332.936) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+        <path id="矩形_2139" data-name="矩形 2139" d="M0,0H4a6,6,0,0,1,6,6V455a5,5,0,0,1-5,5H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" transform="translate(570 1689.846) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+      </g>
+      <g id="下拉選單-26" data-name="下拉選單" transform="translate(1292 2340.104)">
+        <g id="矩形_1725-24" data-name="矩形 1725" fill="#fff" stroke="#dee2e6" stroke-width="1">
+          <rect width="75" height="43.464" rx="8" stroke="none"/>
+          <rect x="0.5" y="0.5" width="74" height="42.464" rx="7.5" fill="none"/>
+        </g>
+        <text id="_20-3" data-name="20" transform="translate(12.762 29)" fill="#4b4b4b" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">20</tspan></text>
+        <g id="chevron-down-22" data-name="chevron-down" transform="translate(43.2 18)">
+          <path id="caret-down-22" data-name="caret-down" d="M13.236,11.627a.8.8,0,0,1-.245.582L7.2,18a.812.812,0,0,1-1.164,0L.245,12.209a.812.812,0,0,1,0-1.164A.793.793,0,0,1,.827,10.8H12.408a.838.838,0,0,1,.827.827Z" transform="translate(0 -10.8)" fill="#676a6c"/>
+        </g>
+      </g>
+      <g id="组_3119" data-name="组 3119" transform="translate(1063.383 242.313)">
+        <g id="下拉選單-27" data-name="下拉選單" transform="translate(522.854 2097.791)">
+          <g id="矩形_1725-25" data-name="矩形 1725" fill="#fff" stroke="#dee2e6" stroke-width="1">
+            <rect width="64.646" height="43.464" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="63.646" height="42.464" rx="7.5" fill="none"/>
+          </g>
+          <text id="_20-4" data-name="20" transform="translate(12.762 29)" fill="#4b4b4b" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">20</tspan></text>
+          <text id="of_50-2" data-name="of 50" transform="translate(74.762 29)" fill="#4b4b4b" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">of 50</tspan></text>
+        </g>
+        <path id="路径_328-2" data-name="路径 328" d="M-12674.155,1369.116l-9.49,8.538,9.49,8.538" transform="translate(13181.264 741.869)" fill="none" stroke="#707070" stroke-width="2"/>
+        <path id="路径_329-2" data-name="路径 329" d="M-12674.155,1369.116l-9.49,8.538,9.49,8.538" transform="translate(-12018.541 3497.177) rotate(180)" fill="none" stroke="#707070" stroke-width="2"/>
+      </g>
+      <line id="直线_609" data-name="直线 609" x2="443" transform="translate(1292.557 2329.346)" fill="none" stroke="#e9eaeb" stroke-width="1"/>
+      <g id="组_3112" data-name="组 3112" transform="translate(490.621 -3776.495)">
+        <text id="A0550--8" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+        <text id="王大明-8" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+      <g id="矩形_2159" data-name="矩形 2159" transform="translate(1321 2113.659)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_3113" data-name="组 3113" transform="translate(490.621 -3745.013)">
+        <text id="A0550--9" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+        <text id="王大明-9" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+      <g id="矩形_2161" data-name="矩形 2161" transform="translate(1321 2145.142)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_3114" data-name="组 3114" transform="translate(490.621 -3712.05)">
+        <text id="A0550--10" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+        <text id="王大明-10" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+      <g id="矩形_2162" data-name="矩形 2162" transform="translate(1321 2178.104)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_3115" data-name="组 3115" transform="translate(490.621 -3680.916)">
+        <text id="A0550--11" data-name="A0550-" transform="translate(906 5905.154)" fill="#0069cb" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">A0550-</tspan></text>
+        <text id="王大明-11" data-name="王大明" transform="translate(964 5905.99)" fill="#0069cb" font-size="18" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+      <g id="矩形_2164" data-name="矩形 2164" transform="translate(1321 2209.238)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_3116" data-name="组 3116" transform="translate(490.621 -3649.05)">
+        <text id="A0550--12" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+        <text id="王大明-12" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+      <g id="组_3117" data-name="组 3117" transform="translate(490.621 -3616.426)">
+        <text id="A0550--13" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+        <text id="王大明-13" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+      <g id="组_3120" data-name="组 3120" transform="translate(490.621 -3583.226)">
+        <text id="A0550--14" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+        <text id="王大明-14" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+      </g>
+      <g id="矩形_2165" data-name="矩形 2165" transform="translate(1321 2241.104)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="矩形_2166" data-name="矩形 2166" transform="translate(1321 2273.729)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="矩形_2169" data-name="矩形 2169" transform="translate(1321 2306.928)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <line id="直线_608" data-name="直线 608" y2="295" transform="translate(1367.311 2034.604)" fill="none" stroke="#e9eaeb" stroke-width="1"/>
+      <path id="check-3" data-name="check" d="M10.242,3.2a.578.578,0,0,1-.175.425L5.546,8.15,4.7,9a.6.6,0,0,1-.849,0L3,8.15.737,5.89a.6.6,0,0,1,0-.849l.849-.849a.578.578,0,0,1,.425-.175.578.578,0,0,1,.425.175L4.271,6.034l4.1-4.1a.6.6,0,0,1,.849,0l.849.849a.578.578,0,0,1,.175.425Z" transform="translate(1324.098 2212.482)" fill="#006cd0"/>
+      <g id="矩形_2156" data-name="矩形 2156" transform="translate(1321 2043.104)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="20" height="20" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" rx="3.5" fill="none"/>
+      </g>
+      <rect id="矩形_2157" data-name="矩形 2157" width="12" height="12" rx="2" transform="translate(1325 2047.104)" fill="#0069cb"/>
+    </g>
+    <g id="组_3136" data-name="组 3136" transform="translate(-1036.654 1893.722)">
+      <rect id="矩形_2174-2" data-name="矩形 2174" width="195" height="21.5" transform="translate(1428.4 1939.928)" fill="#b8e5b2"/>
+      <rect id="矩形_2220" data-name="矩形 2220" width="219.896" height="21.5" transform="translate(1754.311 2030.214)" fill="#b8e5b2"/>
+      <rect id="矩形_2173-2" data-name="矩形 2173" width="18.896" height="7.5" transform="translate(1329.5 1939.772) rotate(90)" fill="#75cc68" opacity="0.51"/>
+      <text id="padding-right_3px_" data-name="padding-right：3px;" transform="translate(1437.4 1957.719)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding-right</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">3px;</tspan></text>
+      <text id="padding_12px_0_12px_" data-name="padding：12px 0 12px;" transform="translate(1763.311 2048.004)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">12px 0 12px;</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 1036.65, -1893.72)" filter="url(#矩形_2202)">
+        <g id="矩形_2202-2" data-name="矩形 2202" transform="translate(248.78 3924.25)" fill="#fff" stroke="#dee2e6" stroke-width="1">
+          <rect width="460" height="322.082" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="459" height="321.082" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g id="下拉選單-28" data-name="下拉選單" transform="translate(1285.432 1939.772)">
+        <text id="Click_已選擇1_2" data-name="Click (已選擇1)" transform="translate(0 19)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Click (</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">已選擇</tspan><tspan y="0">1)</tspan></text>
+        <g id="路径_321-7" data-name="路径 321" transform="translate(0 30.769)" fill="#fff">
+          <path d="M 452 54.96353149414062 L 8 54.96353149414062 C 3.864470481872559 54.96353149414062 0.5 51.59906005859375 0.5 47.46353149414062 L 0.5 8.000000953674316 C 0.5 3.864471673965454 3.864470481872559 0.5000010132789612 8 0.5000010132789612 L 452 0.5000010132789612 C 456.1355285644531 0.5000010132789612 459.5 3.864471673965454 459.5 8.000000953674316 L 459.5 47.46353149414062 C 459.5 51.59906005859375 456.1355285644531 54.96353149414062 452 54.96353149414062 Z" stroke="none"/>
+          <path d="M 8 1 C 4.140167236328125 1 1 4.140178680419922 1 8 L 1 47.46353149414062 C 1 51.3233528137207 4.140167236328125 54.46353149414062 8 54.46353149414062 L 452 54.46353149414062 C 455.8598327636719 54.46353149414062 459 51.3233528137207 459 47.46353149414062 L 459 8 C 459 4.140178680419922 455.8598327636719 1 452 1 L 8 1 M 8 0 L 452 0 C 456.4183044433594 0 460 3.581707000732422 460 8 L 460 47.46353149414062 C 460 51.8818244934082 456.4183044433594 55.46353149414062 452 55.46353149414062 L 8 55.46353149414062 C 3.581695556640625 55.46353149414062 0 51.8818244934082 0 47.46353149414062 L 0 8 C 0 3.581707000732422 3.581695556640625 0 8 0 Z" stroke="none" fill="#006cd0"/>
+        </g>
+        <text id="請選擇...-17" data-name="請選擇..." transform="translate(15.5 65.77)" fill="#dee2e6" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">請選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">...</tspan></text>
+      </g>
+      <g id="组_3138" data-name="组 3138" transform="translate(1183.4 -3568.563)">
+        <rect id="矩形_1934-9" data-name="矩形 1934" width="4" height="9" transform="translate(446.146 5564.696)" fill="#fff"/>
+        <path id="hand-pointer-o-9" data-name="hand-pointer-o" d="M8.354,1.671a1.61,1.61,0,0,0-1.181.489,1.61,1.61,0,0,0-.489,1.182v11.7L4.712,12.4a1.674,1.674,0,0,0-1.4-.7,1.563,1.563,0,0,0-1.162.5,1.665,1.665,0,0,0-.144,2.18l5.012,6.684a1.575,1.575,0,0,0,1.331.666h9.372a.824.824,0,0,0,.516-.176.781.781,0,0,0,.294-.45l1.2-4.8a10.407,10.407,0,0,0,.313-2.532V10.926A1.311,1.311,0,0,0,19.683,10a1.172,1.172,0,0,0-.888-.392,1.249,1.249,0,0,0-1.253,1.253h-.418v-.8A1.483,1.483,0,0,0,16.707,9a1.384,1.384,0,0,0-1.044-.437A1.471,1.471,0,0,0,14.2,10.026v.836h-.418V9.687A1.741,1.741,0,0,0,13.3,8.453a1.569,1.569,0,0,0-1.186-.517,1.672,1.672,0,0,0-1.671,1.671v1.253h-.418V3.42a1.741,1.741,0,0,0-.483-1.233A1.566,1.566,0,0,0,8.354,1.671ZM8.354,0a3.161,3.161,0,0,1,2.369,1.012A3.358,3.358,0,0,1,11.7,3.42V6.292q.287-.026.418-.026a3.205,3.205,0,0,1,2.258.9,3.132,3.132,0,0,1,1.292-.274,2.956,2.956,0,0,1,2.4,1.136,2.892,2.892,0,0,1,.731-.092,2.771,2.771,0,0,1,2.075.881,2.932,2.932,0,0,1,.849,2.108v2.832a11.749,11.749,0,0,1-.366,2.937l-1.2,4.8a2.5,2.5,0,0,1-2.428,1.893H8.354a3.277,3.277,0,0,1-1.494-.359,3.384,3.384,0,0,1-1.181-.972L.666,15.377A3.352,3.352,0,0,1,.973,11.01a3.171,3.171,0,0,1,2.343-.985,3.267,3.267,0,0,1,1.7.457V3.342A3.22,3.22,0,0,1,5.992.979,3.219,3.219,0,0,1,8.354,0Zm1.671,18.379V13.367H9.607v5.012Zm3.342,0V13.367h-.418v5.012Zm3.342,0V13.367H16.29v5.012Z" transform="translate(440 5563.646)" fill="#676a6c"/>
+      </g>
+      <rect id="矩形_2203" data-name="矩形 2203" width="460" height="37.929" transform="translate(1285.432 2195.819)" fill="#eaf5fb"/>
+      <rect id="矩形_2204" data-name="矩形 2204" width="460.311" height="38.134" transform="translate(1285.121 2119.632)" fill="#eaf5fb"/>
+      <rect id="矩形_2205" data-name="矩形 2205" width="3" height="35.821" rx="1.5" transform="translate(1738.432 2080.436)" fill="#cfd1d3"/>
+      <path id="mouse-pointer-8" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1631.848 2132.914)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      <path id="路径_333" data-name="路径 333" d="M0,0H460" transform="translate(1285.432 2081.498)" fill="none" stroke="#e9eaeb" stroke-width="1"/>
+      <g id="组_3139" data-name="组 3139" transform="translate(421.121 -3797.522)">
+        <text id="A10000-董事長_室_2" data-name="A10000-董事長(室)" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10000-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">董事長</tspan><tspan y="0">(</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">室</tspan><tspan y="0">)</tspan></text>
+      </g>
+      <g id="组_3140" data-name="组 3140" transform="translate(450.742 -3840.505)">
+        <text id="全選-2" data-name="全選" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">全選</tspan></text>
+      </g>
+      <g id="矩形_2206" data-name="矩形 2206" transform="translate(1300.121 2092.632)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_3141" data-name="组 3141" transform="translate(421.121 -3758.383)">
+        <text id="A10001-稽核-2" data-name="A10001-稽核" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10001-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">稽核</tspan></text>
+      </g>
+      <g id="矩形_2207" data-name="矩形 2207" transform="translate(1300.121 2131.771)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_3142" data-name="组 3142" transform="translate(421.121 -3723.383)">
+        <text id="A10002-執行長_室_2" data-name="A10002-執行長(室)" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10002-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">執行長</tspan><tspan y="0">(</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">室</tspan><tspan y="0">)</tspan></text>
+      </g>
+      <g id="矩形_2208" data-name="矩形 2208" transform="translate(1300.121 2165.771)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_3143" data-name="组 3143" transform="translate(421.121 -3683.383)">
+        <text id="A10003-集團財務-4" data-name="A10003-集團財務" transform="translate(906 5905.154)" fill="#0069cb" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">A10003-</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI">集團財務</tspan></text>
+      </g>
+      <g id="矩形_2209" data-name="矩形 2209" transform="translate(1300.121 2206.771)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_3144" data-name="组 3144" transform="translate(421.121 -3645.383)">
+        <text id="A10004-集團財務-集團財務-2" data-name="A10004-集團財務-集團財務" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10004-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan><tspan y="0">-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan></text>
+      </g>
+      <g id="组_3145" data-name="组 3145" transform="translate(421.121 -3608.383)">
+        <text id="A10005-集團財務-轉投資會計-2" data-name="A10005-集團財務-轉投資會計" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10005-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan><tspan y="0">-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">轉投資會計</tspan></text>
+      </g>
+      <g id="组_3146" data-name="组 3146" transform="translate(421.121 -3569.383)">
+        <text id="A10006-集團財務-轉投資會計2-2" data-name="A10006-集團財務-轉投資會計2" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A10006-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">集團財務</tspan><tspan y="0">-</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">轉投資會計</tspan><tspan y="0">2</tspan></text>
+      </g>
+      <g id="矩形_2210" data-name="矩形 2210" transform="translate(1300.121 2244.771)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="矩形_2211" data-name="矩形 2211" transform="translate(1300.121 2281.771)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <g id="矩形_2212" data-name="矩形 2212" transform="translate(1300.121 2320.771)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="17" height="17" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="16" rx="3.5" fill="none"/>
+      </g>
+      <path id="check-4" data-name="check" d="M10.242,3.2a.578.578,0,0,1-.175.425L5.546,8.15,4.7,9a.6.6,0,0,1-.849,0L3,8.15.737,5.89a.6.6,0,0,1,0-.849l.849-.849a.578.578,0,0,1,.425-.175.578.578,0,0,1,.425.175L4.271,6.034l4.1-4.1a.6.6,0,0,1,.849,0l.849.849a.578.578,0,0,1,.175.425Z" transform="translate(1303.219 2209.016)" fill="#006cd0"/>
+      <g id="矩形_2213" data-name="矩形 2213" transform="translate(1300.121 2046.784)" fill="#fff" stroke="#adacbc" stroke-width="1">
+        <rect width="20" height="20" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" rx="3.5" fill="none"/>
+      </g>
+      <rect id="矩形_2214" data-name="矩形 2214" width="12" height="12" rx="2" transform="translate(1304.121 2050.784)" fill="#0069cb"/>
+      <path id="矩形_2215" data-name="矩形 2215" d="M6,0h8.128a0,0,0,0,1,0,0V458.811a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V6A6,6,0,0,1,6,0Z" transform="translate(1745.432 2031.522) rotate(90)" fill="#75cc68" opacity="0.51"/>
+      <rect id="矩形_2216" data-name="矩形 2216" width="14.128" height="458.811" transform="translate(1286.026 2081.708) rotate(-90)" fill="#75cc68" opacity="0.51"/>
+      <g id="组_3148" data-name="组 3148" transform="translate(583.121 -1348.228)">
+        <rect id="矩形_2196" data-name="矩形 2196" width="10" height="407.811" transform="translate(1151.811 3429.726) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+        <rect id="矩形_2197" data-name="矩形 2197" width="10" height="407.811" transform="translate(1151.811 3457.86) rotate(90)" fill="#ffdc89" opacity="0.46"/>
+        <rect id="矩形_2198" data-name="矩形 2198" width="10" height="38.134" transform="translate(744 3467.86) rotate(180)" fill="#ffdc89" opacity="0.46"/>
+        <rect id="矩形_2199" data-name="矩形 2199" width="10" height="38.134" transform="translate(1161.811 3467.86) rotate(180)" fill="#ffdc89" opacity="0.46"/>
+      </g>
+    </g>
+    <rect id="矩形_2154" data-name="矩形 2154" width="436.094" height="32.358" transform="translate(712.906 1597.281)" fill="#eaf5fb"/>
+    <path id="mouse-pointer-9" data-name="mouse-pointer" d="M12.061,11.1a.6.6,0,0,1,.149.734.637.637,0,0,1-.628.426H7.516l2.14,5.067a.665.665,0,0,1,0,.521.689.689,0,0,1-.362.373l-1.884.8a.665.665,0,0,1-.521,0,.689.689,0,0,1-.373-.362L4.482,13.85,1.16,17.172a.655.655,0,0,1-.479.2.662.662,0,0,1-.255-.053A.637.637,0,0,1,0,16.693V.681A.637.637,0,0,1,.426.053.662.662,0,0,1,.681,0,.633.633,0,0,1,1.16.2Z" transform="translate(1073.633 1610.563)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <g id="组_3093" data-name="组 3093" transform="translate(-20.379 -4317.154)">
+      <text id="A0550--15" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-15" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3100" data-name="组 3100" transform="translate(-182.999 -4317.99)">
+      <text id="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3101" data-name="组 3101" transform="translate(-182.999 -4286.99)">
+      <text id="資訊部-2" data-name="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3102" data-name="组 3102" transform="translate(-182.999 -4252.99)">
+      <text id="資訊部-3" data-name="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3103" data-name="组 3103" transform="translate(-182.999 -4222.99)">
+      <text id="資訊部-4" data-name="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3104" data-name="组 3104" transform="translate(-182.999 -4190.99)">
+      <text id="資訊部-5" data-name="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3105" data-name="组 3105" transform="translate(-182.999 -4156.99)">
+      <text id="資訊部-6" data-name="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3106" data-name="组 3106" transform="translate(-182.999 -4126.99)">
+      <text id="資訊部-7" data-name="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3107" data-name="组 3107" transform="translate(-182.999 -4097.318)">
+      <text id="資訊部-8" data-name="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3109" data-name="组 3109" transform="translate(-182.999 -4067.646)">
+      <text id="資訊部-9" data-name="資訊部" transform="translate(938 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">資訊部</tspan></text>
+    </g>
+    <g id="组_3094" data-name="组 3094" transform="translate(-20.379 -4286.154)">
+      <text id="A0550--16" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-16" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3095" data-name="组 3095" transform="translate(-20.379 -4252.154)">
+      <text id="A0550--17" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-17" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3096" data-name="组 3096" transform="translate(-20.379 -4221.918)">
+      <text id="A0550--18" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-18" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3097" data-name="组 3097" transform="translate(-20.379 -4190.154)">
+      <text id="A0550--19" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-19" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3098" data-name="组 3098" transform="translate(-20.379 -4157.154)">
+      <text id="A0550--20" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-20" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3099" data-name="组 3099" transform="translate(-20.379 -4126.154)">
+      <text id="A0550--21" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-21" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3108" data-name="组 3108" transform="translate(-20.379 -4096.482)">
+      <text id="A0550--22" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-22" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <g id="组_3110" data-name="组 3110" transform="translate(-20.379 -4066.811)">
+      <text id="A0550--23" data-name="A0550-" transform="translate(906 5905.154)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A0550-</tspan></text>
+      <text id="王大明-23" data-name="王大明" transform="translate(964 5905.99)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">王大明</tspan></text>
+    </g>
+    <path id="路径_331" data-name="路径 331" d="M0,0H443.8V36H0Z" transform="translate(1292.79 2070.503)" fill="#e9eaeb"/>
+    <text id="員工姓名-5" data-name="員工姓名" transform="translate(1397.411 2096.339)" fill="#707070" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">員工姓名</tspan></text>
+    <g id="矩形_2172" data-name="矩形 2172" transform="translate(1368.311 2105.906)" fill="none" stroke="#006cd0" stroke-width="1">
+      <rect width="367.97" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="366.97" height="35" fill="none"/>
+    </g>
+    <line id="直线_611" data-name="直线 611" x2="38.186" transform="translate(679.777 2748.972)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_618" data-name="直线 618" x2="38.186" transform="translate(679.777 4033.695)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_613" data-name="直线 613" x2="38.186" transform="translate(679.777 2646.972)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_619" data-name="直线 619" x2="38.186" transform="translate(679.777 3933.695)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_614" data-name="直线 614" x2="38.186" transform="translate(679.777 2686.972)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_620" data-name="直线 620" x2="38.186" transform="translate(698.87 4003.654)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_612" data-name="直线 612" x2="38.186" transform="translate(679.777 2810.972)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_621" data-name="直线 621" x2="38.186" transform="translate(679.777 4107.694)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_615" data-name="直线 615" x2="38.186" transform="translate(679.777 2922.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_622" data-name="直线 622" x2="38.186" transform="translate(679.777 3976.195)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="background-color_:_EAF5FB_" data-name="background-color : #EAF5FB;" transform="translate(802.656 2753.472)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">background-color : #EAF5FB;</tspan></text>
+    <text id="background-color_:_EAF5FB_2" data-name="background-color : #EAF5FB;" transform="translate(802.656 4038.195)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">background-color : #EAF5FB;</tspan></text>
+    <text id="background-color_:_E9EAEB_" data-name="background-color : #E9EAEB;" transform="translate(733.156 2653.972)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">background-color : #E9EAEB;</tspan></text>
+    <text id="background-color_:_F8F8F8_" data-name="background-color : #F8F8F8;" transform="translate(733.156 2691.472)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">background-color : #F8F8F8;</tspan></text>
+    <text id="color_0069CB_font-weight_bolder_" data-name="color：#0069CB;
+font-weight：bolder;" transform="translate(802.656 2815.472)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">color</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">#0069CB;</tspan><tspan x="0" y="24">font-weight</tspan><tspan y="24" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="24">bolder;</tspan></text>
+    <text id="color_0069CB_font-weight_bolder_2" data-name="color：#0069CB;
+font-weight：bolder;" transform="translate(802.656 4112.194)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">color</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">#0069CB;</tspan><tspan x="0" y="24">font-weight</tspan><tspan y="24" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="24">bolder;</tspan></text>
+    <text id="border_1px_solid_dedede" data-name="border：1px solid #dedede" transform="translate(730.156 2930)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">border</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">1px solid #dedede</tspan></text>
+    <text id="border_1px_solid_dedede-2" data-name="border：1px solid #dedede" transform="translate(730.156 3983.695)" fill="#676a6c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">border</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">1px solid #dedede</tspan></text>
+    <text id="hover-5" data-name="hover" transform="translate(730.156 2753.472)" fill="#676a6c" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">hover</tspan></text>
+    <text id="hover-6" data-name="hover" transform="translate(730.156 4038.195)" fill="#676a6c" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">hover</tspan></text>
+    <text id="注意事項" transform="translate(1113.346 2549.472)" fill="#676a6c" font-size="18" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">注意事項</tspan></text>
+    <text id="注意事項-2" data-name="注意事項" transform="translate(1113.346 3849.195)" fill="#676a6c" font-size="18" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">注意事項</tspan></text>
+    <text id="Click-4" data-name="Click" transform="translate(730.156 2815.472)" fill="#676a6c" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Click</tspan></text>
+    <text id="Click-5" data-name="Click" transform="translate(730.156 4112.194)" fill="#676a6c" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Click</tspan></text>
+    <rect id="矩形_2175" data-name="矩形 2175" width="110" height="31" transform="translate(1185.346 2562)" fill="#f14c41" opacity="0.25"/>
+    <rect id="矩形_2192" data-name="矩形 2192" width="110" height="31" transform="translate(1185.346 3861.722)" fill="#f14c41" opacity="0.25"/>
+    <rect id="矩形_2176" data-name="矩形 2176" width="202" height="31" transform="translate(1473.346 2562)" fill="#f14c41" opacity="0.25"/>
+    <rect id="矩形_2193" data-name="矩形 2193" width="202" height="31" transform="translate(1473.346 3861.722)" fill="#f14c41" opacity="0.25"/>
+    <rect id="矩形_2338" data-name="矩形 2338" width="428" height="31" transform="translate(1118.346 4015.694)" fill="#f14c41" opacity="0.25"/>
+    <text id="只要使用多選下拉選單_標題旁邊一定要加上_已選擇_使用者選擇數量_範例如下_" data-name="只要使用多選下拉選單，標題旁邊一定要加上(已選擇[使用者選擇數量])，範例如下：" transform="translate(1113.346 2585.522)" fill="#676a6c" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">只要使用多選下拉選單，標題旁邊一定要加上</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">(</tspan><tspan y="0">已選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">[</tspan><tspan y="0">使用者選擇數量</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">])</tspan><tspan y="0">，範例如下：</tspan></text>
+    <text id="只要使用多選下拉選單_標題旁邊一定要加上_已選擇_使用者選擇數量_範例如下_2" data-name="只要使用多選下拉選單，標題旁邊一定要加上(已選擇[使用者選擇數量])，範例如下：" transform="translate(1113.346 3885.244)" fill="#676a6c" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">只要使用多選下拉選單，標題旁邊一定要加上</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">(</tspan><tspan y="0">已選擇</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">[</tspan><tspan y="0">使用者選擇數量</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">])</tspan><tspan y="0">，範例如下：</tspan></text>
+    <text id="呈現時只需要顯示三個標籤_第四個要顯示更多標籤" data-name="呈現時只需要顯示三個標籤，第四個要顯示更多標籤" transform="translate(1124.346 4038.195)" fill="#676a6c" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">呈現時只需要顯示三個標籤，第四個要顯示更多標籤</tspan></text>
+    <rect id="矩形_2219" data-name="矩形 2219" width="143.896" height="21.5" transform="translate(723.104 3992.904)" fill="#ffefc9"/>
+    <text id="padding_8px" data-name="padding：8px" transform="translate(732.104 4010.695)" fill="#676a6c" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">padding</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">：</tspan><tspan y="0">8px</tspan></text>
+  </g>
+</svg>

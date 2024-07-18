@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1197" viewBox="0 0 1920 1197">
+  <defs>
+    <clipPath id="clip-Color">
+      <rect width="1920" height="1197"/>
+    </clipPath>
+  </defs>
+  <g id="Color" clip-path="url(#clip-Color)">
+    <rect width="1920" height="1197" fill="#fff"/>
+    <rect id="矩形_1748" data-name="矩形 1748" width="1920" height="200" fill="#c4efff" opacity="0.5"/>
+    <text id="Color-2" data-name="Color" transform="translate(106 131)" fill="#45494d" font-size="75" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Color</tspan></text>
+    <rect id="矩形_1707" data-name="矩形 1707" width="585" height="42" transform="translate(1014 322)" fill="#38bee2"/>
+    <rect id="矩形_1705" data-name="矩形 1705" width="160" height="42" transform="translate(110 323)" fill="#003f98"/>
+    <rect id="矩形_1709" data-name="矩形 1709" width="160" height="42" transform="translate(323 322)" fill="#006cd0"/>
+    <rect id="矩形_1708" data-name="矩形 1708" width="160" height="42" transform="translate(1227.001 429)" fill="#eaf5fb"/>
+    <path id="路径_262" data-name="路径 262" d="M0,0H160V42H0Z" transform="translate(1438.999 429)" fill="#f0f6fb"/>
+    <path id="路径_264" data-name="路径 264" d="M0,0H160V42H0Z" transform="translate(1014 429)" fill="#ddebf8"/>
+    <path id="路径_269" data-name="路径 269" d="M0,0H160V42H0Z" transform="translate(533 724)" fill="#f14c41"/>
+    <path id="路径_303" data-name="路径 303" d="M0,0H160V42H0Z" transform="translate(110 991)" fill="#fe8240"/>
+    <path id="路径_273" data-name="路径 273" d="M0,0H160V42H0Z" transform="translate(110 725)" fill="#75cc68"/>
+    <path id="路径_270" data-name="路径 270" d="M0,0H160V42H0Z" transform="translate(746 724)" fill="#fff2f1"/>
+    <text id="_eaf5fb" data-name="#eaf5fb" transform="translate(1230 506)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#eaf5fb</tspan></text>
+    <text id="_FFF2F1" data-name="#FFF2F1" transform="translate(746 802)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#FFF2F1</tspan></text>
+    <text id="_f0f6fb" data-name="#f0f6fb" transform="translate(1439 506)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#f0f6fb</tspan></text>
+    <text id="_ddebf8" data-name="#ddebf8" transform="translate(1014 506)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#ddebf8</tspan></text>
+    <text id="_F14C41" data-name="#F14C41" transform="translate(533 802)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#F14C41</tspan></text>
+    <text id="_FE8240" data-name="#FE8240" transform="translate(110 1069)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#FE8240</tspan></text>
+    <text id="_75CC68" data-name="#75CC68" transform="translate(110 803)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#75CC68</tspan></text>
+    <text id="_02B2E1" data-name="#02B2E1" transform="translate(1014 400)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#02B2E1</tspan></text>
+    <text id="_003f98" data-name="#003f98" transform="translate(110 401)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#003f98</tspan></text>
+    <text id="_006CD0" data-name="#006CD0" transform="translate(323 400)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#006CD0</tspan></text>
+    <text id="primary" transform="translate(110 293)" fill="#45494d" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">primary</tspan></text>
+    <text id="secondary" transform="translate(1014 293)" fill="#45494d" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">secondary</tspan></text>
+    <text id="Error_Message" data-name="Error Message" transform="translate(533 687)" fill="#45494d" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Error Message</tspan></text>
+    <text id="Warning_Message" data-name="Warning Message" transform="translate(110 954)" fill="#45494d" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Warning Message</tspan></text>
+    <text id="Success_Message" data-name="Success Message" transform="translate(110 688)" fill="#45494d" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Success Message</tspan></text>
+    <path id="路径_263" data-name="路径 263" d="M0,0H796V42H0Z" transform="translate(1014 712)" fill="#676a6c"/>
+    <rect id="矩形_1711" data-name="矩形 1711" width="160" height="42" transform="translate(1014 841)" fill="#7e8299"/>
+    <rect id="矩形_1712" data-name="矩形 1712" width="170" height="42" transform="translate(1223 841)" fill="#adacbc"/>
+    <rect id="矩形_1713" data-name="矩形 1713" width="160" height="42" transform="translate(1441 841)" fill="#dee2e6"/>
+    <rect id="矩形_2098" data-name="矩形 2098" width="160" height="42" transform="translate(1441 954)" fill="#f8f8f8"/>
+    <g id="矩形_1750" data-name="矩形 1750" transform="translate(1650 841)" fill="#fff" stroke="#adacbc" stroke-width="1">
+      <rect width="160" height="42" stroke="none"/>
+      <rect x="0.5" y="0.5" width="159" height="41" fill="none"/>
+    </g>
+    <text id="_676A6C" data-name="#676A6C" transform="translate(1014 790)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#676A6C</tspan></text>
+    <text id="_7E8299" data-name="#7E8299" transform="translate(1014 919)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#7E8299</tspan></text>
+    <text id="_adacbc" data-name="#adacbc" transform="translate(1223 919)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#adacbc</tspan></text>
+    <text id="_dee2e6" data-name="#dee2e6" transform="translate(1441 919)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#dee2e6</tspan></text>
+    <text id="_F8F8F8" data-name="#F8F8F8" transform="translate(1441 1044)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#F8F8F8</tspan></text>
+    <text id="_ffffff" data-name="#ffffff" transform="translate(1650 919)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#ffffff</tspan></text>
+    <text id="gray" transform="translate(1014 674)" fill="#45494d" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">gray</tspan></text>
+    <path id="路径_312" data-name="路径 312" d="M0,0H160V42H0Z" transform="translate(323 725)" fill="#e3f7eb"/>
+    <text id="_E3F7EB" data-name="#E3F7EB" transform="translate(323 803)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#E3F7EB</tspan></text>
+    <path id="路径_311" data-name="路径 311" d="M0,0H160V42H0Z" transform="translate(323 988)" fill="#ffefe6"/>
+    <text id="_FFEFE6" data-name="#FFEFE6" transform="translate(323 1066)" fill="#45494d" font-size="32" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">#FFEFE6</tspan></text>
+    <text id="https:_xd.adobe.com_view_1de191a5-ce16-4ea5-8a05-647431bee4dc-48b2_" data-name="https://xd.adobe.com/view/1de191a5-ce16-4ea5-8a05-647431bee4dc-48b2/" transform="translate(1157 -208)" fill="#707070" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="22">https://xd.adobe.com/</tspan><tspan x="0" y="49">view/1de191a5-</tspan><tspan x="0" y="76">ce16-4ea5-8a05-647431bee4dc-4</tspan><tspan x="0" y="103">8b2/</tspan></text>
+  </g>
+</svg>
